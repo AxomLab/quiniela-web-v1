@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "ultimaActualizacion": "01 Jun 2026, 11:00",
+    "totalParticipantes": 12,
+    "partidosJugados": 18,
+    "partidosPendientes": 46
+  },
+  "partidos": [
+    {
+      "PartidoID": "P1",
+      "Fecha": "15 junio",
+      "Hora": "18:00 hrs",
+      "Grupo": "Grupo A",
+      "Local": "México",
+      "Visitante": "Sudáfrica",
+      "ResultadoReal": "",
+      "Estado": "Pendiente",
+      "ResultadoTexto": "",
+      "Revision": "No"
+    },
+    {
+      "PartidoID": "P2",
+      "Fecha": "16 junio",
+      "Hora": "15:00 hrs",
+      "Grupo": "Grupo A",
+      "Local": "Francia",
+      "Visitante": "Marruecos",
+      "ResultadoReal": "E",
+      "Estado": "Finalizado",
+      "ResultadoTexto": "1 - 1",
+      "Revision": "Sí"
+    },
+    {
+      "PartidoID": "P3",
+      "Fecha": "17 junio",
+      "Hora": "20:00 hrs",
+      "Grupo": "Grupo B",
+      "Local": "Argentina",
+      "Visitante": "Arabia Saudita",
+      "ResultadoReal": "L",
+      "Estado": "Finalizado",
+      "ResultadoTexto": "2 - 1",
+      "Revision": "Sí"
+    }
+  ],
+  "participantes": [
+    {
+      "ParticipanteID": "PART01",
+      "Nombre": "Juan Pérez",
+      "Alias": "El Profe",
+      "Avatar": "elprofe.png",
+      "Color": "#ff2d78",
+      "Activo": "Sí",
+      "Puntos": 42,
+      "Aciertos": 14,
+      "PartidosJugados": 18,
+      "Porcentaje": 77.8,
+      "Posicion": 1,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART02",
+      "Nombre": "María López",
+      "Alias": "La Bruja",
+      "Avatar": "la-bruja.png",
+      "Color": "#00d4ff",
+      "Activo": "Sí",
+      "Puntos": 39,
+      "Aciertos": 13,
+      "PartidosJugados": 18,
+      "Porcentaje": 72.2,
+      "Posicion": 2,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART03",
+      "Nombre": "Guillermo Ruiz",
+      "Alias": "Tío Memo",
+      "Avatar": "tio-memo.png",
+      "Color": "#ffc107",
+      "Activo": "Sí",
+      "Puntos": 36,
+      "Aciertos": 12,
+      "PartidosJugados": 18,
+      "Porcentaje": 66.7,
+      "Posicion": 3,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART04",
+      "Nombre": "Leticia Gómez",
+      "Alias": "Doña Lety",
+      "Avatar": "dona-lety.png",
+      "Color": "#00e676",
+      "Activo": "Sí",
+      "Puntos": 33,
+      "Aciertos": 11,
+      "PartidosJugados": 18,
+      "Porcentaje": 61.1,
+      "Posicion": 4,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART05",
+      "Nombre": "Carlos Sánchez",
+      "Alias": "El Charly",
+      "Avatar": "el-charly.png",
+      "Color": "#ff9100",
+      "Activo": "Sí",
+      "Puntos": 30,
+      "Aciertos": 10,
+      "PartidosJugados": 18,
+      "Porcentaje": 55.6,
+      "Posicion": 5,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART06",
+      "Nombre": "Guadalupe Torres",
+      "Alias": "Lupita",
+      "Avatar": "lupita.png",
+      "Color": "#b44dff",
+      "Activo": "Sí",
+      "Puntos": 27,
+      "Aciertos": 9,
+      "PartidosJugados": 18,
+      "Porcentaje": 50.0,
+      "Posicion": 6,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART07",
+      "Nombre": "Alberto Rodríguez",
+      "Alias": "El Inge",
+      "Avatar": "el-inge.png",
+      "Color": "#ff6b6b",
+      "Activo": "Sí",
+      "Puntos": 24,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 44.4,
+      "Posicion": 7,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART08",
+      "Nombre": "Francisco Martínez",
+      "Alias": "Panchito",
+      "Avatar": "panchito.png",
+      "Color": "#4ecdc4",
+      "Activo": "Sí",
+      "Puntos": 21,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 38.9,
+      "Posicion": 8,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART09",
+      "Nombre": "Gabriela Fernández",
+      "Alias": "La Güera",
+      "Avatar": "la-guera.png",
+      "Color": "#45b7d1",
+      "Activo": "Sí",
+      "Puntos": 15,
+      "Aciertos": 5,
+      "PartidosJugados": 18,
+      "Porcentaje": 27.8,
+      "Posicion": 9,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART10",
+      "Nombre": "Rafael Castro",
+      "Alias": "Don Rafa",
+      "Avatar": "don-rafa.png",
+      "Color": "#f7dc6f",
+      "Activo": "Sí",
+      "Puntos": 12,
+      "Aciertos": 4,
+      "PartidosJugados": 18,
+      "Porcentaje": 22.2,
+      "Posicion": 10,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART11",
+      "Nombre": "Antonio Morales",
+      "Alias": "Toño",
+      "Avatar": "tono.png",
+      "Color": "#bb8fce",
+      "Activo": "Sí",
+      "Puntos": 9,
+      "Aciertos": 3,
+      "PartidosJugados": 18,
+      "Porcentaje": 16.7,
+      "Posicion": 11,
+      "Revision": "OK"
+    },
+    {
+      "ParticipanteID": "PART12",
+      "Nombre": "Fernando Díaz",
+      "Alias": "El Nuevo",
+      "Avatar": "el-nuevo.png",
+      "Color": "#82e0aa",
+      "Activo": "Sí",
+      "Puntos": 6,
+      "Aciertos": 2,
+      "PartidosJugados": 18,
+      "Porcentaje": 11.1,
+      "Posicion": 12,
+      "Revision": "OK"
+    }
+  ],
+  "pronosticos": [
+    {
+      "ParticipanteID": "PART01",
+      "Nombre": "Juan Pérez",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART02",
+      "Nombre": "María López",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART03",
+      "Nombre": "Guillermo Ruiz",
+      "PartidoID": "P1",
+      "Pronostico": "E",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART04",
+      "Nombre": "Leticia Gómez",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART05",
+      "Nombre": "Carlos Sánchez",
+      "PartidoID": "P1",
+      "Pronostico": "V",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART06",
+      "Nombre": "Guadalupe Torres",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART07",
+      "Nombre": "Alberto Rodríguez",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART08",
+      "Nombre": "Francisco Martínez",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART09",
+      "Nombre": "Gabriela Fernández",
+      "PartidoID": "P1",
+      "Pronostico": "E",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART10",
+      "Nombre": "Rafael Castro",
+      "PartidoID": "P1",
+      "Pronostico": "V",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART11",
+      "Nombre": "Antonio Morales",
+      "PartidoID": "P1",
+      "Pronostico": "E",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART12",
+      "Nombre": "Fernando Díaz",
+      "PartidoID": "P1",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Pendiente"
+    },
+    {
+      "ParticipanteID": "PART01",
+      "Nombre": "Juan Pérez",
+      "PartidoID": "P2",
+      "Pronostico": "E",
+      "Punto": 1,
+      "Validacion": "Validado"
+    },
+    {
+      "ParticipanteID": "PART02",
+      "Nombre": "María López",
+      "PartidoID": "P2",
+      "Pronostico": "E",
+      "Punto": 1,
+      "Validacion": "Validado"
+    },
+    {
+      "ParticipanteID": "PART03",
+      "Nombre": "Guillermo Ruiz",
+      "PartidoID": "P2",
+      "Pronostico": "L",
+      "Punto": 0,
+      "Validacion": "Validado"
+    },
+    {
+      "ParticipanteID": "PART04",
+      "Nombre": "Leticia Gómez",
+      "PartidoID": "P2",
+      "Pronostico": "V",
+      "Punto": 0,
+      "Validacion": "Validado"
+    }
+  ]
+}
