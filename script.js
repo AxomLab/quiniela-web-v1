@@ -241,7 +241,7 @@ function renderStatsRapidos() {
   var activos = participantes.filter(function (p) { return p.activo; }).length;
   var jugados = metadata.partidosJugados || 0;
   var pendientes = metadata.partidosPendientes || 0;
-  var ultimaAct = metadata.ultimaActualizacion || '';
+  var ultimaAct = formatearFechaCDMX(metadata.ultimaActualizacion) || '';
 
   var items = [
     { icon: '👥', value: activos,     label: 'Participantes' },
