@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-03T18:18:14.215Z",
+    "ultimaActualizacion": "2026-06-03T18:23:45.316Z",
     "totalParticipantes": 20,
     "participantesActivos": 5,
     "partidosJugados": 5,
@@ -18,9 +18,9 @@
       "Grupo": "A",
       "Local": "México",
       "Visitante": "Sudáfrica",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Estado": "Jugado",
-      "ResultadoTexto": "México",
+      "ResultadoTexto": "Sudáfrica",
       "Revision": "OK"
     },
     {
@@ -31,9 +31,9 @@
       "Grupo": "A",
       "Local": "Corea del Sur",
       "Visitante": "Rep. Checa",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Estado": "Jugado",
-      "ResultadoTexto": "Corea del Sur",
+      "ResultadoTexto": "Rep. Checa",
       "Revision": "OK"
     },
     {
@@ -44,9 +44,9 @@
       "Grupo": "B",
       "Local": "Canadá",
       "Visitante": "Bosnia y Herz.",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Estado": "Jugado",
-      "ResultadoTexto": "Canadá",
+      "ResultadoTexto": "Bosnia y Herz.",
       "Revision": "OK"
     },
     {
@@ -57,9 +57,9 @@
       "Grupo": "D",
       "Local": "Estados Unidos",
       "Visitante": "Paraguay",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Estado": "Jugado",
-      "ResultadoTexto": "Estados Unidos",
+      "ResultadoTexto": "Paraguay",
       "Revision": "OK"
     },
     {
@@ -70,9 +70,9 @@
       "Grupo": "B",
       "Local": "Qatar",
       "Visitante": "Suiza",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Estado": "Jugado",
-      "ResultadoTexto": "Qatar",
+      "ResultadoTexto": "Suiza",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "juan.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
+      "Puntos": 5,
+      "Aciertos": 5,
       "PartidosJugados": 5,
-      "Porcentaje": 0,
-      "Posicion": 3,
+      "Porcentaje": 1,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
+      "Puntos": 1,
+      "Aciertos": 1,
       "PartidosJugados": 5,
-      "Porcentaje": 0.6,
-      "Posicion": 1,
+      "Porcentaje": 0.2,
+      "Posicion": 3,
       "Revision": "REVISAR"
     },
     {
@@ -986,10 +986,10 @@
       "Avatar": "",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
+      "Puntos": 3,
+      "Aciertos": 3,
       "PartidosJugados": 5,
-      "Porcentaje": 0.2,
+      "Porcentaje": 0.6,
       "Posicion": 2,
       "Revision": "REVISAR"
     },
@@ -1005,7 +1005,7 @@
       "Aciertos": 0,
       "PartidosJugados": 5,
       "Porcentaje": 0,
-      "Posicion": 3,
+      "Posicion": 4,
       "Revision": "REVISAR"
     },
     {
@@ -1020,7 +1020,7 @@
       "Aciertos": 0,
       "PartidosJugados": 5,
       "Porcentaje": 0,
-      "Posicion": 3,
+      "Posicion": 4,
       "Revision": "REVISAR"
     }
   ],
@@ -1031,9 +1031,9 @@
       "Nombre": "Juan",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1042,9 +1042,9 @@
       "Nombre": "Juan",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1053,9 +1053,9 @@
       "Nombre": "Juan",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1064,9 +1064,9 @@
       "Nombre": "Juan",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1075,9 +1075,9 @@
       "Nombre": "Juan",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1824,8 +1824,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "L",
-      "Punto": 1,
+      "ResultadoReal": "V",
+      "Punto": 0,
       "Validacion": "OK"
     },
     {
@@ -1835,8 +1835,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "V",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1846,7 +1846,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1857,8 +1857,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "L",
-      "Punto": 1,
+      "ResultadoReal": "V",
+      "Punto": 0,
       "Validacion": "OK"
     },
     {
@@ -1868,8 +1868,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "L",
-      "ResultadoReal": "L",
-      "Punto": 1,
+      "ResultadoReal": "V",
+      "Punto": 0,
       "Validacion": "OK"
     },
     {
@@ -2616,8 +2616,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "L",
-      "Punto": 1,
+      "ResultadoReal": "V",
+      "Punto": 0,
       "Validacion": "OK"
     },
     {
@@ -2627,7 +2627,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2637,9 +2637,9 @@
       "Nombre": "Cyn",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2648,9 +2648,9 @@
       "Nombre": "Cyn",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "E",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "Pronostico": "V",
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2660,8 +2660,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "L",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3408,7 +3408,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -3419,7 +3419,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -3430,7 +3430,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -3441,7 +3441,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -3452,7 +3452,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4200,7 +4200,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4211,7 +4211,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4222,7 +4222,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4233,7 +4233,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4244,7 +4244,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -4992,7 +4992,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5003,7 +5003,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5014,7 +5014,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5025,7 +5025,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5036,7 +5036,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5784,7 +5784,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5795,7 +5795,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5806,7 +5806,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5817,7 +5817,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -5828,7 +5828,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -6576,7 +6576,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -6587,7 +6587,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -6598,7 +6598,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -6609,7 +6609,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -6620,7 +6620,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -7368,7 +7368,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -7379,7 +7379,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -7390,7 +7390,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -7401,7 +7401,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -7412,7 +7412,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8160,7 +8160,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8171,7 +8171,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8182,7 +8182,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8193,7 +8193,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8204,7 +8204,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8952,7 +8952,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8963,7 +8963,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8974,7 +8974,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8985,7 +8985,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -8996,7 +8996,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -9744,7 +9744,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -9755,7 +9755,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -9766,7 +9766,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -9777,7 +9777,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -9788,7 +9788,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10536,7 +10536,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10547,7 +10547,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10558,7 +10558,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10569,7 +10569,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10580,7 +10580,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11328,7 +11328,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11339,7 +11339,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11350,7 +11350,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11361,7 +11361,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11372,7 +11372,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12120,7 +12120,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12131,7 +12131,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12142,7 +12142,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12153,7 +12153,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12164,7 +12164,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12912,7 +12912,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12923,7 +12923,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12934,7 +12934,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12945,7 +12945,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12956,7 +12956,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13704,7 +13704,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13715,7 +13715,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13726,7 +13726,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13737,7 +13737,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13748,7 +13748,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14496,7 +14496,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14507,7 +14507,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14518,7 +14518,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14529,7 +14529,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14540,7 +14540,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15288,7 +15288,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15299,7 +15299,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15310,7 +15310,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15321,7 +15321,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15332,7 +15332,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16080,7 +16080,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16091,7 +16091,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16102,7 +16102,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16113,7 +16113,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16124,7 +16124,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "L",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
