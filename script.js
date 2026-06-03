@@ -556,10 +556,51 @@ function mostrarError(err) {
   }
 }
 
+function formatearFechaCDMX(valor) {
+  if (!valor) return '';
+
+  var fecha = new Date(valor);
+
+  if (isNaN(fecha.getTime())) {
+    return valor;
+  }
+
+  return fecha.toLocaleString('es-MX', {
+    timeZone: 'America/Mexico_City',
+    day: '2-digit',
+    month: 'short',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: true
+  });
+}
+
+function formatearFechaCDMX(valor) {
+  if (!valor) return '';
+
+  var fecha = new Date(valor);
+
+  if (isNaN(fecha.getTime())) {
+    return valor;
+  }
+
+  return fecha.toLocaleString('es-MX', {
+    timeZone: 'America/Mexico_City',
+    day: '2-digit',
+    month: 'short',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: true
+  });
+}
+
 function mostrarIndicadorActualizacion() {
   var sub = document.querySelector('.header-subtitle');
   if (sub && metadata.ultimaActualizacion) {
-    var updateText = ' · 🕐 Datos actualizados: ' + metadata.ultimaActualizacion;
+    var fechaFormateada = formatearFechaCDMX(metadata.ultimaActualizacion);
+    var updateText = ' · 🕐 Datos actualizados: ' + fechaFormateada + ' CDMX';
     var existing = sub.querySelector('.update-indicator');
     if (!existing) {
       var span = document.createElement('span');
