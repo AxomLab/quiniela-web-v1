@@ -653,7 +653,7 @@ function procesarDatosJSON(data) {
 }
 
 function cargarDatos() {
-  fetch('data/quiniela.json')
+  fetch('data/quiniela.json?v=' + Date.now(), { cache: 'no-store' })
     .then(function (res) {
       if (!res.ok) {
         throw new Error("HTTP error " + res.status);
