@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-03T18:23:45.316Z",
+    "ultimaActualizacion": "2026-06-03T18:41:36.391Z",
     "totalParticipantes": 20,
     "participantesActivos": 5,
     "partidosJugados": 5,
@@ -952,7 +952,7 @@
       "row_number": 2,
       "ParticipanteID": 1,
       "Nombre": "Juan",
-      "Alias": "El Fuckin’ Amo",
+      "Alias": "Juan",
       "Avatar": "juan.png",
       "Color": "#E53935",
       "Activo": "Sí",
