@@ -1,7 +1,14 @@
 /* ============================================================
-   QUINIELA MUNDIALISTA 2026 — SCRIPT ESTABLE v8
+   QUINIELA MUNDIALISTA 2026 — SCRIPT ESTABLE v8.2
    Mantiene contrato JSON:
    metadata, partidos, participantes, pronosticos, validaciones
+
+   Cambios v8.2:
+   - Corrige porcentaje visual:
+     porcentaje = aciertos / partidosJugados * 100
+   - Muestra porcentaje sin decimales.
+   - Mejora frases dinámicas de "Datos al azar".
+   - Mejora contenido de "Partido caliente".
    ============================================================ */
 
 const DATA_URL = 'data/quiniela.json?v=' + Date.now();
@@ -63,19 +70,25 @@ function normalizarParticipantes(rows) {
       const activo = String(p.Activo || '').trim().toLowerCase();
       return activo === 'sí' || activo === 'si';
     })
-    .map((p, index) => ({
-      id: p.ParticipanteID ?? p.participanteID ?? index + 1,
-      nombre: String(p.Nombre || '').trim(),
-      alias: String(p.Alias || p.Nombre || `Participante ${index + 1}`).trim(),
-      avatar: String(p.Avatar || '').trim(),
-      color: String(p.Color || '').trim() || colorPorIndice(index),
-      puntos: numero(p.Puntos),
-      aciertos: numero(p.Aciertos),
-      jugados: numero(p.PartidosJugados),
-      porcentaje: calcularPorcentaje(numero(p.Aciertos), numero(p.PartidosJugados)),
-      posicion: numero(p.Posicion) || index + 1,
-      raw: p
-    }))
+    .map((p, index) => {
+      const aciertos = numero(p.Aciertos);
+      const jugados = numero(p.PartidosJugados);
+      const porcentajeCalculado = calcularPorcentaje(aciertos, jugados);
+
+      return {
+        id: p.ParticipanteID ?? p.participanteID ?? index + 1,
+        nombre: String(p.Nombre || '').trim(),
+        alias: String(p.Alias || p.Nombre || `Participante ${index + 1}`).trim(),
+        avatar: String(p.Avatar || '').trim(),
+        color: String(p.Color || '').trim() || colorPorIndice(index),
+        puntos: numero(p.Puntos),
+        aciertos,
+        jugados,
+        porcentaje: porcentajeCalculado,
+        posicion: numero(p.Posicion) || index + 1,
+        raw: p
+      };
+    })
     .sort((a, b) => {
       if (b.puntos !== a.puntos) return b.puntos - a.puntos;
       if (b.aciertos !== a.aciertos) return b.aciertos - a.aciertos;
@@ -84,15 +97,15 @@ function normalizarParticipantes(rows) {
     .map((p, index) => ({ ...p, posicionVisual: index + 1 }));
 }
 
+function calcularPorcentaje(aciertos, jugados) {
+  if (!jugados || jugados <= 0) return 0;
+  return Math.round((aciertos / jugados) * 100);
+}
+
 function numero(value) {
   if (value === null || value === undefined || value === '') return 0;
   const n = Number(String(value).replace('%', '').replace(',', '.'));
   return Number.isFinite(n) ? n : 0;
-}
-
-function calcularPorcentaje(aciertos, jugados) {
-  if (!jugados || jugados <= 0) return 0;
-  return Math.round((aciertos / jugados) * 100);
 }
 
 function colorPorIndice(i) {
@@ -327,7 +340,7 @@ function renderPartidoCaliente() {
     { nombre: visitante, votos: conteo.visitante }
   ];
 
-  const favorito = opciones.sort((a, b) => b.votos - a.votos)[0];
+  const favorito = [...opciones].sort((a, b) => b.votos - a.votos)[0];
 
   let frase = 'Todavía no hay suficientes pronósticos para medir el ambiente. El misterio sigue vivo. 🕵️';
 
@@ -345,11 +358,7 @@ function renderPartidoCaliente() {
         <div><strong>${escapeHtml(visitante)}</strong></div>
       </div>
 
-     <div class="match-teams">
-  <div><strong>${escapeHtml(local)}</strong></div>
-  <span>vs</span>
-  <div><strong>${escapeHtml(visitante)}</strong></div>
-</div>
+      <p class="match-hype">${frase}</p>
 
       ${renderVoteBar(local, conteo.local, total)}
       ${renderVoteBar('Empate', conteo.empate, total)}
@@ -357,6 +366,18 @@ function renderPartidoCaliente() {
     </div>
   `;
 }
+
+function renderVoteBar(label, count, total) {
+  const pct = Math.round((count / total) * 100);
+  return `
+    <div class="vote-row">
+      <span>${escapeHtml(label)}</span>
+      <div class="vote-track"><div style="width:${pct}%"></div></div>
+      <strong>${count}</strong>
+    </div>
+  `;
+}
+
 function renderDatoLoco() {
   const el = $('dato-loco');
   if (!el) return;
@@ -383,7 +404,7 @@ function renderDatoLoco() {
 
   if (lider && cola && lider.puntos > cola.puntos) {
     const ventaja = lider.puntos - cola.puntos;
-    frases.push(`${escapeHtml(lider.alias)} le saca ${ventaja} pts al fondo de la tabla. La presión ya se siente. 😬`);
+    frases.push(`${escapeHtml(lider.alias)} le saca ${ventaja} pts al último lugar. La presión ya empezó. 😬`);
   }
 
   if (perfectos.length === 1) {
@@ -427,4 +448,111 @@ function renderDatoLoco() {
       <p>${texto}</p>
     </div>
   `;
+}
+
+function renderRanking() {
+  renderRankingDesktop();
+  renderRankingMobile();
+}
+
+function renderRankingDesktop() {
+  const el = $('ranking-desktop');
+  if (!el) return;
+
+  el.innerHTML = `
+    <table class="ranking-table">
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th>Participante</th>
+          <th>Puntos</th>
+          <th>Aciertos</th>
+          <th>Jugados</th>
+          <th>%</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${participantes.map(p => `
+          <tr>
+            <td><span class="table-rank">${p.posicionVisual}</span></td>
+            <td class="participant-cell">${renderMiniAvatar(p)} <strong>${escapeHtml(p.alias)}</strong></td>
+            <td>${p.puntos}</td>
+            <td>${p.aciertos}</td>
+            <td>${p.jugados}</td>
+            <td>${p.porcentaje}%</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+}
+
+function renderRankingMobile() {
+  const el = $('ranking-mobile');
+  if (!el) return;
+
+  el.innerHTML = participantes.map(p => `
+    <div class="mobile-card">
+      <div>${renderMiniAvatar(p)} <strong>${escapeHtml(p.alias)}</strong></div>
+      <span>${p.puntos} pts · ${p.aciertos} aciertos · ${p.porcentaje}%</span>
+    </div>
+  `).join('');
+}
+
+function renderResumen() {
+  const el = $('resumen');
+  if (!el) return;
+
+  const metadata = appData.metadata || {};
+  const lider = participantes[0];
+
+  const cards = [
+    { icon: '🏆', value: lider ? lider.alias : '-', label: 'Líder actual' },
+    { icon: '⚽', value: metadata.partidosJugados ?? contarPartidosJugados(), label: 'Partidos jugados' },
+    { icon: '🎯', value: participantes.length ? Math.max(...participantes.map(p => p.aciertos)) : 0, label: 'Mejor acierto' },
+    { icon: '👥', value: metadata.participantesActivos ?? participantes.length, label: 'Activos' },
+    { icon: '✅', value: participantes.reduce((sum, p) => sum + p.aciertos, 0), label: 'Aciertos totales' },
+    { icon: '⏳', value: metadata.partidosPendientes ?? Math.max(0, partidos.length - contarPartidosJugados()), label: 'Pendientes' }
+  ];
+
+  el.innerHTML = cards.map(c => `
+    <div class="summary-card">
+      <span>${c.icon}</span>
+      <strong>${escapeHtml(c.value)}</strong>
+      <small>${escapeHtml(c.label)}</small>
+    </div>
+  `).join('');
+}
+
+function initAvatarInteractions() {
+  document.addEventListener('click', (e) => {
+    const avatar = e.target.closest('.race-avatar');
+    document.querySelectorAll('.race-avatar.is-open').forEach(a => {
+      if (a !== avatar) a.classList.remove('is-open');
+    });
+    if (avatar) avatar.classList.toggle('is-open');
+  });
+}
+
+function iniciales(text) {
+  return String(text || '?')
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map(w => w[0])
+    .join('')
+    .toUpperCase() || '?';
+}
+
+function escapeHtml(value) {
+  return String(value ?? '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#039;');
+}
+
+function escapeAttr(value) {
+  return escapeHtml(value).replaceAll('`', '&#096;');
 }
