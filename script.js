@@ -345,17 +345,65 @@ function renderDatoLoco() {
   const el = $('dato-loco');
   if (!el) return;
 
+  const jugados = contarPartidosJugados();
+  const activos = participantes.length;
   const lider = participantes[0];
   const cola = participantes[participantes.length - 1];
+  const totalAciertos = participantes.reduce((sum, p) => sum + p.aciertos, 0);
+  const mejorPorcentaje = participantes.length ? Math.max(...participantes.map(p => p.porcentaje)) : 0;
+  const perfectos = participantes.filter(p => jugados > 0 && p.jugados > 0 && p.aciertos === p.jugados);
+  const sinAciertos = participantes.filter(p => p.jugados > 0 && p.aciertos === 0);
 
-  let texto = 'Todavía nadie ha pronosticado el próximo partido. La quiniela está en modo misterio. 🕵️';
+  const frases = [];
 
-  if (lider && cola) {
-    const ventaja = lider.puntos - cola.puntos;
-    texto = ventaja > 0
-      ? `${escapeHtml(lider.alias)} le saca ${ventaja} pts al último lugar. La presión ya empezó. 😬`
-      : `Todos siguen muy parejos. Todavía nadie puede cantar victoria. ⚽`;
+  if (jugados === 0) {
+    frases.push('Todavía no rueda el balón y ya todos creen que saben de fútbol. Esto apenas empieza. ⚽');
+    frases.push('La quiniela está limpia, los sueños intactos y las futuras burlas en preparación. 😌');
   }
+
+  if (lider && jugados > 0) {
+    frases.push(`${escapeHtml(lider.alias)} va liderando la quiniela. De momento, habla con autoridad mundialista. 🏆`);
+  }
+
+  if (lider && cola && lider.puntos > cola.puntos) {
+    const ventaja = lider.puntos - cola.puntos;
+    frases.push(`${escapeHtml(lider.alias)} le saca ${ventaja} pts al fondo de la tabla. La presión ya se siente. 😬`);
+  }
+
+  if (perfectos.length === 1) {
+    frases.push(`${escapeHtml(perfectos[0].alias)} lleva paso perfecto: ${perfectos[0].aciertos} de ${perfectos[0].jugados}. Alguien revise si trae bola de cristal. 🔮`);
+  }
+
+  if (perfectos.length > 1) {
+    frases.push(`${perfectos.length} participantes llevan paso perfecto. Esto se está poniendo sospechosamente serio. 👀`);
+  }
+
+  if (sinAciertos.length === 1) {
+    frases.push(`${escapeHtml(sinAciertos[0].alias)} sigue buscando su primer acierto. Hay fe, hay esperanza y todavía hay Mundial. 😅`);
+  }
+
+  if (sinAciertos.length > 1) {
+    frases.push(`${sinAciertos.length} participantes siguen sin acertar. Vinieron por la convivencia, y eso también cuenta. 🎉`);
+  }
+
+  if (jugados > 0 && totalAciertos > 0) {
+    frases.push(`Entre todos ya suman ${totalAciertos} aciertos. El comité de expertos empieza a tomar forma. 📊`);
+  }
+
+  if (jugados > 0 && mejorPorcentaje >= 80) {
+    frases.push(`El mejor porcentaje actual es ${mejorPorcentaje}%. Hay nivel, o por lo menos mucha suerte bien administrada. 🎯`);
+  }
+
+  if (jugados > 0 && activos > 0) {
+    frases.push(`${activos} participantes activos siguen en la pelea. Nadie está eliminado de las burlas ni de la gloria. 🌎`);
+  }
+
+  if (!frases.length) {
+    frases.push('La quiniela está en modo misterio. Pronto habrá datos para presumir o para esconderse. 🕵️');
+  }
+
+  const indice = new Date().getMinutes() % frases.length;
+  const texto = frases[indice];
 
   el.innerHTML = `
     <div class="fun-fact">
@@ -363,111 +411,4 @@ function renderDatoLoco() {
       <p>${texto}</p>
     </div>
   `;
-}
-
-function renderRanking() {
-  renderRankingDesktop();
-  renderRankingMobile();
-}
-
-function renderRankingDesktop() {
-  const el = $('ranking-desktop');
-  if (!el) return;
-
-  el.innerHTML = `
-    <table class="ranking-table">
-      <thead>
-        <tr>
-          <th>Pos</th>
-          <th>Participante</th>
-          <th>Puntos</th>
-          <th>Aciertos</th>
-          <th>Jugados</th>
-          <th>%</th>
-        </tr>
-      </thead>
-      <tbody>
-        ${participantes.map(p => `
-          <tr>
-            <td><span class="table-rank">${p.posicionVisual}</span></td>
-            <td class="participant-cell">${renderMiniAvatar(p)} <strong>${escapeHtml(p.alias)}</strong></td>
-            <td>${p.puntos}</td>
-            <td>${p.aciertos}</td>
-            <td>${p.jugados}</td>
-            <td>${p.porcentaje}%</td>
-          </tr>
-        `).join('')}
-      </tbody>
-    </table>
-  `;
-}
-
-function renderRankingMobile() {
-  const el = $('ranking-mobile');
-  if (!el) return;
-
-  el.innerHTML = participantes.map(p => `
-    <div class="mobile-card">
-      <div>${renderMiniAvatar(p)} <strong>${escapeHtml(p.alias)}</strong></div>
-      <span>${p.puntos} pts · ${p.aciertos} aciertos · ${p.porcentaje}%</span>
-    </div>
-  `).join('');
-}
-
-function renderResumen() {
-  const el = $('resumen');
-  if (!el) return;
-
-  const metadata = appData.metadata || {};
-  const lider = participantes[0];
-
-  const cards = [
-    { icon: '🏆', value: lider ? lider.alias : '-', label: 'Líder actual' },
-    { icon: '⚽', value: metadata.partidosJugados ?? contarPartidosJugados(), label: 'Partidos jugados' },
-    { icon: '🎯', value: participantes.length ? Math.max(...participantes.map(p => p.aciertos)) : 0, label: 'Mejor acierto' },
-    { icon: '👥', value: metadata.participantesActivos ?? participantes.length, label: 'Activos' },
-    { icon: '✅', value: participantes.reduce((sum, p) => sum + p.aciertos, 0), label: 'Aciertos totales' },
-    { icon: '⏳', value: metadata.partidosPendientes ?? Math.max(0, partidos.length - contarPartidosJugados()), label: 'Pendientes' }
-  ];
-
-  el.innerHTML = cards.map(c => `
-    <div class="summary-card">
-      <span>${c.icon}</span>
-      <strong>${escapeHtml(c.value)}</strong>
-      <small>${escapeHtml(c.label)}</small>
-    </div>
-  `).join('');
-}
-
-function initAvatarInteractions() {
-  document.addEventListener('click', (e) => {
-    const avatar = e.target.closest('.race-avatar');
-    document.querySelectorAll('.race-avatar.is-open').forEach(a => {
-      if (a !== avatar) a.classList.remove('is-open');
-    });
-    if (avatar) avatar.classList.toggle('is-open');
-  });
-}
-
-function iniciales(text) {
-  return String(text || '?')
-    .split(/\s+/)
-    .filter(Boolean)
-    .slice(0, 2)
-    .map(w => w[0])
-    .join('')
-    .toUpperCase() || '?';
-}
-
-function escapeHtml(value) {
-  return String(value ?? '')
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#039;');
-}
-
-function escapeAttr(value) {
-  return escapeHtml(value).replaceAll('`', '&#096;');
 }
