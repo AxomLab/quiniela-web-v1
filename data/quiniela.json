@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-04T17:28:45.152Z",
+    "ultimaActualizacion": "2026-06-04T19:07:44.990Z",
     "totalParticipantes": 20,
     "participantesActivos": 5,
     "partidosJugados": 5,
@@ -1086,10 +1086,10 @@
       "Nombre": "Juan",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 8,
@@ -1878,10 +1878,10 @@
       "Nombre": "Arturo",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 80,
@@ -2670,10 +2670,10 @@
       "Nombre": "Cyn",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 152,
