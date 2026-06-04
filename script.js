@@ -306,41 +306,53 @@ function renderPartidoCaliente() {
   const visitante = String(partido.Visitante || 'Visitante');
 
   const conteo = { local: 0, empate: 0, visitante: 0 };
+
   votos.forEach(v => {
     const pr = String(v.Pronostico || '').trim().toLowerCase();
-    if (pr.includes('empate') || pr === 'x') conteo.empate++;
-    else if (pr.includes(local.toLowerCase()) || pr.includes('local')) conteo.local++;
-    else if (pr.includes(visitante.toLowerCase()) || pr.includes('visitante')) conteo.visitante++;
+
+    if (pr.includes('empate') || pr === 'x') {
+      conteo.empate++;
+    } else if (pr.includes(local.toLowerCase()) || pr.includes('local')) {
+      conteo.local++;
+    } else if (pr.includes(visitante.toLowerCase()) || pr.includes('visitante')) {
+      conteo.visitante++;
+    }
   });
 
   const total = Math.max(votos.length, 1);
 
+  const opciones = [
+    { nombre: local, votos: conteo.local },
+    { nombre: 'Empate', votos: conteo.empate },
+    { nombre: visitante, votos: conteo.visitante }
+  ];
+
+  const favorito = opciones.sort((a, b) => b.votos - a.votos)[0];
+
+  let frase = 'Todavía no hay suficientes pronósticos para medir el ambiente. El misterio sigue vivo. 🕵️';
+
+  if (votos.length > 0 && favorito.votos > 0) {
+    frase = `La mayoría se está inclinando por ${escapeHtml(favorito.nombre)}. Veremos si fue sabiduría futbolera o exceso de confianza. 😅`;
+  }
+
   el.innerHTML = `
     <div class="match-card">
       <div class="match-date">${escapeHtml(partido.Fecha || '')} ${escapeHtml(partido.Hora || '')}</div>
+
       <div class="match-teams">
         <div><strong>${escapeHtml(local)}</strong></div>
         <span>vs</span>
         <div><strong>${escapeHtml(visitante)}</strong></div>
       </div>
+
+      <p class="match-hype">${frase}</p>
+
       ${renderVoteBar(local, conteo.local, total)}
       ${renderVoteBar('Empate', conteo.empate, total)}
       ${renderVoteBar(visitante, conteo.visitante, total)}
     </div>
   `;
 }
-
-function renderVoteBar(label, count, total) {
-  const pct = Math.round((count / total) * 100);
-  return `
-    <div class="vote-row">
-      <span>${escapeHtml(label)}</span>
-      <div class="vote-track"><div style="width:${pct}%"></div></div>
-      <strong>${count}</strong>
-    </div>
-  `;
-}
-
 function renderDatoLoco() {
   const el = $('dato-loco');
   if (!el) return;
