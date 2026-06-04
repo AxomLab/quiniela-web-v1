@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-04T21:05:55.233Z",
+    "ultimaActualizacion": "2026-06-04T21:08:51.044Z",
     "totalParticipantes": 20,
     "participantesActivos": 11,
     "partidosJugados": 0,
@@ -953,7 +953,7 @@
       "ParticipanteID": 1,
       "Nombre": "Juan",
       "Alias": "Juan",
-      "Avatar": "Juan.png",
+      "Avatar": "Juan_v2.png",
       "Color": "#E53935",
       "Activo": "Sí",
       "Puntos": 0,
