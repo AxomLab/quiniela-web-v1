@@ -1,6 +1,6 @@
 /* ============================================================
-   QUINIELA MUNDIALISTA 2026 — STYLES v2
-   Tema: Feria de noche · Modo claro/oscuro · Carrera grande
+   QUINIELA MUNDIALISTA 2026 — STYLES v3
+   Tema: Estadio premium oscuro · México festivo claro · Carrera compacta
    ============================================================ */
 
 /* --- Reset --- */
@@ -12,67 +12,79 @@
 
 /* --- Custom Properties (Dark Mode — default) --- */
 :root {
-  --bg-deep: #0c081f;
-  --bg-primary: #120d2c;
-  --bg-card: rgba(26, 20, 56, 0.88);
-  --bg-card-solid: #1a1438;
+  /* Estadio mundialista premium */
+  --bg-deep: #06111f;
+  --bg-primary: #0a1b2f;
+  --bg-card: rgba(10, 27, 47, 0.90);
+  --bg-card-solid: #0d223a;
 
-  --gold: #ffc107;
-  --gold-bright: #ffd54f;
-  --magenta: #ff2d78;
-  --cyan: #00d4ff;
-  --green: #00e676;
-  --green-dark: #00c853;
-  --orange: #ff9100;
-  --purple: #b44dff;
-  --red: #ff4757;
+  --gold: #d6a437;
+  --gold-bright: #f2c766;
+  --magenta: #e84c5f;
+  --cyan: #58c7f3;
+  --green: #35b96f;
+  --green-dark: #168047;
+  --orange: #f28c28;
+  --purple: #4267b2;
+  --red: #e84c5f;
 
-  --text-primary: #f0edf6;
-  --text-secondary: #9e99b5;
-  --text-muted: #6b6585;
-  --border: rgba(255, 255, 255, 0.07);
-  --border-light: rgba(255, 255, 255, 0.12);
+  --text-primary: #f7f3e8;
+  --text-secondary: #b9c4d0;
+  --text-muted: #7f8da0;
+  --border: rgba(255, 255, 255, 0.08);
+  --border-light: rgba(255, 255, 255, 0.16);
 
-  --track-bg-1: #161233;
-  --track-bg-2: #0e0a24;
-  --track-border: #4d2b85;
-  --track-border-inner: #29144d;
-  --track-border-outer: #804db3;
-  --track-lane-odd: rgba(255, 255, 255, 0.03);
-  --track-lane-even: rgba(255, 255, 255, 0.01);
+  --track-bg-1: #0d223a;
+  --track-bg-2: #071728;
+  --track-border: #d6a437;
+  --track-border-inner: #07111f;
+  --track-border-outer: #1f5f3a;
+  --track-lane-odd: rgba(255, 255, 255, 0.035);
+  --track-lane-even: rgba(255, 255, 255, 0.015);
   --track-lane-hover: rgba(255, 255, 255, 0.08);
-  --track-text: #f0edf6;
+  --track-text: #f7f3e8;
 
   --radius-sm: 8px;
   --radius-md: 14px;
   --radius-lg: 20px;
 
-  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.35);
+  --shadow-card: 0 6px 28px rgba(0, 0, 0, 0.36);
 }
 
 /* --- Custom Properties (Light Mode) --- */
 [data-theme="light"] {
-  --bg-deep: #fffaf2;
-  --bg-primary: #fffdf9;
-  --bg-card: rgba(255, 255, 255, 0.94);
-  --bg-card-solid: #ffffff;
+  /* México 2026: crema, verde, naranja, amarillo y rojo */
+  --bg-deep: #fff6e3;
+  --bg-primary: #fffaf0;
+  --bg-card: rgba(255, 252, 242, 0.96);
+  --bg-card-solid: #fffdf7;
 
-  --text-primary: #1c1830;
-  --text-secondary: #5c526d;
-  --text-muted: #8d83a2;
-  --border: rgba(0, 0, 0, 0.08);
-  --border-light: rgba(0, 0, 0, 0.13);
+  --gold: #f2b705;
+  --gold-bright: #ffd45c;
+  --magenta: #d92b3a;
+  --cyan: #1f9bb4;
+  --green: #167a3a;
+  --green-dark: #0f5c2b;
+  --orange: #e85d04;
+  --purple: #263238;
+  --red: #d92b3a;
 
-  --track-bg-1: #fefaf0;
-  --track-bg-2: #f7ebd3;
-  --track-border: #e6a15c;
-  --track-border-inner: #b37430;
-  --track-border-outer: #ffbe7a;
-  --track-lane-odd: rgba(0, 0, 0, 0.02);
-  --track-lane-even: rgba(0, 0, 0, 0.005);
-  --track-lane-hover: rgba(0, 0, 0, 0.04);
+  --text-primary: #1f261f;
+  --text-secondary: #526052;
+  --text-muted: #7d8878;
+  --border: rgba(22, 122, 58, 0.14);
+  --border-light: rgba(232, 93, 4, 0.22);
 
-  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.08);
+  --track-bg-1: #fff1cf;
+  --track-bg-2: #f8dfaa;
+  --track-border: #167a3a;
+  --track-border-inner: #0f5c2b;
+  --track-border-outer: #e85d04;
+  --track-lane-odd: rgba(22, 122, 58, 0.045);
+  --track-lane-even: rgba(232, 93, 4, 0.035);
+  --track-lane-hover: rgba(22, 122, 58, 0.08);
+
+  --shadow-card: 0 6px 24px rgba(92, 58, 12, 0.10);
 }
 
 /* --- Body --- */
@@ -98,18 +110,18 @@ body::before {
 [data-theme="dark"] body::before,
 body::before {
   background:
-    radial-gradient(ellipse at 10% 10%, rgba(255, 45, 120, 0.15) 0%, transparent 60%),
-    radial-gradient(ellipse at 90% 10%, rgba(0, 212, 255, 0.15) 0%, transparent 60%),
-    radial-gradient(ellipse at 50% 50%, rgba(180, 77, 255, 0.08) 0%, transparent 70%),
-    radial-gradient(ellipse at 50% 100%, rgba(255, 193, 7, 0.08) 0%, transparent 60%);
+    radial-gradient(ellipse at 12% 8%, rgba(88, 199, 243, 0.13) 0%, transparent 58%),
+    radial-gradient(ellipse at 88% 10%, rgba(214, 164, 55, 0.13) 0%, transparent 58%),
+    radial-gradient(ellipse at 50% 48%, rgba(53, 185, 111, 0.08) 0%, transparent 68%),
+    radial-gradient(ellipse at 50% 100%, rgba(10, 27, 47, 0.85) 0%, transparent 60%);
 }
 
 [data-theme="light"] body::before {
   background:
-    radial-gradient(ellipse at 10% 10%, rgba(255, 45, 120, 0.09) 0%, transparent 60%),
-    radial-gradient(ellipse at 90% 10%, rgba(0, 212, 255, 0.08) 0%, transparent 60%),
-    radial-gradient(ellipse at 50% 50%, rgba(180, 77, 255, 0.05) 0%, transparent 70%),
-    radial-gradient(ellipse at 50% 100%, rgba(255, 193, 7, 0.07) 0%, transparent 60%);
+    radial-gradient(ellipse at 10% 10%, rgba(22, 122, 58, 0.10) 0%, transparent 60%),
+    radial-gradient(ellipse at 90% 10%, rgba(232, 93, 4, 0.10) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 50%, rgba(242, 183, 5, 0.08) 0%, transparent 70%),
+    radial-gradient(ellipse at 50% 100%, rgba(217, 43, 58, 0.06) 0%, transparent 60%);
 }
 
 body::after {
@@ -120,13 +132,13 @@ body::after {
   z-index: -1;
   opacity: 0.07;
   background-image: 
-    radial-gradient(circle at 20px 40px, #ff2d78 3px, transparent 4px),
-    radial-gradient(circle at 120px 180px, #00d4ff 2px, transparent 3px),
-    radial-gradient(circle at 250px 80px, #ffc107 3px, transparent 4px),
-    radial-gradient(circle at 350px 300px, #ff9100 2px, transparent 3px),
-    radial-gradient(circle at 80px 280px, #b44dff 2px, transparent 3px),
-    radial-gradient(circle at 180px 350px, #00e676 3px, transparent 4px),
-    radial-gradient(circle at 300px 220px, #ff2d78 2px, transparent 3px);
+    radial-gradient(circle at 20px 40px, #e84c5f 3px, transparent 4px),
+    radial-gradient(circle at 120px 180px, #58c7f3 2px, transparent 3px),
+    radial-gradient(circle at 250px 80px, #d6a437 3px, transparent 4px),
+    radial-gradient(circle at 350px 300px, #f28c28 2px, transparent 3px),
+    radial-gradient(circle at 80px 280px, #4267b2 2px, transparent 3px),
+    radial-gradient(circle at 180px 350px, #35b96f 3px, transparent 4px),
+    radial-gradient(circle at 300px 220px, #e84c5f 2px, transparent 3px);
   background-size: 400px 400px;
   transition: opacity 0.4s ease;
 }
@@ -263,7 +275,7 @@ body::after {
 }
 
 [data-theme="light"] .header-title {
-  background: linear-gradient(135deg, #c9940a 0%, #c41e5a 50%, #0090b8 100%);
+  background: linear-gradient(135deg, #167a3a 0%, #e85d04 45%, #d92b3a 100%);
   background-size: 200% 200%;
   -webkit-background-clip: text;
   background-clip: text;
@@ -396,7 +408,7 @@ body::after {
   height: 0;
   border-left: 11px solid transparent;
   border-right: 11px solid transparent;
-  border-top: 18px solid #ff2d78;
+  border-top: 18px solid #e84c5f;
   opacity: 0.75;
   transition: opacity 0.2s;
 }
@@ -406,7 +418,7 @@ body::after {
 }
 
 /* ============================================================
-   RACE TRACK — v3 (full-width, tall lanes, large avatars)
+   RACE TRACK — v4 (full-width, compact lanes, hover avatars)
    ============================================================ */
 
 /* Outer wrapper for full-bleed feel */
@@ -538,7 +550,7 @@ body::after {
   display: flex;
   align-items: stretch;
   position: relative;
-  min-height: 140px;
+  min-height: 104px;
   transition: filter 0.3s ease, box-shadow 0.3s ease;
   overflow: visible;
 }
@@ -566,11 +578,11 @@ body::after {
 }
 
 /* Carnival themed colored lanes - Dark Mode (glowing against midnight blue) */
-.carril:nth-child(5n+1) { background: linear-gradient(90deg, rgba(255, 45, 120, 0.20) 0%, rgba(255, 45, 120, 0.05) 100%); } /* Red/Pink */
-.carril:nth-child(5n+2) { background: linear-gradient(90deg, rgba(0, 212, 255, 0.20) 0%, rgba(0, 212, 255, 0.05) 100%); } /* Turquoise/Blue */
-.carril:nth-child(5n+3) { background: linear-gradient(90deg, rgba(255, 145, 0, 0.20) 0%, rgba(255, 145, 0, 0.05) 100%); } /* Orange/Gold */
-.carril:nth-child(5n+4) { background: linear-gradient(90deg, rgba(180, 77, 255, 0.20) 0%, rgba(180, 77, 255, 0.05) 100%); } /* Purple/Violet */
-.carril:nth-child(5n+5) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, rgba(255, 193, 7, 0.05) 100%); } /* Cream/Yellow */
+.carril:nth-child(5n+1) { background: linear-gradient(90deg, rgba(232, 76, 95, 0.18) 0%, rgba(232, 76, 95, 0.045) 100%); } /* Red/Pink */
+.carril:nth-child(5n+2) { background: linear-gradient(90deg, rgba(53, 185, 111, 0.16) 0%, rgba(53, 185, 111, 0.045) 100%); } /* Turquoise/Blue */
+.carril:nth-child(5n+3) { background: linear-gradient(90deg, rgba(214, 164, 55, 0.16) 0%, rgba(214, 164, 55, 0.045) 100%); } /* Orange/Gold */
+.carril:nth-child(5n+4) { background: linear-gradient(90deg, rgba(88, 199, 243, 0.14) 0%, rgba(88, 199, 243, 0.04) 100%); } /* Purple/Violet */
+.carril:nth-child(5n+5) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, rgba(242, 140, 40, 0.04) 100%); } /* Cream/Yellow */
 
 .carril:hover {
   filter: brightness(1.2);
@@ -578,11 +590,11 @@ body::after {
 }
 
 /* Carnival themed colored lanes - Light Mode (soft glowing pastels on warm cream) */
-[data-theme="light"] .carril:nth-child(5n+1) { background: linear-gradient(90deg, rgba(255, 45, 120, 0.12) 0%, rgba(255, 45, 120, 0.03) 100%); }
-[data-theme="light"] .carril:nth-child(5n+2) { background: linear-gradient(90deg, rgba(0, 212, 255, 0.12) 0%, rgba(0, 212, 255, 0.03) 100%); }
-[data-theme="light"] .carril:nth-child(5n+3) { background: linear-gradient(90deg, rgba(255, 145, 0, 0.12) 0%, rgba(255, 145, 0, 0.03) 100%); }
-[data-theme="light"] .carril:nth-child(5n+4) { background: linear-gradient(90deg, rgba(180, 77, 255, 0.12) 0%, rgba(180, 77, 255, 0.03) 100%); }
-[data-theme="light"] .carril:nth-child(5n+5) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.12) 0%, rgba(255, 193, 7, 0.03) 100%); }
+[data-theme="light"] .carril:nth-child(5n+1) { background: linear-gradient(90deg, rgba(217, 43, 58, 0.10) 0%, rgba(217, 43, 58, 0.025) 100%); }
+[data-theme="light"] .carril:nth-child(5n+2) { background: linear-gradient(90deg, rgba(22, 122, 58, 0.10) 0%, rgba(22, 122, 58, 0.025) 100%); }
+[data-theme="light"] .carril:nth-child(5n+3) { background: linear-gradient(90deg, rgba(232, 93, 4, 0.10) 0%, rgba(232, 93, 4, 0.025) 100%); }
+[data-theme="light"] .carril:nth-child(5n+4) { background: linear-gradient(90deg, rgba(242, 183, 5, 0.11) 0%, rgba(242, 183, 5, 0.03) 100%); }
+[data-theme="light"] .carril:nth-child(5n+5) { background: linear-gradient(90deg, rgba(31, 155, 180, 0.08) 0%, rgba(31, 155, 180, 0.025) 100%); }
 
 [data-theme="light"] .carril:hover {
   filter: brightness(0.97);
@@ -595,7 +607,7 @@ body::after {
   position: absolute;
   inset: 0;
   background-image: 
-    linear-gradient(180deg, transparent 0px, transparent 136px, rgba(255, 255, 255, 0.06) 136px, rgba(255, 255, 255, 0.06) 140px),
+    linear-gradient(180deg, transparent 0px, transparent 100px, rgba(255, 255, 255, 0.05) 100px, rgba(255, 255, 255, 0.05) 104px),
     repeating-linear-gradient(90deg, transparent 0px, transparent 120px, rgba(255, 255, 255, 0.02) 120px, rgba(255, 255, 255, 0.02) 121px);
   pointer-events: none;
   z-index: 1;
@@ -603,21 +615,21 @@ body::after {
 
 [data-theme="light"] .carril::before {
   background-image: 
-    linear-gradient(180deg, transparent 0px, transparent 136px, rgba(0, 0, 0, 0.04) 136px, rgba(0, 0, 0, 0.04) 140px),
+    linear-gradient(180deg, transparent 0px, transparent 100px, rgba(0, 0, 0, 0.035) 100px, rgba(0, 0, 0, 0.035) 104px),
     repeating-linear-gradient(90deg, transparent 0px, transparent 120px, rgba(0, 0, 0, 0.015) 120px, rgba(0, 0, 0, 0.015) 121px);
 }
 
 .carril-lider {
   border-left: 4px solid rgba(255, 193, 7, 0.8);
-  box-shadow: inset 5px 0 15px rgba(255, 193, 7, 0.12);
+  box-shadow: inset 5px 0 15px rgba(31, 155, 180, 0.08);
 }
 
 /* Leader golden overlay directly over the lane colors to preserve texturing */
-.carril-lider:nth-child(5n+1) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 45, 120, 0.25) 0%, rgba(255, 45, 120, 0.08) 100%) !important; }
-.carril-lider:nth-child(5n+2) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, transparent 100%), linear-gradient(90deg, rgba(0, 212, 255, 0.25) 0%, rgba(0, 212, 255, 0.08) 100%) !important; }
-.carril-lider:nth-child(5n+3) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 145, 0, 0.25) 0%, rgba(255, 145, 0, 0.08) 100%) !important; }
-.carril-lider:nth-child(5n+4) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, transparent 100%), linear-gradient(90deg, rgba(180, 77, 255, 0.25) 0%, rgba(180, 77, 255, 0.08) 100%) !important; }
-.carril-lider:nth-child(5n+5) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.20) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 193, 7, 0.25) 0%, rgba(255, 193, 7, 0.08) 100%) !important; }
+.carril-lider:nth-child(5n+1) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 45, 120, 0.25) 0%, rgba(255, 45, 120, 0.08) 100%) !important; }
+.carril-lider:nth-child(5n+2) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, transparent 100%), linear-gradient(90deg, rgba(0, 212, 255, 0.25) 0%, rgba(0, 212, 255, 0.08) 100%) !important; }
+.carril-lider:nth-child(5n+3) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 145, 0, 0.25) 0%, rgba(255, 145, 0, 0.08) 100%) !important; }
+.carril-lider:nth-child(5n+4) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, transparent 100%), linear-gradient(90deg, rgba(180, 77, 255, 0.25) 0%, rgba(180, 77, 255, 0.08) 100%) !important; }
+.carril-lider:nth-child(5n+5) { background: linear-gradient(90deg, rgba(242, 140, 40, 0.14) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 193, 7, 0.25) 0%, rgba(255, 193, 7, 0.08) 100%) !important; }
 
 [data-theme="light"] .carril-lider:nth-child(5n+1) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.25) 0%, transparent 100%), linear-gradient(90deg, rgba(255, 45, 120, 0.15) 0%, rgba(255, 45, 120, 0.04) 100%) !important; }
 [data-theme="light"] .carril-lider:nth-child(5n+2) { background: linear-gradient(90deg, rgba(255, 193, 7, 0.25) 0%, transparent 100%), linear-gradient(90deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 212, 255, 0.04) 100%) !important; }
@@ -643,8 +655,8 @@ body::after {
 }
 
 [data-theme="light"] .carril-sidebar {
-  background: rgba(0, 0, 0, 0.22);
-  border-right-color: rgba(255,255,255,0.1);
+  background: rgba(22, 122, 58, 0.16);
+  border-right-color: rgba(15, 92, 43, 0.18);
 }
 
 .carril-pos-badge {
@@ -693,7 +705,7 @@ body::after {
   flex: 1;
   position: relative;
   overflow: visible; /* overflow visible is crucial to prevent scaled avatar clip */
-  min-height: 140px;
+  min-height: 104px;
 }
 
 /* Moving container for the avatar */
@@ -716,8 +728,8 @@ body::after {
 
 /* The avatar wrapper — no circle clip, free-form for PNG w/ transparent bg */
 .avatar-race {
-  width: 120px;
-  height: 120px;
+  width: 88px;
+  height: 88px;
   position: relative;
   flex-shrink: 0;
   display: flex;
@@ -732,7 +744,7 @@ body::after {
 /* Desktop hover: smooth 2.0x scale with bouncy spring effect */
 @media (hover: hover) {
   .avatar-race:hover {
-    transform: scale(2.0) translateY(-8px);
+    transform: scale(1.85) translateY(-8px);
     filter: drop-shadow(0 15px 30px rgba(0, 0, 0, 0.65));
     z-index: 100;
   }
@@ -769,7 +781,7 @@ body::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 4rem;          /* big emoji horse */
+  font-size: 3rem;          /* big emoji horse */
   line-height: 1;
   position: relative;
   z-index: 1;
@@ -802,7 +814,7 @@ body::after {
    ============================================================ */
 .avatar-tooltip {
   position: absolute;
-  bottom: 125%; /* Float above the avatar */
+  bottom: 118%; /* Float above the avatar */
   left: 50%;
   transform: translateX(-50%) translateY(10px) scale(0.9);
   background: rgba(12, 10, 26, 0.96);
@@ -880,7 +892,7 @@ body::after {
 }
 
 .avatar-race.active-tooltip {
-  transform: scale(1.3) translateY(-4px);
+  transform: scale(1.25) translateY(-4px);
   z-index: 100;
 }
 
@@ -898,7 +910,7 @@ body::after {
   left: 170px;
   top: 50%;
   transform: translateY(-50%) skewX(-8deg);
-  font-size: 6.5rem;
+  font-size: 5.2rem;
   font-weight: 950;
   line-height: 1;
   opacity: 0.13;
@@ -980,7 +992,7 @@ body::after {
 /* On mobile: hide the score chip (no room) */
 @media (max-width: 640px) {
   .carril-watermark { 
-    font-size: 4rem; 
+    font-size: 3rem; 
     left: 155px;
     opacity: 0.09; 
   }
@@ -1462,7 +1474,7 @@ body::after {
   .partido-grid { grid-template-columns: 1fr; }
   .resumen-grid { grid-template-columns: repeat(2, 1fr); }
 
-  /* Race — shrink sidebar & avatars a bit */
+  /* Race — compact sidebar & avatars */
   .carril-sidebar {
     width: 110px;
     min-width: 110px;
@@ -1471,11 +1483,11 @@ body::after {
 
   .pista-carriles::before { left: 110px; }
 
-  .carril { min-height: 110px; }
-  .carril-track { min-height: 110px; }
+  .carril { min-height: 88px; }
+  .carril-track { min-height: 88px; }
 
-  .avatar-race { width: 90px; height: 90px; }
-  .avatar-fallback { font-size: 3rem; }
+  .avatar-race { width: 72px; height: 72px; }
+  .avatar-fallback { font-size: 2.35rem; }
 
   .carril-alias { font-size: 0.78rem; max-width: 90px; }
   .carril-puntos { font-size: 0.68rem; }
@@ -1523,10 +1535,10 @@ body::after {
 
   .carril-alias { max-width: none; }
 
-  .carril-track { min-height: 90px; width: 100%; }
+  .carril-track { min-height: 76px; width: 100%; }
 
-  .avatar-race { width: 70px; height: 70px; }
-  .avatar-fallback { font-size: 2.2rem; }
+  .avatar-race { width: 58px; height: 58px; }
+  .avatar-fallback { font-size: 1.9rem; }
 
   /* Ranking: table -> cards */
   .ranking-desktop { display: none !important; }
@@ -1562,9 +1574,9 @@ body::after {
   .luz { width: 8px; height: 11px; }
 
   /* Race avatars smaller on tiny screens */
-  .avatar-race { width: 55px; height: 55px; }
-  .avatar-fallback { font-size: 1.8rem; }
-  .carril-track { min-height: 72px; }
+  .avatar-race { width: 48px; height: 48px; }
+  .avatar-fallback { font-size: 1.55rem; }
+  .carril-track { min-height: 64px; }
 }
 
 /* ============================================================
@@ -1585,7 +1597,7 @@ body::after {
 [data-theme="light"] .stat-item {
   background: rgba(255, 255, 255, 0.96);
   border-color: rgba(255, 193, 7, 0.18); /* warm gold border tint */
-  box-shadow: 0 4px 15px rgba(255, 193, 7, 0.05);
+  box-shadow: 0 4px 15px rgba(242, 140, 40, 0.04);
 }
 
 [data-theme="light"] .tb-item {
