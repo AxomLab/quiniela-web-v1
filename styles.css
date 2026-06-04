@@ -2136,3 +2136,705 @@ body::before {
     width: 5px !important;
   }
 }
+
+/* ============================================================
+   AJUSTE VISUAL v6 — Más presencia, menos miniatura
+   Objetivo:
+   - Header más grande y legible
+   - Carrera compacta, pero no aplastada
+   - Avatares visibles sin depender solo del hover
+   - Secciones inferiores más anchas
+   ============================================================ */
+
+.hero {
+  max-width: 1180px !important;
+  padding: 2.6rem 1.2rem 2.4rem !important;
+}
+
+.hero-kicker {
+  font-size: .86rem !important;
+  padding: .46rem .95rem !important;
+  margin-bottom: .85rem !important;
+}
+
+.hero-title {
+  font-size: clamp(2.8rem, 5.9vw, 5.4rem) !important;
+  line-height: .95 !important;
+  letter-spacing: -.06em !important;
+}
+
+.hero-subtitle {
+  font-size: clamp(1.05rem, 2.2vw, 1.35rem) !important;
+  max-width: 760px !important;
+  margin-top: .9rem !important;
+}
+
+.stats-bar {
+  gap: 1rem !important;
+  margin-top: 1.7rem !important;
+}
+
+.stat-item {
+  min-width: 128px !important;
+  padding: .82rem 1.15rem !important;
+}
+
+.stat-icon {
+  font-size: 1.18rem !important;
+}
+
+.stat-value {
+  font-size: 1.55rem !important;
+}
+
+.stat-value-sm {
+  font-size: .76rem !important;
+  max-width: 128px !important;
+}
+
+.stat-label {
+  font-size: .66rem !important;
+}
+
+/* Carrera con presencia visual */
+#seccion-carrera {
+  max-width: 98vw !important;
+  padding: 0 1.35rem !important;
+}
+
+.section-race {
+  margin-top: .7rem !important;
+}
+
+.compact-header {
+  margin-bottom: 1.3rem !important;
+}
+
+.section-title {
+  font-size: clamp(1.35rem, 3vw, 2rem) !important;
+}
+
+.section-desc {
+  font-size: .95rem !important;
+  max-width: 720px !important;
+}
+
+/* Pista: sigue compacta para 20, pero ya no se ve aplastada */
+.pista-container {
+  border-width: 3px !important;
+  border-radius: 24px !important;
+}
+
+.pista-marcadores {
+  padding: .68rem 1.28rem !important;
+}
+
+.pista-marcadores span,
+.marcador-salida,
+.marcador-meta {
+  font-size: .78rem !important;
+}
+
+/* Carriles */
+.carril {
+  min-height: 102px !important;
+}
+
+.carril-track {
+  min-height: 102px !important;
+}
+
+.carril-sidebar {
+  width: 152px !important;
+  min-width: 152px !important;
+  padding: .65rem .82rem !important;
+}
+
+.pista-carriles::before {
+  left: 152px !important;
+  width: 8px !important;
+}
+
+.pista-carriles::after {
+  right: 34px !important;
+  width: 9px !important;
+}
+
+.carril-pos-badge {
+  width: 30px !important;
+  height: 30px !important;
+  font-size: .82rem !important;
+}
+
+.carril-alias {
+  font-size: .90rem !important;
+  max-width: 128px !important;
+}
+
+.carril-puntos {
+  font-size: .76rem !important;
+}
+
+/* Avatar visible en estado normal */
+.avatar-race {
+  width: 84px !important;
+  height: 84px !important;
+}
+
+.avatar-fallback {
+  font-size: 3.15rem !important;
+}
+
+@media (hover:hover) {
+  .avatar-race:hover {
+    transform: scale(1.9) translateY(-9px) !important;
+    z-index: 220 !important;
+  }
+}
+
+.avatar-race.active-tooltip {
+  transform: scale(1.55) translateY(-6px) !important;
+}
+
+/* Número grande de puntos */
+.carril-watermark {
+  left: 188px !important;
+  font-size: 5.3rem !important;
+  opacity: .115 !important;
+}
+
+/* Chip derecho */
+.carril-score {
+  right: 58px !important;
+  min-width: 90px !important;
+  padding: .48rem .72rem !important;
+}
+
+.carril-score-pts,
+.carril-score strong {
+  font-size: 1.08rem !important;
+}
+
+.carril-score-label,
+.carril-score span {
+  font-size: .65rem !important;
+}
+
+/* Secciones inferiores más anchas y menos apretadas */
+.section {
+  max-width: 1280px !important;
+  margin-bottom: 2rem !important;
+}
+
+.top-bottom-grid {
+  max-width: 980px !important;
+  margin: 0 auto !important;
+  gap: 1.45rem !important;
+}
+
+.partido-grid {
+  max-width: 980px !important;
+  margin: 0 auto !important;
+  gap: 1.45rem !important;
+}
+
+.tb-col,
+.partido-col {
+  padding: 1.55rem !important;
+}
+
+.tb-item {
+  padding: .78rem .9rem !important;
+}
+
+.tb-alias {
+  font-size: .96rem !important;
+}
+
+.tb-pts {
+  font-size: .78rem !important;
+}
+
+.tb-badge {
+  font-size: .72rem !important;
+}
+
+/* Ranking y resumen */
+.ranking-desktop,
+.ranking-mobile,
+.resumen-grid {
+  max-width: 1180px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Mejor lectura en modo oscuro */
+[data-theme="dark"] .hero-title,
+.hero-title {
+  background: linear-gradient(135deg, #ffffff 0%, #ffe3a0 42%, #8fc8ff 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+/* Mobile: mantener compacto */
+@media (max-width: 860px) {
+  .hero {
+    padding: 1.8rem .9rem 1.8rem !important;
+  }
+
+  .hero-title {
+    font-size: clamp(2.1rem, 9vw, 3.7rem) !important;
+  }
+
+  .stat-item {
+    min-width: 92px !important;
+    padding: .62rem .75rem !important;
+  }
+
+  .carril {
+    min-height: 84px !important;
+  }
+
+  .carril-track {
+    min-height: 84px !important;
+  }
+
+  .carril-sidebar {
+    width: 124px !important;
+    min-width: 124px !important;
+  }
+
+  .pista-carriles::before {
+    left: 124px !important;
+  }
+
+  .avatar-race {
+    width: 68px !important;
+    height: 68px !important;
+  }
+
+  .carril-watermark {
+    left: 148px !important;
+    font-size: 4rem !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero {
+    padding: 1.25rem .85rem 1.45rem !important;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 11vw, 3.1rem) !important;
+  }
+
+  .hero-subtitle {
+    font-size: .95rem !important;
+  }
+
+  #seccion-carrera {
+    padding: 0 .35rem !important;
+  }
+
+  .carril {
+    min-height: auto !important;
+  }
+
+  .carril-sidebar {
+    width: 100% !important;
+    min-width: 0 !important;
+    padding: .42rem .68rem !important;
+  }
+
+  .carril-track {
+    min-height: 68px !important;
+  }
+
+  .avatar-race {
+    width: 56px !important;
+    height: 56px !important;
+  }
+
+  .carril-watermark {
+    left: 32% !important;
+    font-size: 3.3rem !important;
+  }
+}
+
+/* ============================================================
+   AJUSTE VISUAL v7 — Estadio premium real
+   Objetivo:
+   - Acercar modo oscuro a la opción B del mockup
+   - Luces de estadio visibles
+   - Carriles azul profundo, no multicolor
+   - Borde dorado sobrio
+   - Mejor presencia visual sin perder lectura
+   ============================================================ */
+
+/* Fondo general: estadio nocturno, no feria */
+body::before {
+  background:
+    radial-gradient(ellipse at 18% 4%, rgba(255,255,255,.22) 0%, rgba(120,170,220,.10) 12%, transparent 28%),
+    radial-gradient(ellipse at 82% 4%, rgba(255,255,255,.22) 0%, rgba(120,170,220,.10) 12%, transparent 28%),
+    radial-gradient(ellipse at 50% 118%, rgba(37,112,55,.36) 0%, rgba(13,52,36,.22) 27%, transparent 48%),
+    linear-gradient(135deg, #020817 0%, #071a31 46%, #031225 100%) !important;
+}
+
+[data-theme="light"] body::before {
+  background:
+    radial-gradient(ellipse at 18% 4%, rgba(232,93,4,.12) 0%, transparent 28%),
+    radial-gradient(ellipse at 82% 4%, rgba(23,120,60,.14) 0%, transparent 28%),
+    radial-gradient(ellipse at 50% 118%, rgba(242,183,5,.28) 0%, transparent 48%),
+    linear-gradient(135deg, #fff4df 0%, #fffaf0 52%, #f1d69b 100%) !important;
+}
+
+/* Apagar puntos tipo feria */
+body::after {
+  opacity: .045 !important;
+}
+
+[data-theme="light"] body::after {
+  opacity: .075 !important;
+}
+
+/* Luces superiores como estadio */
+.luces-container {
+  max-width: 1280px !important;
+  padding: 14px 18px 4px !important;
+  gap: 10px !important;
+  opacity: 1 !important;
+}
+
+.luces-container::before,
+.luces-container::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 8px !important;
+  width: 245px !important;
+  height: 125px !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+  opacity: .95 !important;
+  background:
+    radial-gradient(circle at 12% 16%, rgba(255,255,255,.95) 0 4px, transparent 5px),
+    radial-gradient(circle at 28% 16%, rgba(255,255,255,.88) 0 4px, transparent 5px),
+    radial-gradient(circle at 44% 16%, rgba(255,255,255,.82) 0 4px, transparent 5px),
+    radial-gradient(circle at 60% 16%, rgba(255,255,255,.72) 0 4px, transparent 5px),
+    radial-gradient(circle at 20% 34%, rgba(255,255,255,.88) 0 4px, transparent 5px),
+    radial-gradient(circle at 36% 34%, rgba(255,255,255,.82) 0 4px, transparent 5px),
+    radial-gradient(circle at 52% 34%, rgba(255,255,255,.74) 0 4px, transparent 5px),
+    radial-gradient(circle at 68% 34%, rgba(255,255,255,.66) 0 4px, transparent 5px),
+    radial-gradient(ellipse at 40% 8%, rgba(255,255,255,.30), transparent 68%) !important;
+  filter: drop-shadow(0 0 22px rgba(180,220,255,.55)) !important;
+}
+
+.luces-container::before {
+  left: 2.5% !important;
+  transform: rotate(-13deg) !important;
+}
+
+.luces-container::after {
+  right: 2.5% !important;
+  transform: scaleX(-1) rotate(-13deg) !important;
+}
+
+/* La fila de foquitos queda como línea sutil, no protagonista */
+.luz {
+  width: 5px !important;
+  height: 5px !important;
+  opacity: .38 !important;
+  box-shadow: 0 0 8px currentColor !important;
+}
+
+/* Hero más cercano al mockup */
+.hero {
+  max-width: 1200px !important;
+  padding-top: 3.2rem !important;
+  padding-bottom: 2.2rem !important;
+}
+
+.hero::before {
+  inset: 0 14% !important;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(255,255,255,.10), transparent 36%),
+    radial-gradient(ellipse at 50% 100%, rgba(216,163,58,.14), transparent 54%) !important;
+}
+
+.hero-kicker {
+  color: #ffd36c !important;
+  background: rgba(5, 18, 34, .72) !important;
+  border-color: rgba(216,163,58,.45) !important;
+  box-shadow: 0 0 24px rgba(216,163,58,.08) !important;
+}
+
+.hero-title {
+  background: linear-gradient(135deg, #ffffff 0%, #fff1bf 34%, #f3c35a 55%, #b8cff0 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  text-shadow: none !important;
+  filter: drop-shadow(0 20px 28px rgba(0,0,0,.34)) !important;
+}
+
+.hero-subtitle {
+  color: #d6dde8 !important;
+}
+
+/* Tarjetas tipo estadio */
+.stat-item {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02)),
+    linear-gradient(180deg, rgba(9,35,64,.96), rgba(5,18,34,.96)) !important;
+  border: 1px solid rgba(216,163,58,.42) !important;
+  box-shadow:
+    0 12px 30px rgba(0,0,0,.32),
+    inset 0 0 0 1px rgba(255,255,255,.04) !important;
+}
+
+.stat-value {
+  color: #fff7e8 !important;
+}
+
+.stat-label {
+  color: #aebdcd !important;
+}
+
+/* Sección carrera */
+.section-title {
+  color: #fff7e8 !important;
+}
+
+.section-desc {
+  color: #c3cfda !important;
+}
+
+/* Pista con tablero premium */
+.pista-container {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.055), rgba(255,255,255,.012)),
+    linear-gradient(180deg, #0a223c 0%, #06172a 100%) !important;
+  border: 3px solid #d8a33a !important;
+  box-shadow:
+    0 0 0 2px #08101d,
+    0 0 0 7px #123e2d,
+    0 24px 70px rgba(0,0,0,.58),
+    inset 0 0 72px rgba(0,0,0,.30) !important;
+}
+
+.pista-marcadores {
+  background: linear-gradient(90deg, #050b16, #09213d, #050b16) !important;
+  border-bottom: 1px solid rgba(216,163,58,.35) !important;
+}
+
+.marcador-salida,
+.marcador-meta,
+.pista-marcadores span {
+  color: #ffd36c !important;
+  text-shadow: 0 0 12px rgba(216,163,58,.28) !important;
+}
+
+/* Carriles uniformes en azul estadio, no multicolor */
+.carril,
+.carril:nth-child(5n+1),
+.carril:nth-child(5n+2),
+.carril:nth-child(5n+3),
+.carril:nth-child(5n+4),
+.carril:nth-child(5n+5) {
+  background:
+    linear-gradient(90deg, rgba(216,163,58,.045), transparent 20%, rgba(83,200,245,.035) 65%, transparent),
+    linear-gradient(180deg, rgba(255,255,255,.035), rgba(0,0,0,.08)),
+    linear-gradient(90deg, #0b2a4c 0%, #071c34 58%, #061529 100%) !important;
+}
+
+.carril:nth-child(even) {
+  background:
+    linear-gradient(90deg, rgba(216,163,58,.04), transparent 20%, rgba(83,200,245,.03) 65%, transparent),
+    linear-gradient(180deg, rgba(255,255,255,.025), rgba(0,0,0,.10)),
+    linear-gradient(90deg, #09243f 0%, #061a30 58%, #051326 100%) !important;
+}
+
+.carril:hover {
+  filter: brightness(1.13) !important;
+  box-shadow: inset 0 0 30px rgba(216,163,58,.10) !important;
+}
+
+.carril::after {
+  background: linear-gradient(90deg, rgba(127,92,28,.68), #d8a33a, #fff1bf, #d8a33a, rgba(127,92,28,.68)) !important;
+  height: 2px !important;
+}
+
+.carril-sidebar {
+  background: linear-gradient(180deg, rgba(5,13,25,.78), rgba(4,10,19,.72)) !important;
+  border-right: 1px solid rgba(216,163,58,.28) !important;
+}
+
+.carril-lider {
+  border-left-color: #ffd36c !important;
+  box-shadow: inset 8px 0 18px rgba(216,163,58,.17) !important;
+}
+
+.carril-pos-badge {
+  box-shadow: 0 4px 12px rgba(0,0,0,.35), inset 0 0 0 1px rgba(255,255,255,.12) !important;
+}
+
+.carril-watermark {
+  color: #b7cff0 !important;
+  opacity: .13 !important;
+}
+
+.carril-score {
+  background: linear-gradient(180deg, rgba(9,15,25,.94), rgba(0,0,0,.82)) !important;
+  border: 1px solid rgba(216,163,58,.38) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,.36) !important;
+}
+
+.carril-score-pts,
+.carril-score strong {
+  color: #fff7e8 !important;
+}
+
+.carril-score-label,
+.carril-score span {
+  color: #d9e2ed !important;
+}
+
+/* Meta más visible */
+.pista-carriles::after {
+  background: repeating-linear-gradient(
+    180deg,
+    #ffd36c 0px,
+    #ffd36c 10px,
+    #050505 10px,
+    #050505 20px
+  ) !important;
+  box-shadow: 0 0 18px rgba(255,211,108,.48), 0 0 34px rgba(255,211,108,.16) !important;
+}
+
+/* Salida menos pesada */
+.pista-carriles::before {
+  opacity: .9 !important;
+}
+
+/* Área de pasto debajo, como mockup */
+.pista-container::after {
+  content: '' !important;
+  display: block !important;
+  height: 14px !important;
+  background:
+    repeating-linear-gradient(90deg, rgba(68,132,48,.45) 0 6px, rgba(35,95,38,.45) 6px 12px),
+    linear-gradient(180deg, #123e2d, #0b241b) !important;
+  border-top: 1px solid rgba(216,163,58,.26) !important;
+}
+
+/* Avatar: más protagonista */
+.avatar-race {
+  filter: drop-shadow(0 8px 14px rgba(0,0,0,.65)) !important;
+}
+
+.avatar-fallback {
+  filter: grayscale(.18) drop-shadow(0 8px 12px rgba(0,0,0,.58)) !important;
+}
+
+/* Abajo: tarjetas en azul premium */
+.tb-col,
+.partido-col,
+.resumen-card,
+.rm-card,
+.ranking-tabla {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.018)),
+    linear-gradient(180deg, rgba(9,35,64,.92), rgba(5,18,34,.92)) !important;
+  border-color: rgba(216,163,58,.24) !important;
+}
+
+/* Modo claro mantiene identidad México */
+[data-theme="light"] .hero-title {
+  background: linear-gradient(135deg, #0e5729 0%, #e85d04 50%, #cf2733 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+[data-theme="light"] .hero-subtitle,
+[data-theme="light"] .section-desc {
+  color: #56604e !important;
+}
+
+[data-theme="light"] .section-title {
+  color: #20251d !important;
+}
+
+[data-theme="light"] .pista-container {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.45), rgba(255,255,255,.10)),
+    linear-gradient(180deg, #fff0c9 0%, #f9dca3 100%) !important;
+  border-color: #17783c !important;
+  box-shadow:
+    0 0 0 2px #0e5729,
+    0 0 0 7px #e85d04,
+    0 22px 58px rgba(93,58,13,.18),
+    inset 0 0 46px rgba(93,58,13,.10) !important;
+}
+
+[data-theme="light"] .pista-marcadores {
+  background: linear-gradient(90deg, #0e5729, #17783c, #0e5729) !important;
+}
+
+[data-theme="light"] .carril,
+[data-theme="light"] .carril:nth-child(5n+1),
+[data-theme="light"] .carril:nth-child(5n+2),
+[data-theme="light"] .carril:nth-child(5n+3),
+[data-theme="light"] .carril:nth-child(5n+4),
+[data-theme="light"] .carril:nth-child(5n+5) {
+  background:
+    linear-gradient(90deg, rgba(23,120,60,.08), transparent 28%, rgba(232,93,4,.06)),
+    linear-gradient(180deg, rgba(255,255,255,.50), rgba(255,246,226,.55)),
+    #fff6df !important;
+}
+
+[data-theme="light"] .carril:nth-child(even) {
+  background:
+    linear-gradient(90deg, rgba(242,183,5,.10), transparent 28%, rgba(23,120,60,.06)),
+    linear-gradient(180deg, rgba(255,255,255,.50), rgba(255,246,226,.55)),
+    #fff0cc !important;
+}
+
+[data-theme="light"] .carril-sidebar {
+  background: linear-gradient(180deg, #0e5729, #17783c) !important;
+}
+
+[data-theme="light"] .carril-watermark {
+  color: #17783c !important;
+  opacity: .11 !important;
+}
+
+[data-theme="light"] .tb-col,
+[data-theme="light"] .partido-col,
+[data-theme="light"] .resumen-card,
+[data-theme="light"] .rm-card,
+[data-theme="light"] .ranking-tabla {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.76), rgba(255,248,232,.92)),
+    #fffaf0 !important;
+  border-color: rgba(23,120,60,.18) !important;
+}
+
+/* Responsive */
+@media (max-width: 860px) {
+  .luces-container::before,
+  .luces-container::after {
+    width: 150px !important;
+    height: 80px !important;
+    opacity: .55 !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .luces-container::before,
+  .luces-container::after {
+    display: none !important;
+  }
+
+  .pista-container::after {
+    height: 8px !important;
+  }
+}
