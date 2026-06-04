@@ -820,12 +820,14 @@ html[data-theme="light"] .stat-card {
   color: var(--text);
 }
 
-.match-teams span {
-  color: var(--gold-2);
-  font-weight: 950;
-  text-transform: uppercase;
+.match-hype {
+  margin: 0.75rem 0 0.9rem;
+  color: var(--text-2);
+  font-size: 0.82rem;
+  font-weight: 750;
+  line-height: 1.35;
+  text-align: center;
 }
-
 .vote-row {
   display: grid;
   grid-template-columns: 90px 1fr 28px;
