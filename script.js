@@ -345,7 +345,11 @@ function renderPartidoCaliente() {
         <div><strong>${escapeHtml(visitante)}</strong></div>
       </div>
 
-      <p class="match-hype">${frase}</p>
+     <div class="match-teams">
+  <div><strong>${escapeHtml(local)}</strong></div>
+  <span>vs</span>
+  <div><strong>${escapeHtml(visitante)}</strong></div>
+</div>
 
       ${renderVoteBar(local, conteo.local, total)}
       ${renderVoteBar('Empate', conteo.empate, total)}
