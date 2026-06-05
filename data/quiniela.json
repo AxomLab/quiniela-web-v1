@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-05T21:07:31.282Z",
+    "ultimaActualizacion": "2026-06-05T21:10:05.236Z",
     "totalParticipantes": 20,
-    "participantesActivos": 15,
+    "participantesActivos": 16,
     "partidosJugados": 0,
     "partidosPendientes": 72,
     "totalPartidos": 72,
@@ -1165,6 +1165,21 @@
       "Alias": "Paco",
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
+    },
+    {
+      "row_number": 17,
+      "ParticipanteID": 16,
+      "Nombre": "Shishi",
+      "Alias": "Shishi",
+      "Avatar": "Shishi.png",
+      "Color": "#43A047",
       "Activo": "Sí",
       "Puntos": 0,
       "Aciertos": 0,
