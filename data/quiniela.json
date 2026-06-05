@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-05T18:55:55.679Z",
+    "ultimaActualizacion": "2026-06-05T21:07:31.282Z",
     "totalParticipantes": 20,
     "participantesActivos": 15,
     "partidosJugados": 0,
@@ -13058,794 +13058,794 @@
     {
       "row_number": 1082,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1083,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1084,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1085,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1086,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1087,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1088,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1089,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1090,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1091,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1092,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1093,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1094,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1095,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1096,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1097,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1098,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1099,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1100,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1101,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1102,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1103,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1104,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1105,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1106,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1107,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1108,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1109,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1110,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1111,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1112,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1113,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1114,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1115,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1116,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1117,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1118,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1119,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1120,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1121,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1122,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1123,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1124,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1125,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1126,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1127,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1128,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1129,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1130,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1131,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1132,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1133,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1134,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1135,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1136,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1137,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1138,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1139,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1140,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1141,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1142,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1143,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1144,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1145,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1146,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1147,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1148,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1149,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1150,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1151,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1152,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1153,
       "ParticipanteID": 16,
-      "Nombre": "Participante 16",
+      "Nombre": "Shishi",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1154,
