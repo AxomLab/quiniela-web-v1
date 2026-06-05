@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-05T16:38:12.436Z",
+    "ultimaActualizacion": "2026-06-05T16:42:58.332Z",
     "totalParticipantes": 20,
     "participantesActivos": 12,
-    "partidosJugados": 10,
-    "partidosPendientes": 62,
+    "partidosJugados": 20,
+    "partidosPendientes": 52,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -148,9 +148,9 @@
       "Grupo": "E",
       "Local": "Costa de Marfil",
       "Visitante": "Ecuador",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Ecuador",
       "Revision": "OK"
     },
     {
@@ -161,9 +161,9 @@
       "Grupo": "F",
       "Local": "Suecia",
       "Visitante": "Túnez",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Suecia",
       "Revision": "OK"
     },
     {
@@ -174,9 +174,9 @@
       "Grupo": "H",
       "Local": "España",
       "Visitante": "Cabo Verde",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "España",
       "Revision": "OK"
     },
     {
@@ -187,9 +187,9 @@
       "Grupo": "G",
       "Local": "Bélgica",
       "Visitante": "Egipto",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Bélgica",
       "Revision": "OK"
     },
     {
@@ -200,9 +200,9 @@
       "Grupo": "H",
       "Local": "Arabia Saudita",
       "Visitante": "Uruguay",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Uruguay",
       "Revision": "OK"
     },
     {
@@ -213,9 +213,9 @@
       "Grupo": "G",
       "Local": "Irán",
       "Visitante": "Nueva Zelanda",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -226,9 +226,9 @@
       "Grupo": "I",
       "Local": "Francia",
       "Visitante": "Senegal",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Francia",
       "Revision": "OK"
     },
     {
@@ -239,9 +239,9 @@
       "Grupo": "I",
       "Local": "Irak",
       "Visitante": "Noruega",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Noruega",
       "Revision": "OK"
     },
     {
@@ -252,9 +252,9 @@
       "Grupo": "J",
       "Local": "Argentina",
       "Visitante": "Argelia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Argentina",
       "Revision": "OK"
     },
     {
@@ -265,9 +265,9 @@
       "Grupo": "J",
       "Local": "Austria",
       "Visitante": "Jordania",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,7 +958,7 @@
       "Activo": "Sí",
       "Puntos": 0,
       "Aciertos": 0,
-      "PartidosJugados": 10,
+      "PartidosJugados": 20,
       "Porcentaje": 0,
       "Posicion": 12,
       "Revision": "OK"
@@ -971,11 +971,11 @@
       "Avatar": "Saul.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
-      "Posicion": 9,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.55,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.8,
-      "Posicion": 1,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.75,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
-      "Posicion": 9,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.55,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.7,
-      "Posicion": 4,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.75,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.6,
-      "Posicion": 8,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.7,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.7,
-      "Posicion": 4,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.75,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 10,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 20,
       "Porcentaje": 0.8,
-      "Posicion": 1,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.8,
+      "Puntos": 17,
+      "Aciertos": 17,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.85,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.65,
       "Posicion": 9,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.7,
-      "Posicion": 4,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.75,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 10,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 20,
       "Porcentaje": 0.7,
-      "Posicion": 4,
+      "Posicion": 7,
       "Revision": "OK"
     }
   ],
@@ -1247,7 +1247,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1258,7 +1258,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1269,7 +1269,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1280,7 +1280,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1291,7 +1291,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1302,7 +1302,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1313,7 +1313,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1324,7 +1324,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1335,7 +1335,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1346,7 +1346,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -2039,7 +2039,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2050,7 +2050,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2061,8 +2061,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2072,8 +2072,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2083,8 +2083,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2094,7 +2094,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2105,8 +2105,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2116,8 +2116,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2127,8 +2127,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2138,7 +2138,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2831,7 +2831,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2842,8 +2842,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2853,8 +2853,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2864,8 +2864,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2875,8 +2875,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2886,7 +2886,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2897,8 +2897,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2908,8 +2908,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2919,8 +2919,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2930,7 +2930,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3623,7 +3623,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3634,8 +3634,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3645,8 +3645,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3656,7 +3656,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3667,8 +3667,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3678,7 +3678,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3689,8 +3689,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3700,8 +3700,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3711,8 +3711,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3722,7 +3722,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4415,7 +4415,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4426,8 +4426,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4437,8 +4437,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4448,8 +4448,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4459,8 +4459,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4470,7 +4470,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4481,8 +4481,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4492,8 +4492,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4503,8 +4503,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4514,8 +4514,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5207,8 +5207,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5218,8 +5218,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5229,8 +5229,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5240,8 +5240,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5251,8 +5251,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5262,7 +5262,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5273,8 +5273,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5284,8 +5284,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5295,8 +5295,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5306,7 +5306,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5999,8 +5999,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6010,7 +6010,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6021,8 +6021,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6032,8 +6032,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6043,8 +6043,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6054,8 +6054,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6065,8 +6065,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6076,8 +6076,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6087,8 +6087,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6098,7 +6098,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6791,7 +6791,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6802,8 +6802,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6813,8 +6813,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6824,8 +6824,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6835,8 +6835,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6846,8 +6846,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6857,8 +6857,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6868,7 +6868,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6879,8 +6879,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6890,8 +6890,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7583,7 +7583,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7594,8 +7594,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7605,8 +7605,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7616,8 +7616,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7627,8 +7627,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7638,8 +7638,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7649,8 +7649,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7660,8 +7660,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7671,8 +7671,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7682,8 +7682,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8375,8 +8375,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8386,8 +8386,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8397,8 +8397,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8408,8 +8408,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8419,8 +8419,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8430,7 +8430,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8441,8 +8441,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8452,8 +8452,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8463,8 +8463,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8474,7 +8474,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9167,8 +9167,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9178,8 +9178,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9189,8 +9189,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9200,8 +9200,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9211,8 +9211,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9222,7 +9222,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9233,8 +9233,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9244,7 +9244,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9255,8 +9255,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9266,8 +9266,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9959,7 +9959,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9970,8 +9970,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9981,8 +9981,8 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9992,8 +9992,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10003,8 +10003,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10014,7 +10014,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10025,8 +10025,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10036,8 +10036,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10047,8 +10047,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10058,7 +10058,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10751,7 +10751,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10762,7 +10762,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10773,7 +10773,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10784,7 +10784,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10795,7 +10795,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10806,7 +10806,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10817,7 +10817,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10828,7 +10828,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10839,7 +10839,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10850,7 +10850,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11543,7 +11543,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11554,7 +11554,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11565,7 +11565,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11576,7 +11576,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11587,7 +11587,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11598,7 +11598,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11609,7 +11609,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11620,7 +11620,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11631,7 +11631,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11642,7 +11642,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12335,7 +12335,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12346,7 +12346,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12357,7 +12357,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12368,7 +12368,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12379,7 +12379,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12390,7 +12390,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12401,7 +12401,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12412,7 +12412,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12423,7 +12423,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12434,7 +12434,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13127,7 +13127,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13138,7 +13138,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13149,7 +13149,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13160,7 +13160,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13171,7 +13171,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13182,7 +13182,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13193,7 +13193,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13204,7 +13204,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13215,7 +13215,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13226,7 +13226,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13919,7 +13919,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13930,7 +13930,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13941,7 +13941,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13952,7 +13952,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13963,7 +13963,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13974,7 +13974,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13985,7 +13985,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13996,7 +13996,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14007,7 +14007,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14018,7 +14018,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14711,7 +14711,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14722,7 +14722,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14733,7 +14733,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14744,7 +14744,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14755,7 +14755,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14766,7 +14766,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14777,7 +14777,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14788,7 +14788,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14799,7 +14799,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14810,7 +14810,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15503,7 +15503,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15514,7 +15514,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15525,7 +15525,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15536,7 +15536,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15547,7 +15547,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15558,7 +15558,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15569,7 +15569,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15580,7 +15580,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15591,7 +15591,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15602,7 +15602,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16295,7 +16295,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16306,7 +16306,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16317,7 +16317,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16328,7 +16328,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16339,7 +16339,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16350,7 +16350,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16361,7 +16361,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16372,7 +16372,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16383,7 +16383,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16394,7 +16394,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
