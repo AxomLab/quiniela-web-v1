@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-05T16:47:26.902Z",
+    "ultimaActualizacion": "2026-06-05T17:41:00.107Z",
     "totalParticipantes": 20,
-    "participantesActivos": 12,
+    "participantesActivos": 15,
     "partidosJugados": 0,
     "partidosPendientes": 72,
     "totalPartidos": 72,
@@ -1120,6 +1120,51 @@
       "Alias": "Rodo",
       "Avatar": "Rodo.png",
       "Color": "#00897B",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
+    },
+    {
+      "row_number": 14,
+      "ParticipanteID": 13,
+      "Nombre": "Kare",
+      "Alias": "Kare",
+      "Avatar": "Kare.png",
+      "Color": "#5E35B1",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
+    },
+    {
+      "row_number": 15,
+      "ParticipanteID": 14,
+      "Nombre": "Francisco",
+      "Alias": "Francisco",
+      "Avatar": "Francisco.png",
+      "Color": "#1E88E5",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
+    },
+    {
+      "row_number": 16,
+      "ParticipanteID": 15,
+      "Nombre": "Paco",
+      "Alias": "Paco",
+      "Avatar": "Paco.png",
+      "Color": "#00ACC1",
       "Activo": "Sí",
       "Puntos": 0,
       "Aciertos": 0,
@@ -10637,7 +10682,7 @@
     {
       "row_number": 866,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
@@ -10648,7 +10693,7 @@
     {
       "row_number": 867,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
@@ -10659,7 +10704,7 @@
     {
       "row_number": 868,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
@@ -10670,7 +10715,7 @@
     {
       "row_number": 869,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
@@ -10681,7 +10726,7 @@
     {
       "row_number": 870,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
@@ -10692,7 +10737,7 @@
     {
       "row_number": 871,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
@@ -10703,7 +10748,7 @@
     {
       "row_number": 872,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
@@ -10714,7 +10759,7 @@
     {
       "row_number": 873,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
@@ -10725,7 +10770,7 @@
     {
       "row_number": 874,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
@@ -10736,7 +10781,7 @@
     {
       "row_number": 875,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
@@ -10747,7 +10792,7 @@
     {
       "row_number": 876,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
@@ -10758,7 +10803,7 @@
     {
       "row_number": 877,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
@@ -10769,7 +10814,7 @@
     {
       "row_number": 878,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
@@ -10780,7 +10825,7 @@
     {
       "row_number": 879,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
@@ -10791,7 +10836,7 @@
     {
       "row_number": 880,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
@@ -10802,7 +10847,7 @@
     {
       "row_number": 881,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
@@ -10813,7 +10858,7 @@
     {
       "row_number": 882,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
@@ -10824,7 +10869,7 @@
     {
       "row_number": 883,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
@@ -10835,7 +10880,7 @@
     {
       "row_number": 884,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
@@ -10846,7 +10891,7 @@
     {
       "row_number": 885,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
@@ -10857,7 +10902,7 @@
     {
       "row_number": 886,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "",
@@ -10868,7 +10913,7 @@
     {
       "row_number": 887,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "",
@@ -10879,7 +10924,7 @@
     {
       "row_number": 888,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "",
@@ -10890,7 +10935,7 @@
     {
       "row_number": 889,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "",
@@ -10901,7 +10946,7 @@
     {
       "row_number": 890,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "",
@@ -10912,7 +10957,7 @@
     {
       "row_number": 891,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "",
@@ -10923,7 +10968,7 @@
     {
       "row_number": 892,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "",
@@ -10934,7 +10979,7 @@
     {
       "row_number": 893,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "",
@@ -10945,7 +10990,7 @@
     {
       "row_number": 894,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "",
@@ -10956,7 +11001,7 @@
     {
       "row_number": 895,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "",
@@ -10967,7 +11012,7 @@
     {
       "row_number": 896,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "",
@@ -10978,7 +11023,7 @@
     {
       "row_number": 897,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "",
@@ -10989,7 +11034,7 @@
     {
       "row_number": 898,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "",
@@ -11000,7 +11045,7 @@
     {
       "row_number": 899,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "",
@@ -11011,7 +11056,7 @@
     {
       "row_number": 900,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "",
@@ -11022,7 +11067,7 @@
     {
       "row_number": 901,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "",
@@ -11033,7 +11078,7 @@
     {
       "row_number": 902,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "",
@@ -11044,7 +11089,7 @@
     {
       "row_number": 903,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "",
@@ -11055,7 +11100,7 @@
     {
       "row_number": 904,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "",
@@ -11066,7 +11111,7 @@
     {
       "row_number": 905,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "",
@@ -11077,7 +11122,7 @@
     {
       "row_number": 906,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "",
@@ -11088,7 +11133,7 @@
     {
       "row_number": 907,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "",
@@ -11099,7 +11144,7 @@
     {
       "row_number": 908,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "",
@@ -11110,7 +11155,7 @@
     {
       "row_number": 909,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "",
@@ -11121,7 +11166,7 @@
     {
       "row_number": 910,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "",
@@ -11132,7 +11177,7 @@
     {
       "row_number": 911,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "",
@@ -11143,7 +11188,7 @@
     {
       "row_number": 912,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "",
@@ -11154,7 +11199,7 @@
     {
       "row_number": 913,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "",
@@ -11165,7 +11210,7 @@
     {
       "row_number": 914,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "",
@@ -11176,7 +11221,7 @@
     {
       "row_number": 915,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "",
@@ -11187,7 +11232,7 @@
     {
       "row_number": 916,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "",
@@ -11198,7 +11243,7 @@
     {
       "row_number": 917,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "",
@@ -11209,7 +11254,7 @@
     {
       "row_number": 918,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "",
@@ -11220,7 +11265,7 @@
     {
       "row_number": 919,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "",
@@ -11231,7 +11276,7 @@
     {
       "row_number": 920,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "",
@@ -11242,7 +11287,7 @@
     {
       "row_number": 921,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "",
@@ -11253,7 +11298,7 @@
     {
       "row_number": 922,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "",
@@ -11264,7 +11309,7 @@
     {
       "row_number": 923,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "",
@@ -11275,7 +11320,7 @@
     {
       "row_number": 924,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "",
@@ -11286,7 +11331,7 @@
     {
       "row_number": 925,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "",
@@ -11297,7 +11342,7 @@
     {
       "row_number": 926,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "",
@@ -11308,7 +11353,7 @@
     {
       "row_number": 927,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "",
@@ -11319,7 +11364,7 @@
     {
       "row_number": 928,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "",
@@ -11330,7 +11375,7 @@
     {
       "row_number": 929,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "",
@@ -11341,7 +11386,7 @@
     {
       "row_number": 930,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "",
@@ -11352,7 +11397,7 @@
     {
       "row_number": 931,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "",
@@ -11363,7 +11408,7 @@
     {
       "row_number": 932,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "",
@@ -11374,7 +11419,7 @@
     {
       "row_number": 933,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "",
@@ -11385,7 +11430,7 @@
     {
       "row_number": 934,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "",
@@ -11396,7 +11441,7 @@
     {
       "row_number": 935,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "",
@@ -11407,7 +11452,7 @@
     {
       "row_number": 936,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "",
@@ -11418,7 +11463,7 @@
     {
       "row_number": 937,
       "ParticipanteID": 13,
-      "Nombre": "Participante 13",
+      "Nombre": "Kare",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "",
@@ -11429,7 +11474,7 @@
     {
       "row_number": 938,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
@@ -11440,7 +11485,7 @@
     {
       "row_number": 939,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
@@ -11451,7 +11496,7 @@
     {
       "row_number": 940,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
@@ -11462,7 +11507,7 @@
     {
       "row_number": 941,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
@@ -11473,7 +11518,7 @@
     {
       "row_number": 942,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
@@ -11484,7 +11529,7 @@
     {
       "row_number": 943,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
@@ -11495,7 +11540,7 @@
     {
       "row_number": 944,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
@@ -11506,7 +11551,7 @@
     {
       "row_number": 945,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
@@ -11517,7 +11562,7 @@
     {
       "row_number": 946,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
@@ -11528,7 +11573,7 @@
     {
       "row_number": 947,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
@@ -11539,7 +11584,7 @@
     {
       "row_number": 948,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
@@ -11550,7 +11595,7 @@
     {
       "row_number": 949,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
@@ -11561,7 +11606,7 @@
     {
       "row_number": 950,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
@@ -11572,7 +11617,7 @@
     {
       "row_number": 951,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
@@ -11583,7 +11628,7 @@
     {
       "row_number": 952,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
@@ -11594,7 +11639,7 @@
     {
       "row_number": 953,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
@@ -11605,7 +11650,7 @@
     {
       "row_number": 954,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
@@ -11616,7 +11661,7 @@
     {
       "row_number": 955,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
@@ -11627,7 +11672,7 @@
     {
       "row_number": 956,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
@@ -11638,7 +11683,7 @@
     {
       "row_number": 957,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
@@ -11649,7 +11694,7 @@
     {
       "row_number": 958,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "",
@@ -11660,7 +11705,7 @@
     {
       "row_number": 959,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "",
@@ -11671,7 +11716,7 @@
     {
       "row_number": 960,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "",
@@ -11682,7 +11727,7 @@
     {
       "row_number": 961,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "",
@@ -11693,7 +11738,7 @@
     {
       "row_number": 962,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "",
@@ -11704,7 +11749,7 @@
     {
       "row_number": 963,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "",
@@ -11715,7 +11760,7 @@
     {
       "row_number": 964,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "",
@@ -11726,7 +11771,7 @@
     {
       "row_number": 965,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "",
@@ -11737,7 +11782,7 @@
     {
       "row_number": 966,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "",
@@ -11748,7 +11793,7 @@
     {
       "row_number": 967,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "",
@@ -11759,7 +11804,7 @@
     {
       "row_number": 968,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "",
@@ -11770,7 +11815,7 @@
     {
       "row_number": 969,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "",
@@ -11781,7 +11826,7 @@
     {
       "row_number": 970,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "",
@@ -11792,7 +11837,7 @@
     {
       "row_number": 971,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "",
@@ -11803,7 +11848,7 @@
     {
       "row_number": 972,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "",
@@ -11814,7 +11859,7 @@
     {
       "row_number": 973,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "",
@@ -11825,7 +11870,7 @@
     {
       "row_number": 974,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "",
@@ -11836,7 +11881,7 @@
     {
       "row_number": 975,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "",
@@ -11847,7 +11892,7 @@
     {
       "row_number": 976,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "",
@@ -11858,7 +11903,7 @@
     {
       "row_number": 977,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "",
@@ -11869,7 +11914,7 @@
     {
       "row_number": 978,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "",
@@ -11880,7 +11925,7 @@
     {
       "row_number": 979,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "",
@@ -11891,7 +11936,7 @@
     {
       "row_number": 980,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "",
@@ -11902,7 +11947,7 @@
     {
       "row_number": 981,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "",
@@ -11913,7 +11958,7 @@
     {
       "row_number": 982,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "",
@@ -11924,7 +11969,7 @@
     {
       "row_number": 983,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "",
@@ -11935,7 +11980,7 @@
     {
       "row_number": 984,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "",
@@ -11946,7 +11991,7 @@
     {
       "row_number": 985,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "",
@@ -11957,7 +12002,7 @@
     {
       "row_number": 986,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "",
@@ -11968,7 +12013,7 @@
     {
       "row_number": 987,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "",
@@ -11979,7 +12024,7 @@
     {
       "row_number": 988,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "",
@@ -11990,7 +12035,7 @@
     {
       "row_number": 989,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "",
@@ -12001,7 +12046,7 @@
     {
       "row_number": 990,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "",
@@ -12012,7 +12057,7 @@
     {
       "row_number": 991,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "",
@@ -12023,7 +12068,7 @@
     {
       "row_number": 992,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "",
@@ -12034,7 +12079,7 @@
     {
       "row_number": 993,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "",
@@ -12045,7 +12090,7 @@
     {
       "row_number": 994,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "",
@@ -12056,7 +12101,7 @@
     {
       "row_number": 995,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "",
@@ -12067,7 +12112,7 @@
     {
       "row_number": 996,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "",
@@ -12078,7 +12123,7 @@
     {
       "row_number": 997,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "",
@@ -12089,7 +12134,7 @@
     {
       "row_number": 998,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "",
@@ -12100,7 +12145,7 @@
     {
       "row_number": 999,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "",
@@ -12111,7 +12156,7 @@
     {
       "row_number": 1000,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "",
@@ -12122,7 +12167,7 @@
     {
       "row_number": 1001,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "",
@@ -12133,7 +12178,7 @@
     {
       "row_number": 1002,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "",
@@ -12144,7 +12189,7 @@
     {
       "row_number": 1003,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "",
@@ -12155,7 +12200,7 @@
     {
       "row_number": 1004,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "",
@@ -12166,7 +12211,7 @@
     {
       "row_number": 1005,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "",
@@ -12177,7 +12222,7 @@
     {
       "row_number": 1006,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "",
@@ -12188,7 +12233,7 @@
     {
       "row_number": 1007,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "",
@@ -12199,7 +12244,7 @@
     {
       "row_number": 1008,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "",
@@ -12210,7 +12255,7 @@
     {
       "row_number": 1009,
       "ParticipanteID": 14,
-      "Nombre": "Participante 14",
+      "Nombre": "Francisco",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "",
@@ -12221,7 +12266,7 @@
     {
       "row_number": 1010,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
@@ -12232,7 +12277,7 @@
     {
       "row_number": 1011,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
@@ -12243,7 +12288,7 @@
     {
       "row_number": 1012,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
@@ -12254,7 +12299,7 @@
     {
       "row_number": 1013,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
@@ -12265,7 +12310,7 @@
     {
       "row_number": 1014,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
@@ -12276,7 +12321,7 @@
     {
       "row_number": 1015,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
@@ -12287,7 +12332,7 @@
     {
       "row_number": 1016,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
@@ -12298,7 +12343,7 @@
     {
       "row_number": 1017,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
@@ -12309,7 +12354,7 @@
     {
       "row_number": 1018,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
@@ -12320,7 +12365,7 @@
     {
       "row_number": 1019,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
@@ -12331,7 +12376,7 @@
     {
       "row_number": 1020,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
@@ -12342,7 +12387,7 @@
     {
       "row_number": 1021,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
@@ -12353,7 +12398,7 @@
     {
       "row_number": 1022,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
@@ -12364,7 +12409,7 @@
     {
       "row_number": 1023,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
@@ -12375,7 +12420,7 @@
     {
       "row_number": 1024,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
@@ -12386,7 +12431,7 @@
     {
       "row_number": 1025,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
@@ -12397,7 +12442,7 @@
     {
       "row_number": 1026,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
@@ -12408,7 +12453,7 @@
     {
       "row_number": 1027,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
@@ -12419,7 +12464,7 @@
     {
       "row_number": 1028,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
@@ -12430,7 +12475,7 @@
     {
       "row_number": 1029,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
@@ -12441,7 +12486,7 @@
     {
       "row_number": 1030,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "",
@@ -12452,7 +12497,7 @@
     {
       "row_number": 1031,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "",
@@ -12463,7 +12508,7 @@
     {
       "row_number": 1032,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "",
@@ -12474,7 +12519,7 @@
     {
       "row_number": 1033,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "",
@@ -12485,7 +12530,7 @@
     {
       "row_number": 1034,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "",
@@ -12496,7 +12541,7 @@
     {
       "row_number": 1035,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "",
@@ -12507,7 +12552,7 @@
     {
       "row_number": 1036,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "",
@@ -12518,7 +12563,7 @@
     {
       "row_number": 1037,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "",
@@ -12529,7 +12574,7 @@
     {
       "row_number": 1038,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "",
@@ -12540,7 +12585,7 @@
     {
       "row_number": 1039,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "",
@@ -12551,7 +12596,7 @@
     {
       "row_number": 1040,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "",
@@ -12562,7 +12607,7 @@
     {
       "row_number": 1041,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "",
@@ -12573,7 +12618,7 @@
     {
       "row_number": 1042,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "",
@@ -12584,7 +12629,7 @@
     {
       "row_number": 1043,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "",
@@ -12595,7 +12640,7 @@
     {
       "row_number": 1044,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "",
@@ -12606,7 +12651,7 @@
     {
       "row_number": 1045,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "",
@@ -12617,7 +12662,7 @@
     {
       "row_number": 1046,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "",
@@ -12628,7 +12673,7 @@
     {
       "row_number": 1047,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "",
@@ -12639,7 +12684,7 @@
     {
       "row_number": 1048,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "",
@@ -12650,7 +12695,7 @@
     {
       "row_number": 1049,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "",
@@ -12661,7 +12706,7 @@
     {
       "row_number": 1050,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "",
@@ -12672,7 +12717,7 @@
     {
       "row_number": 1051,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "",
@@ -12683,7 +12728,7 @@
     {
       "row_number": 1052,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "",
@@ -12694,7 +12739,7 @@
     {
       "row_number": 1053,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "",
@@ -12705,7 +12750,7 @@
     {
       "row_number": 1054,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "",
@@ -12716,7 +12761,7 @@
     {
       "row_number": 1055,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "",
@@ -12727,7 +12772,7 @@
     {
       "row_number": 1056,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "",
@@ -12738,7 +12783,7 @@
     {
       "row_number": 1057,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "",
@@ -12749,7 +12794,7 @@
     {
       "row_number": 1058,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "",
@@ -12760,7 +12805,7 @@
     {
       "row_number": 1059,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "",
@@ -12771,7 +12816,7 @@
     {
       "row_number": 1060,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "",
@@ -12782,7 +12827,7 @@
     {
       "row_number": 1061,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "",
@@ -12793,7 +12838,7 @@
     {
       "row_number": 1062,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "",
@@ -12804,7 +12849,7 @@
     {
       "row_number": 1063,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "",
@@ -12815,7 +12860,7 @@
     {
       "row_number": 1064,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "",
@@ -12826,7 +12871,7 @@
     {
       "row_number": 1065,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "",
@@ -12837,7 +12882,7 @@
     {
       "row_number": 1066,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "",
@@ -12848,7 +12893,7 @@
     {
       "row_number": 1067,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "",
@@ -12859,7 +12904,7 @@
     {
       "row_number": 1068,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "",
@@ -12870,7 +12915,7 @@
     {
       "row_number": 1069,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "",
@@ -12881,7 +12926,7 @@
     {
       "row_number": 1070,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "",
@@ -12892,7 +12937,7 @@
     {
       "row_number": 1071,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "",
@@ -12903,7 +12948,7 @@
     {
       "row_number": 1072,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "",
@@ -12914,7 +12959,7 @@
     {
       "row_number": 1073,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "",
@@ -12925,7 +12970,7 @@
     {
       "row_number": 1074,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "",
@@ -12936,7 +12981,7 @@
     {
       "row_number": 1075,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "",
@@ -12947,7 +12992,7 @@
     {
       "row_number": 1076,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "",
@@ -12958,7 +13003,7 @@
     {
       "row_number": 1077,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "",
@@ -12969,7 +13014,7 @@
     {
       "row_number": 1078,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "",
@@ -12980,7 +13025,7 @@
     {
       "row_number": 1079,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "",
@@ -12991,7 +13036,7 @@
     {
       "row_number": 1080,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "",
@@ -13002,7 +13047,7 @@
     {
       "row_number": 1081,
       "ParticipanteID": 15,
-      "Nombre": "Participante 15",
+      "Nombre": "Paco",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "",
