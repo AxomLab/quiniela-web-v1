@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-04T22:32:34.001Z",
+    "ultimaActualizacion": "2026-06-05T16:38:12.436Z",
     "totalParticipantes": 20,
     "participantesActivos": 12,
-    "partidosJugados": 0,
-    "partidosPendientes": 72,
+    "partidosJugados": 10,
+    "partidosPendientes": 62,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -18,9 +18,9 @@
       "Grupo": "A",
       "Local": "México",
       "Visitante": "Sudáfrica",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "México",
       "Revision": "OK"
     },
     {
@@ -31,9 +31,9 @@
       "Grupo": "A",
       "Local": "Corea del Sur",
       "Visitante": "Rep. Checa",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Corea del Sur",
       "Revision": "OK"
     },
     {
@@ -44,9 +44,9 @@
       "Grupo": "B",
       "Local": "Canadá",
       "Visitante": "Bosnia y Herz.",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Canadá",
       "Revision": "OK"
     },
     {
@@ -57,9 +57,9 @@
       "Grupo": "D",
       "Local": "Estados Unidos",
       "Visitante": "Paraguay",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -70,9 +70,9 @@
       "Grupo": "B",
       "Local": "Qatar",
       "Visitante": "Suiza",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Suiza",
       "Revision": "OK"
     },
     {
@@ -83,9 +83,9 @@
       "Grupo": "C",
       "Local": "Brasil",
       "Visitante": "Marruecos",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Brasil",
       "Revision": "OK"
     },
     {
@@ -96,9 +96,9 @@
       "Grupo": "C",
       "Local": "Haití",
       "Visitante": "Escocia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Escocia",
       "Revision": "OK"
     },
     {
@@ -109,9 +109,9 @@
       "Grupo": "D",
       "Local": "Australia",
       "Visitante": "Turquía",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -122,9 +122,9 @@
       "Grupo": "E",
       "Local": "Alemania",
       "Visitante": "Curazao",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Alemania",
       "Revision": "OK"
     },
     {
@@ -135,9 +135,9 @@
       "Grupo": "F",
       "Local": "Países Bajos",
       "Visitante": "Japón",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Países Bajos",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 0,
       "Aciertos": 0,
-      "PartidosJugados": 0,
+      "PartidosJugados": 10,
       "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.8,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.7,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.6,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.7,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.8,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.8,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.7,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 0,
-      "Aciertos": 0,
-      "PartidosJugados": 0,
-      "Porcentaje": 0,
-      "Posicion": "Pendiente",
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.7,
+      "Posicion": 4,
       "Revision": "OK"
     }
   ],
@@ -1137,7 +1137,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1148,7 +1148,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1159,7 +1159,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1170,7 +1170,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1181,7 +1181,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1192,7 +1192,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1203,7 +1203,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1214,7 +1214,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1225,7 +1225,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1236,7 +1236,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -1929,8 +1929,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1940,7 +1940,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1951,8 +1951,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1962,7 +1962,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1973,8 +1973,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1984,7 +1984,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1995,8 +1995,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2006,7 +2006,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2017,8 +2017,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2028,7 +2028,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2721,8 +2721,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2732,7 +2732,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2743,8 +2743,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2754,7 +2754,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2765,8 +2765,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2776,8 +2776,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2787,8 +2787,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2798,8 +2798,8 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2809,8 +2809,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2820,8 +2820,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3513,8 +3513,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3524,7 +3524,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3535,8 +3535,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3546,7 +3546,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3557,8 +3557,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3568,8 +3568,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3579,7 +3579,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3590,7 +3590,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3601,8 +3601,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3612,7 +3612,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4305,8 +4305,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4316,7 +4316,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4327,8 +4327,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4338,7 +4338,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4349,8 +4349,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4360,8 +4360,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4371,8 +4371,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4382,7 +4382,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4393,8 +4393,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4404,8 +4404,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5097,8 +5097,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5108,7 +5108,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5119,8 +5119,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5130,7 +5130,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5141,8 +5141,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5152,8 +5152,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5163,8 +5163,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5174,7 +5174,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5185,8 +5185,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5196,7 +5196,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5889,8 +5889,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5900,8 +5900,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5911,8 +5911,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5922,8 +5922,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5933,8 +5933,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5944,7 +5944,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5955,8 +5955,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5966,7 +5966,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5977,8 +5977,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5988,7 +5988,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6681,8 +6681,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6692,8 +6692,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6703,8 +6703,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6714,7 +6714,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6725,8 +6725,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6736,8 +6736,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6747,8 +6747,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6758,7 +6758,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6769,8 +6769,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6780,8 +6780,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7473,8 +7473,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7484,7 +7484,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7495,8 +7495,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7506,7 +7506,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7517,8 +7517,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7528,8 +7528,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7539,8 +7539,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7550,8 +7550,8 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7561,8 +7561,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7572,8 +7572,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8265,8 +8265,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8276,7 +8276,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8287,7 +8287,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8298,7 +8298,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8309,8 +8309,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8320,8 +8320,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8331,8 +8331,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8342,7 +8342,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8353,8 +8353,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8364,7 +8364,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9057,8 +9057,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9068,7 +9068,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9079,8 +9079,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9090,7 +9090,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9101,8 +9101,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9112,8 +9112,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9123,8 +9123,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9134,7 +9134,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9145,8 +9145,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9156,8 +9156,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9849,8 +9849,8 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9860,7 +9860,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9871,8 +9871,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9882,7 +9882,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9893,8 +9893,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9904,8 +9904,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9915,8 +9915,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9926,7 +9926,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9937,8 +9937,8 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9948,8 +9948,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10641,7 +10641,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10652,7 +10652,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10663,7 +10663,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10674,7 +10674,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10685,7 +10685,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10696,7 +10696,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10707,7 +10707,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10718,7 +10718,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10729,7 +10729,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -10740,7 +10740,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11433,7 +11433,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11444,7 +11444,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11455,7 +11455,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11466,7 +11466,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11477,7 +11477,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11488,7 +11488,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11499,7 +11499,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11510,7 +11510,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11521,7 +11521,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -11532,7 +11532,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12225,7 +12225,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12236,7 +12236,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12247,7 +12247,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12258,7 +12258,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12269,7 +12269,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12280,7 +12280,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12291,7 +12291,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12302,7 +12302,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12313,7 +12313,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -12324,7 +12324,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13017,7 +13017,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13028,7 +13028,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13039,7 +13039,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13050,7 +13050,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13061,7 +13061,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13072,7 +13072,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13083,7 +13083,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13094,7 +13094,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13105,7 +13105,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13116,7 +13116,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13809,7 +13809,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13820,7 +13820,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13831,7 +13831,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13842,7 +13842,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13853,7 +13853,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13864,7 +13864,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13875,7 +13875,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13886,7 +13886,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13897,7 +13897,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -13908,7 +13908,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14601,7 +14601,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14612,7 +14612,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14623,7 +14623,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14634,7 +14634,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14645,7 +14645,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14656,7 +14656,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14667,7 +14667,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14678,7 +14678,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14689,7 +14689,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -14700,7 +14700,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15393,7 +15393,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15404,7 +15404,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15415,7 +15415,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15426,7 +15426,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15437,7 +15437,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15448,7 +15448,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15459,7 +15459,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15470,7 +15470,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15481,7 +15481,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -15492,7 +15492,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16185,7 +16185,7 @@
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16196,7 +16196,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16207,7 +16207,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16218,7 +16218,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16229,7 +16229,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16240,7 +16240,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16251,7 +16251,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16262,7 +16262,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16273,7 +16273,7 @@
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
@@ -16284,7 +16284,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "FALTA"
     },
