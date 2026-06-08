@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-08T18:26:19.081Z",
+    "ultimaActualizacion": "2026-06-08T18:30:55.284Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
     "partidosJugados": 0,
@@ -1086,8 +1086,8 @@
     {
       "row_number": 11,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
-      "Alias": "Víctor",
+      "Nombre": "Víctor",
+      "Alias": "Víc",
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
@@ -3940,10 +3940,10 @@
       "Nombre": "Cyn",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "L  ",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 247,
@@ -8381,7 +8381,7 @@
     {
       "row_number": 650,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
@@ -8392,7 +8392,7 @@
     {
       "row_number": 651,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
@@ -8403,7 +8403,7 @@
     {
       "row_number": 652,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "E",
@@ -8414,7 +8414,7 @@
     {
       "row_number": 653,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
@@ -8425,7 +8425,7 @@
     {
       "row_number": 654,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
@@ -8436,7 +8436,7 @@
     {
       "row_number": 655,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
@@ -8447,7 +8447,7 @@
     {
       "row_number": 656,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
@@ -8458,7 +8458,7 @@
     {
       "row_number": 657,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
@@ -8469,7 +8469,7 @@
     {
       "row_number": 658,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
@@ -8480,7 +8480,7 @@
     {
       "row_number": 659,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
@@ -8491,7 +8491,7 @@
     {
       "row_number": 660,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
@@ -8502,7 +8502,7 @@
     {
       "row_number": 661,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
@@ -8513,7 +8513,7 @@
     {
       "row_number": 662,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
@@ -8524,7 +8524,7 @@
     {
       "row_number": 663,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
@@ -8535,7 +8535,7 @@
     {
       "row_number": 664,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
@@ -8546,7 +8546,7 @@
     {
       "row_number": 665,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
@@ -8557,7 +8557,7 @@
     {
       "row_number": 666,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
@@ -8568,7 +8568,7 @@
     {
       "row_number": 667,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
@@ -8579,7 +8579,7 @@
     {
       "row_number": 668,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
@@ -8590,7 +8590,7 @@
     {
       "row_number": 669,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
@@ -8601,7 +8601,7 @@
     {
       "row_number": 670,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
@@ -8612,7 +8612,7 @@
     {
       "row_number": 671,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
@@ -8623,7 +8623,7 @@
     {
       "row_number": 672,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "L",
@@ -8634,7 +8634,7 @@
     {
       "row_number": 673,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
@@ -8645,7 +8645,7 @@
     {
       "row_number": 674,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "L",
@@ -8656,7 +8656,7 @@
     {
       "row_number": 675,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
@@ -8667,7 +8667,7 @@
     {
       "row_number": 676,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
@@ -8678,7 +8678,7 @@
     {
       "row_number": 677,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "L",
@@ -8689,7 +8689,7 @@
     {
       "row_number": 678,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "L",
@@ -8700,7 +8700,7 @@
     {
       "row_number": 679,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "L",
@@ -8711,7 +8711,7 @@
     {
       "row_number": 680,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "L",
@@ -8722,7 +8722,7 @@
     {
       "row_number": 681,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
@@ -8733,7 +8733,7 @@
     {
       "row_number": 682,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
@@ -8744,7 +8744,7 @@
     {
       "row_number": 683,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "L",
@@ -8755,7 +8755,7 @@
     {
       "row_number": 684,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "L",
@@ -8766,7 +8766,7 @@
     {
       "row_number": 685,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "V",
@@ -8777,7 +8777,7 @@
     {
       "row_number": 686,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "L",
@@ -8788,7 +8788,7 @@
     {
       "row_number": 687,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
@@ -8799,7 +8799,7 @@
     {
       "row_number": 688,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
@@ -8810,7 +8810,7 @@
     {
       "row_number": 689,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
@@ -8821,7 +8821,7 @@
     {
       "row_number": 690,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "L",
@@ -8832,7 +8832,7 @@
     {
       "row_number": 691,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "L",
@@ -8843,7 +8843,7 @@
     {
       "row_number": 692,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "L",
@@ -8854,7 +8854,7 @@
     {
       "row_number": 693,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "E",
@@ -8865,7 +8865,7 @@
     {
       "row_number": 694,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "L",
@@ -8876,7 +8876,7 @@
     {
       "row_number": 695,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
@@ -8887,7 +8887,7 @@
     {
       "row_number": 696,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
@@ -8898,7 +8898,7 @@
     {
       "row_number": 697,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "L",
@@ -8909,7 +8909,7 @@
     {
       "row_number": 698,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
@@ -8920,7 +8920,7 @@
     {
       "row_number": 699,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
@@ -8931,7 +8931,7 @@
     {
       "row_number": 700,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "L",
@@ -8942,7 +8942,7 @@
     {
       "row_number": 701,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "V",
@@ -8953,7 +8953,7 @@
     {
       "row_number": 702,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "V",
@@ -8964,7 +8964,7 @@
     {
       "row_number": 703,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "E",
@@ -8975,7 +8975,7 @@
     {
       "row_number": 704,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
@@ -8986,7 +8986,7 @@
     {
       "row_number": 705,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
@@ -8997,7 +8997,7 @@
     {
       "row_number": 706,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
@@ -9008,7 +9008,7 @@
     {
       "row_number": 707,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
@@ -9019,7 +9019,7 @@
     {
       "row_number": 708,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "L",
@@ -9030,7 +9030,7 @@
     {
       "row_number": 709,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "E",
@@ -9041,7 +9041,7 @@
     {
       "row_number": 710,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
@@ -9052,7 +9052,7 @@
     {
       "row_number": 711,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
@@ -9063,7 +9063,7 @@
     {
       "row_number": 712,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
@@ -9074,7 +9074,7 @@
     {
       "row_number": 713,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
@@ -9085,7 +9085,7 @@
     {
       "row_number": 714,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "L",
@@ -9096,7 +9096,7 @@
     {
       "row_number": 715,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "V",
@@ -9107,7 +9107,7 @@
     {
       "row_number": 716,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
@@ -9118,7 +9118,7 @@
     {
       "row_number": 717,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
@@ -9129,7 +9129,7 @@
     {
       "row_number": 718,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
@@ -9140,7 +9140,7 @@
     {
       "row_number": 719,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "L",
@@ -9151,7 +9151,7 @@
     {
       "row_number": 720,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
@@ -9162,7 +9162,7 @@
     {
       "row_number": 721,
       "ParticipanteID": 10,
-      "Nombre": "Padre Santo",
+      "Nombre": "Víctor",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
