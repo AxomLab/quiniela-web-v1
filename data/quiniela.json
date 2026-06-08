@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-08T15:50:08.986Z",
+    "ultimaActualizacion": "2026-06-08T18:26:19.081Z",
     "totalParticipantes": 20,
-    "participantesActivos": 16,
+    "participantesActivos": 20,
     "partidosJugados": 0,
     "partidosPendientes": 72,
     "totalPartidos": 72,
@@ -1057,7 +1057,7 @@
       "row_number": 9,
       "ParticipanteID": 8,
       "Nombre": "Araceli",
-      "Alias": "Araceli",
+      "Alias": "Ara",
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
@@ -1086,7 +1086,7 @@
     {
       "row_number": 11,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "Alias": "Víctor",
       "Avatar": "Victor.png",
       "Color": "#D81B60",
@@ -1187,6 +1187,66 @@
       "Porcentaje": 0,
       "Posicion": "Pendiente",
       "Revision": "OK"
+    },
+    {
+      "row_number": 18,
+      "ParticipanteID": 17,
+      "Nombre": "Anita",
+      "Alias": "Anita",
+      "Avatar": "",
+      "Color": "#C0CA33",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "REVISAR"
+    },
+    {
+      "row_number": 19,
+      "ParticipanteID": 18,
+      "Nombre": "Brith",
+      "Alias": "Brith",
+      "Avatar": "",
+      "Color": "#FFB300",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "REVISAR"
+    },
+    {
+      "row_number": 20,
+      "ParticipanteID": 19,
+      "Nombre": "John",
+      "Alias": "John",
+      "Avatar": "John.png",
+      "Color": "#F4511E",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
+    },
+    {
+      "row_number": 21,
+      "ParticipanteID": 20,
+      "Nombre": "Johnny",
+      "Alias": "Johnny",
+      "Avatar": "Johnny.png",
+      "Color": "#757575",
+      "Activo": "Sí",
+      "Puntos": 0,
+      "Aciertos": 0,
+      "PartidosJugados": 0,
+      "Porcentaje": 0,
+      "Posicion": "Pendiente",
+      "Revision": "OK"
     }
   ],
   "pronosticos": [
@@ -1196,10 +1256,10 @@
       "Nombre": "Juan",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 3,
@@ -1207,10 +1267,10 @@
       "Nombre": "Juan",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 4,
@@ -1218,10 +1278,10 @@
       "Nombre": "Juan",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 5,
@@ -1229,10 +1289,10 @@
       "Nombre": "Juan",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 6,
@@ -1240,10 +1300,10 @@
       "Nombre": "Juan",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 7,
@@ -1251,10 +1311,10 @@
       "Nombre": "Juan",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 8,
@@ -1262,10 +1322,10 @@
       "Nombre": "Juan",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 9,
@@ -1273,10 +1333,10 @@
       "Nombre": "Juan",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 10,
@@ -1284,10 +1344,10 @@
       "Nombre": "Juan",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 11,
@@ -1295,10 +1355,10 @@
       "Nombre": "Juan",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 12,
@@ -1306,10 +1366,10 @@
       "Nombre": "Juan",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 13,
@@ -1317,10 +1377,10 @@
       "Nombre": "Juan",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 14,
@@ -1328,10 +1388,10 @@
       "Nombre": "Juan",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 15,
@@ -1339,10 +1399,10 @@
       "Nombre": "Juan",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 16,
@@ -1350,10 +1410,10 @@
       "Nombre": "Juan",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 17,
@@ -1361,10 +1421,10 @@
       "Nombre": "Juan",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 18,
@@ -1372,10 +1432,10 @@
       "Nombre": "Juan",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 19,
@@ -1383,10 +1443,10 @@
       "Nombre": "Juan",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 20,
@@ -1394,10 +1454,10 @@
       "Nombre": "Juan",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 21,
@@ -1405,10 +1465,10 @@
       "Nombre": "Juan",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 22,
@@ -1416,10 +1476,10 @@
       "Nombre": "Juan",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 23,
@@ -1427,10 +1487,10 @@
       "Nombre": "Juan",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 24,
@@ -1438,10 +1498,10 @@
       "Nombre": "Juan",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 25,
@@ -1449,10 +1509,10 @@
       "Nombre": "Juan",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 26,
@@ -1460,10 +1520,10 @@
       "Nombre": "Juan",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 27,
@@ -1471,10 +1531,10 @@
       "Nombre": "Juan",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 28,
@@ -1482,10 +1542,10 @@
       "Nombre": "Juan",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 29,
@@ -1493,10 +1553,10 @@
       "Nombre": "Juan",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 30,
@@ -1504,10 +1564,10 @@
       "Nombre": "Juan",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 31,
@@ -1515,10 +1575,10 @@
       "Nombre": "Juan",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 32,
@@ -1526,10 +1586,10 @@
       "Nombre": "Juan",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 33,
@@ -1537,10 +1597,10 @@
       "Nombre": "Juan",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 34,
@@ -1548,10 +1608,10 @@
       "Nombre": "Juan",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 35,
@@ -1559,10 +1619,10 @@
       "Nombre": "Juan",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 36,
@@ -1570,10 +1630,10 @@
       "Nombre": "Juan",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 37,
@@ -1581,10 +1641,10 @@
       "Nombre": "Juan",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 38,
@@ -1592,10 +1652,10 @@
       "Nombre": "Juan",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 39,
@@ -1603,10 +1663,10 @@
       "Nombre": "Juan",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 40,
@@ -1614,10 +1674,10 @@
       "Nombre": "Juan",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 41,
@@ -1625,10 +1685,10 @@
       "Nombre": "Juan",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 42,
@@ -1636,10 +1696,10 @@
       "Nombre": "Juan",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 43,
@@ -1647,10 +1707,10 @@
       "Nombre": "Juan",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 44,
@@ -1658,10 +1718,10 @@
       "Nombre": "Juan",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 45,
@@ -1669,10 +1729,10 @@
       "Nombre": "Juan",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 46,
@@ -1680,10 +1740,10 @@
       "Nombre": "Juan",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 47,
@@ -1691,10 +1751,10 @@
       "Nombre": "Juan",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 48,
@@ -1702,10 +1762,10 @@
       "Nombre": "Juan",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 49,
@@ -1713,10 +1773,10 @@
       "Nombre": "Juan",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 50,
@@ -1724,10 +1784,10 @@
       "Nombre": "Juan",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 51,
@@ -1735,10 +1795,10 @@
       "Nombre": "Juan",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 52,
@@ -1746,10 +1806,10 @@
       "Nombre": "Juan",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 53,
@@ -1757,10 +1817,10 @@
       "Nombre": "Juan",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 54,
@@ -1768,10 +1828,10 @@
       "Nombre": "Juan",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 55,
@@ -1779,10 +1839,10 @@
       "Nombre": "Juan",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 56,
@@ -1790,10 +1850,10 @@
       "Nombre": "Juan",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 57,
@@ -1801,10 +1861,10 @@
       "Nombre": "Juan",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 58,
@@ -1812,10 +1872,10 @@
       "Nombre": "Juan",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 59,
@@ -1823,10 +1883,10 @@
       "Nombre": "Juan",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 60,
@@ -1834,10 +1894,10 @@
       "Nombre": "Juan",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 61,
@@ -1845,10 +1905,10 @@
       "Nombre": "Juan",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 62,
@@ -1856,10 +1916,10 @@
       "Nombre": "Juan",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 63,
@@ -1867,10 +1927,10 @@
       "Nombre": "Juan",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 64,
@@ -1878,10 +1938,10 @@
       "Nombre": "Juan",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 65,
@@ -1889,10 +1949,10 @@
       "Nombre": "Juan",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 66,
@@ -1900,10 +1960,10 @@
       "Nombre": "Juan",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 67,
@@ -1911,10 +1971,10 @@
       "Nombre": "Juan",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 68,
@@ -1922,10 +1982,10 @@
       "Nombre": "Juan",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 69,
@@ -1933,10 +1993,10 @@
       "Nombre": "Juan",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 70,
@@ -1944,10 +2004,10 @@
       "Nombre": "Juan",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 71,
@@ -1955,10 +2015,10 @@
       "Nombre": "Juan",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 72,
@@ -1966,10 +2026,10 @@
       "Nombre": "Juan",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 73,
@@ -1977,10 +2037,10 @@
       "Nombre": "Juan",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 74,
@@ -8321,7 +8381,7 @@
     {
       "row_number": 650,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "L",
@@ -8332,7 +8392,7 @@
     {
       "row_number": 651,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
@@ -8343,7 +8403,7 @@
     {
       "row_number": 652,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "E",
@@ -8354,7 +8414,7 @@
     {
       "row_number": 653,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
@@ -8365,7 +8425,7 @@
     {
       "row_number": 654,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
@@ -8376,7 +8436,7 @@
     {
       "row_number": 655,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
@@ -8387,7 +8447,7 @@
     {
       "row_number": 656,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
@@ -8398,7 +8458,7 @@
     {
       "row_number": 657,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
@@ -8409,7 +8469,7 @@
     {
       "row_number": 658,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "L",
@@ -8420,7 +8480,7 @@
     {
       "row_number": 659,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
@@ -8431,7 +8491,7 @@
     {
       "row_number": 660,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
@@ -8442,7 +8502,7 @@
     {
       "row_number": 661,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
@@ -8453,7 +8513,7 @@
     {
       "row_number": 662,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
@@ -8464,7 +8524,7 @@
     {
       "row_number": 663,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
@@ -8475,7 +8535,7 @@
     {
       "row_number": 664,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
@@ -8486,7 +8546,7 @@
     {
       "row_number": 665,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
@@ -8497,7 +8557,7 @@
     {
       "row_number": 666,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
@@ -8508,7 +8568,7 @@
     {
       "row_number": 667,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
@@ -8519,7 +8579,7 @@
     {
       "row_number": 668,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
@@ -8530,7 +8590,7 @@
     {
       "row_number": 669,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
@@ -8541,7 +8601,7 @@
     {
       "row_number": 670,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
@@ -8552,7 +8612,7 @@
     {
       "row_number": 671,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
@@ -8563,7 +8623,7 @@
     {
       "row_number": 672,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "L",
@@ -8574,7 +8634,7 @@
     {
       "row_number": 673,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
@@ -8585,7 +8645,7 @@
     {
       "row_number": 674,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "L",
@@ -8596,7 +8656,7 @@
     {
       "row_number": 675,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
@@ -8607,7 +8667,7 @@
     {
       "row_number": 676,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
@@ -8618,7 +8678,7 @@
     {
       "row_number": 677,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "L",
@@ -8629,7 +8689,7 @@
     {
       "row_number": 678,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "L",
@@ -8640,7 +8700,7 @@
     {
       "row_number": 679,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "L",
@@ -8651,7 +8711,7 @@
     {
       "row_number": 680,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "L",
@@ -8662,7 +8722,7 @@
     {
       "row_number": 681,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
@@ -8673,7 +8733,7 @@
     {
       "row_number": 682,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
@@ -8684,7 +8744,7 @@
     {
       "row_number": 683,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "L",
@@ -8695,7 +8755,7 @@
     {
       "row_number": 684,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "L",
@@ -8706,7 +8766,7 @@
     {
       "row_number": 685,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "V",
@@ -8717,7 +8777,7 @@
     {
       "row_number": 686,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "L",
@@ -8728,7 +8788,7 @@
     {
       "row_number": 687,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
@@ -8739,7 +8799,7 @@
     {
       "row_number": 688,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
@@ -8750,7 +8810,7 @@
     {
       "row_number": 689,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
@@ -8761,7 +8821,7 @@
     {
       "row_number": 690,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "L",
@@ -8772,7 +8832,7 @@
     {
       "row_number": 691,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "L",
@@ -8783,7 +8843,7 @@
     {
       "row_number": 692,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "L",
@@ -8794,7 +8854,7 @@
     {
       "row_number": 693,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "E",
@@ -8805,7 +8865,7 @@
     {
       "row_number": 694,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "L",
@@ -8816,7 +8876,7 @@
     {
       "row_number": 695,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
@@ -8827,7 +8887,7 @@
     {
       "row_number": 696,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
@@ -8838,7 +8898,7 @@
     {
       "row_number": 697,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "L",
@@ -8849,7 +8909,7 @@
     {
       "row_number": 698,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
@@ -8860,7 +8920,7 @@
     {
       "row_number": 699,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
@@ -8871,7 +8931,7 @@
     {
       "row_number": 700,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "L",
@@ -8882,7 +8942,7 @@
     {
       "row_number": 701,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "V",
@@ -8893,7 +8953,7 @@
     {
       "row_number": 702,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "V",
@@ -8904,7 +8964,7 @@
     {
       "row_number": 703,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "E",
@@ -8915,7 +8975,7 @@
     {
       "row_number": 704,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
@@ -8926,7 +8986,7 @@
     {
       "row_number": 705,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
@@ -8937,7 +8997,7 @@
     {
       "row_number": 706,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
@@ -8948,7 +9008,7 @@
     {
       "row_number": 707,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
@@ -8959,7 +9019,7 @@
     {
       "row_number": 708,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "L",
@@ -8970,7 +9030,7 @@
     {
       "row_number": 709,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "E",
@@ -8981,7 +9041,7 @@
     {
       "row_number": 710,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
@@ -8992,7 +9052,7 @@
     {
       "row_number": 711,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
@@ -9003,7 +9063,7 @@
     {
       "row_number": 712,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
@@ -9014,7 +9074,7 @@
     {
       "row_number": 713,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
@@ -9025,7 +9085,7 @@
     {
       "row_number": 714,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "L",
@@ -9036,7 +9096,7 @@
     {
       "row_number": 715,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "V",
@@ -9047,7 +9107,7 @@
     {
       "row_number": 716,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
@@ -9058,7 +9118,7 @@
     {
       "row_number": 717,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
@@ -9069,7 +9129,7 @@
     {
       "row_number": 718,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
@@ -9080,7 +9140,7 @@
     {
       "row_number": 719,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "L",
@@ -9091,7 +9151,7 @@
     {
       "row_number": 720,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
@@ -9102,7 +9162,7 @@
     {
       "row_number": 721,
       "ParticipanteID": 10,
-      "Nombre": "Víctor",
+      "Nombre": "Padre Santo",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
@@ -10700,10 +10760,10 @@
       "Nombre": "Kare",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 867,
@@ -10711,10 +10771,10 @@
       "Nombre": "Kare",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 868,
@@ -10722,10 +10782,10 @@
       "Nombre": "Kare",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 869,
@@ -10733,10 +10793,10 @@
       "Nombre": "Kare",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 870,
@@ -10744,10 +10804,10 @@
       "Nombre": "Kare",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 871,
@@ -10755,10 +10815,10 @@
       "Nombre": "Kare",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 872,
@@ -10766,10 +10826,10 @@
       "Nombre": "Kare",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 873,
@@ -10777,10 +10837,10 @@
       "Nombre": "Kare",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 874,
@@ -10788,10 +10848,10 @@
       "Nombre": "Kare",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 875,
@@ -10799,10 +10859,10 @@
       "Nombre": "Kare",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 876,
@@ -10810,10 +10870,10 @@
       "Nombre": "Kare",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 877,
@@ -10821,10 +10881,10 @@
       "Nombre": "Kare",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 878,
@@ -10832,10 +10892,10 @@
       "Nombre": "Kare",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 879,
@@ -10843,10 +10903,10 @@
       "Nombre": "Kare",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 880,
@@ -10854,10 +10914,10 @@
       "Nombre": "Kare",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 881,
@@ -10865,10 +10925,10 @@
       "Nombre": "Kare",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 882,
@@ -10876,10 +10936,10 @@
       "Nombre": "Kare",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 883,
@@ -10887,10 +10947,10 @@
       "Nombre": "Kare",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 884,
@@ -10898,10 +10958,10 @@
       "Nombre": "Kare",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 885,
@@ -10909,10 +10969,10 @@
       "Nombre": "Kare",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 886,
@@ -10920,10 +10980,10 @@
       "Nombre": "Kare",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 887,
@@ -10931,10 +10991,10 @@
       "Nombre": "Kare",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 888,
@@ -10942,10 +11002,10 @@
       "Nombre": "Kare",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 889,
@@ -10953,10 +11013,10 @@
       "Nombre": "Kare",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 890,
@@ -10964,10 +11024,10 @@
       "Nombre": "Kare",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 891,
@@ -10975,10 +11035,10 @@
       "Nombre": "Kare",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 892,
@@ -10986,10 +11046,10 @@
       "Nombre": "Kare",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 893,
@@ -10997,10 +11057,10 @@
       "Nombre": "Kare",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 894,
@@ -11008,10 +11068,10 @@
       "Nombre": "Kare",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 895,
@@ -11019,10 +11079,10 @@
       "Nombre": "Kare",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 896,
@@ -11030,10 +11090,10 @@
       "Nombre": "Kare",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 897,
@@ -11041,10 +11101,10 @@
       "Nombre": "Kare",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 898,
@@ -11052,10 +11112,10 @@
       "Nombre": "Kare",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 899,
@@ -11063,10 +11123,10 @@
       "Nombre": "Kare",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 900,
@@ -11074,10 +11134,10 @@
       "Nombre": "Kare",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 901,
@@ -11085,10 +11145,10 @@
       "Nombre": "Kare",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 902,
@@ -11096,10 +11156,10 @@
       "Nombre": "Kare",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 903,
@@ -11107,10 +11167,10 @@
       "Nombre": "Kare",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 904,
@@ -11118,10 +11178,10 @@
       "Nombre": "Kare",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 905,
@@ -11129,10 +11189,10 @@
       "Nombre": "Kare",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 906,
@@ -11140,10 +11200,10 @@
       "Nombre": "Kare",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 907,
@@ -11151,10 +11211,10 @@
       "Nombre": "Kare",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 908,
@@ -11162,10 +11222,10 @@
       "Nombre": "Kare",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 909,
@@ -11173,10 +11233,10 @@
       "Nombre": "Kare",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 910,
@@ -11184,10 +11244,10 @@
       "Nombre": "Kare",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 911,
@@ -11195,10 +11255,10 @@
       "Nombre": "Kare",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 912,
@@ -11206,10 +11266,10 @@
       "Nombre": "Kare",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 913,
@@ -11217,10 +11277,10 @@
       "Nombre": "Kare",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 914,
@@ -11228,10 +11288,10 @@
       "Nombre": "Kare",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 915,
@@ -11239,10 +11299,10 @@
       "Nombre": "Kare",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 916,
@@ -11250,10 +11310,10 @@
       "Nombre": "Kare",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 917,
@@ -11261,10 +11321,10 @@
       "Nombre": "Kare",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 918,
@@ -11272,10 +11332,10 @@
       "Nombre": "Kare",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 919,
@@ -11283,10 +11343,10 @@
       "Nombre": "Kare",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 920,
@@ -11294,10 +11354,10 @@
       "Nombre": "Kare",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 921,
@@ -11305,10 +11365,10 @@
       "Nombre": "Kare",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 922,
@@ -11316,10 +11376,10 @@
       "Nombre": "Kare",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 923,
@@ -11327,10 +11387,10 @@
       "Nombre": "Kare",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 924,
@@ -11338,10 +11398,10 @@
       "Nombre": "Kare",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 925,
@@ -11349,10 +11409,10 @@
       "Nombre": "Kare",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 926,
@@ -11360,10 +11420,10 @@
       "Nombre": "Kare",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 927,
@@ -11371,10 +11431,10 @@
       "Nombre": "Kare",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 928,
@@ -11382,10 +11442,10 @@
       "Nombre": "Kare",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 929,
@@ -11393,10 +11453,10 @@
       "Nombre": "Kare",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 930,
@@ -11404,10 +11464,10 @@
       "Nombre": "Kare",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 931,
@@ -11415,10 +11475,10 @@
       "Nombre": "Kare",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 932,
@@ -11426,10 +11486,10 @@
       "Nombre": "Kare",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 933,
@@ -11437,10 +11497,10 @@
       "Nombre": "Kare",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 934,
@@ -11448,10 +11508,10 @@
       "Nombre": "Kare",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 935,
@@ -11459,10 +11519,10 @@
       "Nombre": "Kare",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 936,
@@ -11470,10 +11530,10 @@
       "Nombre": "Kare",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 937,
@@ -11481,10 +11541,10 @@
       "Nombre": "Kare",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 938,
@@ -11492,10 +11552,10 @@
       "Nombre": "Francisco",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 939,
@@ -11503,10 +11563,10 @@
       "Nombre": "Francisco",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 940,
@@ -11514,10 +11574,10 @@
       "Nombre": "Francisco",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 941,
@@ -11525,10 +11585,10 @@
       "Nombre": "Francisco",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 942,
@@ -11536,10 +11596,10 @@
       "Nombre": "Francisco",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 943,
@@ -11547,10 +11607,10 @@
       "Nombre": "Francisco",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 944,
@@ -11558,10 +11618,10 @@
       "Nombre": "Francisco",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 945,
@@ -11569,10 +11629,10 @@
       "Nombre": "Francisco",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 946,
@@ -11580,10 +11640,10 @@
       "Nombre": "Francisco",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 947,
@@ -11591,10 +11651,10 @@
       "Nombre": "Francisco",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 948,
@@ -11602,10 +11662,10 @@
       "Nombre": "Francisco",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 949,
@@ -11613,10 +11673,10 @@
       "Nombre": "Francisco",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 950,
@@ -11624,10 +11684,10 @@
       "Nombre": "Francisco",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 951,
@@ -11635,10 +11695,10 @@
       "Nombre": "Francisco",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 952,
@@ -11646,10 +11706,10 @@
       "Nombre": "Francisco",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 953,
@@ -11657,10 +11717,10 @@
       "Nombre": "Francisco",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 954,
@@ -11668,10 +11728,10 @@
       "Nombre": "Francisco",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 955,
@@ -11679,10 +11739,10 @@
       "Nombre": "Francisco",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 956,
@@ -11690,10 +11750,10 @@
       "Nombre": "Francisco",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 957,
@@ -11701,10 +11761,10 @@
       "Nombre": "Francisco",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 958,
@@ -11712,10 +11772,10 @@
       "Nombre": "Francisco",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 959,
@@ -11723,10 +11783,10 @@
       "Nombre": "Francisco",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 960,
@@ -11734,10 +11794,10 @@
       "Nombre": "Francisco",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 961,
@@ -11745,10 +11805,10 @@
       "Nombre": "Francisco",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 962,
@@ -11756,10 +11816,10 @@
       "Nombre": "Francisco",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 963,
@@ -11767,10 +11827,10 @@
       "Nombre": "Francisco",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 964,
@@ -11778,10 +11838,10 @@
       "Nombre": "Francisco",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 965,
@@ -11789,10 +11849,10 @@
       "Nombre": "Francisco",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 966,
@@ -11800,10 +11860,10 @@
       "Nombre": "Francisco",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 967,
@@ -11811,10 +11871,10 @@
       "Nombre": "Francisco",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 968,
@@ -11822,10 +11882,10 @@
       "Nombre": "Francisco",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 969,
@@ -11833,10 +11893,10 @@
       "Nombre": "Francisco",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 970,
@@ -11844,10 +11904,10 @@
       "Nombre": "Francisco",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 971,
@@ -11855,10 +11915,10 @@
       "Nombre": "Francisco",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 972,
@@ -11866,10 +11926,10 @@
       "Nombre": "Francisco",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 973,
@@ -11877,10 +11937,10 @@
       "Nombre": "Francisco",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 974,
@@ -11888,10 +11948,10 @@
       "Nombre": "Francisco",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 975,
@@ -11899,10 +11959,10 @@
       "Nombre": "Francisco",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 976,
@@ -11910,10 +11970,10 @@
       "Nombre": "Francisco",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 977,
@@ -11921,10 +11981,10 @@
       "Nombre": "Francisco",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 978,
@@ -11932,10 +11992,10 @@
       "Nombre": "Francisco",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 979,
@@ -11943,10 +12003,10 @@
       "Nombre": "Francisco",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 980,
@@ -11954,10 +12014,10 @@
       "Nombre": "Francisco",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 981,
@@ -11965,10 +12025,10 @@
       "Nombre": "Francisco",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 982,
@@ -11976,10 +12036,10 @@
       "Nombre": "Francisco",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 983,
@@ -11987,10 +12047,10 @@
       "Nombre": "Francisco",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 984,
@@ -11998,10 +12058,10 @@
       "Nombre": "Francisco",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 985,
@@ -12009,10 +12069,10 @@
       "Nombre": "Francisco",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 986,
@@ -12020,10 +12080,10 @@
       "Nombre": "Francisco",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 987,
@@ -12031,10 +12091,10 @@
       "Nombre": "Francisco",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 988,
@@ -12042,10 +12102,10 @@
       "Nombre": "Francisco",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 989,
@@ -12053,10 +12113,10 @@
       "Nombre": "Francisco",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 990,
@@ -12064,10 +12124,10 @@
       "Nombre": "Francisco",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 991,
@@ -12075,10 +12135,10 @@
       "Nombre": "Francisco",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 992,
@@ -12086,10 +12146,10 @@
       "Nombre": "Francisco",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 993,
@@ -12097,10 +12157,10 @@
       "Nombre": "Francisco",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 994,
@@ -12108,10 +12168,10 @@
       "Nombre": "Francisco",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 995,
@@ -12119,10 +12179,10 @@
       "Nombre": "Francisco",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 996,
@@ -12130,10 +12190,10 @@
       "Nombre": "Francisco",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 997,
@@ -12141,10 +12201,10 @@
       "Nombre": "Francisco",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 998,
@@ -12152,10 +12212,10 @@
       "Nombre": "Francisco",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 999,
@@ -12163,10 +12223,10 @@
       "Nombre": "Francisco",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1000,
@@ -12174,10 +12234,10 @@
       "Nombre": "Francisco",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1001,
@@ -12185,10 +12245,10 @@
       "Nombre": "Francisco",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1002,
@@ -12196,10 +12256,10 @@
       "Nombre": "Francisco",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1003,
@@ -12207,10 +12267,10 @@
       "Nombre": "Francisco",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1004,
@@ -12218,10 +12278,10 @@
       "Nombre": "Francisco",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1005,
@@ -12229,10 +12289,10 @@
       "Nombre": "Francisco",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1006,
@@ -12240,10 +12300,10 @@
       "Nombre": "Francisco",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1007,
@@ -12251,10 +12311,10 @@
       "Nombre": "Francisco",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1008,
@@ -12262,10 +12322,10 @@
       "Nombre": "Francisco",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1009,
@@ -12273,10 +12333,10 @@
       "Nombre": "Francisco",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1010,
@@ -12284,10 +12344,10 @@
       "Nombre": "Paco",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1011,
@@ -12295,10 +12355,10 @@
       "Nombre": "Paco",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1012,
@@ -12306,10 +12366,10 @@
       "Nombre": "Paco",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1013,
@@ -12317,10 +12377,10 @@
       "Nombre": "Paco",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1014,
@@ -12328,10 +12388,10 @@
       "Nombre": "Paco",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1015,
@@ -12339,10 +12399,10 @@
       "Nombre": "Paco",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1016,
@@ -12350,10 +12410,10 @@
       "Nombre": "Paco",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1017,
@@ -12361,10 +12421,10 @@
       "Nombre": "Paco",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1018,
@@ -12372,10 +12432,10 @@
       "Nombre": "Paco",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1019,
@@ -12383,10 +12443,10 @@
       "Nombre": "Paco",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1020,
@@ -12394,10 +12454,10 @@
       "Nombre": "Paco",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1021,
@@ -12405,10 +12465,10 @@
       "Nombre": "Paco",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1022,
@@ -12416,10 +12476,10 @@
       "Nombre": "Paco",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1023,
@@ -12427,10 +12487,10 @@
       "Nombre": "Paco",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1024,
@@ -12438,10 +12498,10 @@
       "Nombre": "Paco",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1025,
@@ -12449,10 +12509,10 @@
       "Nombre": "Paco",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1026,
@@ -12460,10 +12520,10 @@
       "Nombre": "Paco",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1027,
@@ -12471,10 +12531,10 @@
       "Nombre": "Paco",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1028,
@@ -12482,10 +12542,10 @@
       "Nombre": "Paco",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1029,
@@ -12493,10 +12553,10 @@
       "Nombre": "Paco",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1030,
@@ -12504,10 +12564,10 @@
       "Nombre": "Paco",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1031,
@@ -12515,10 +12575,10 @@
       "Nombre": "Paco",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1032,
@@ -12526,10 +12586,10 @@
       "Nombre": "Paco",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1033,
@@ -12537,10 +12597,10 @@
       "Nombre": "Paco",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1034,
@@ -12548,10 +12608,10 @@
       "Nombre": "Paco",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1035,
@@ -12559,10 +12619,10 @@
       "Nombre": "Paco",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1036,
@@ -12570,10 +12630,10 @@
       "Nombre": "Paco",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1037,
@@ -12581,10 +12641,10 @@
       "Nombre": "Paco",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1038,
@@ -12592,10 +12652,10 @@
       "Nombre": "Paco",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1039,
@@ -12603,10 +12663,10 @@
       "Nombre": "Paco",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1040,
@@ -12614,10 +12674,10 @@
       "Nombre": "Paco",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1041,
@@ -12625,10 +12685,10 @@
       "Nombre": "Paco",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1042,
@@ -12636,10 +12696,10 @@
       "Nombre": "Paco",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1043,
@@ -12647,10 +12707,10 @@
       "Nombre": "Paco",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1044,
@@ -12658,10 +12718,10 @@
       "Nombre": "Paco",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1045,
@@ -12669,10 +12729,10 @@
       "Nombre": "Paco",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1046,
@@ -12680,10 +12740,10 @@
       "Nombre": "Paco",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1047,
@@ -12691,10 +12751,10 @@
       "Nombre": "Paco",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1048,
@@ -12702,10 +12762,10 @@
       "Nombre": "Paco",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1049,
@@ -12713,10 +12773,10 @@
       "Nombre": "Paco",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1050,
@@ -12724,10 +12784,10 @@
       "Nombre": "Paco",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1051,
@@ -12757,10 +12817,10 @@
       "Nombre": "Paco",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1054,
@@ -12768,10 +12828,10 @@
       "Nombre": "Paco",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1055,
@@ -12779,10 +12839,10 @@
       "Nombre": "Paco",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1056,
@@ -12790,10 +12850,10 @@
       "Nombre": "Paco",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1057,
@@ -12801,10 +12861,10 @@
       "Nombre": "Paco",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1058,
@@ -12812,10 +12872,10 @@
       "Nombre": "Paco",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1059,
@@ -12823,10 +12883,10 @@
       "Nombre": "Paco",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1060,
@@ -12834,10 +12894,10 @@
       "Nombre": "Paco",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1061,
@@ -12845,10 +12905,10 @@
       "Nombre": "Paco",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1062,
@@ -12856,10 +12916,10 @@
       "Nombre": "Paco",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1063,
@@ -12867,10 +12927,10 @@
       "Nombre": "Paco",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1064,
@@ -12878,10 +12938,10 @@
       "Nombre": "Paco",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1065,
@@ -12889,10 +12949,10 @@
       "Nombre": "Paco",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1066,
@@ -12900,10 +12960,10 @@
       "Nombre": "Paco",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1067,
@@ -12911,10 +12971,10 @@
       "Nombre": "Paco",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1068,
@@ -12922,10 +12982,10 @@
       "Nombre": "Paco",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1069,
@@ -12933,10 +12993,10 @@
       "Nombre": "Paco",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1070,
@@ -12944,10 +13004,10 @@
       "Nombre": "Paco",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1071,
@@ -12955,10 +13015,10 @@
       "Nombre": "Paco",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1072,
@@ -12966,10 +13026,10 @@
       "Nombre": "Paco",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1073,
@@ -12977,10 +13037,10 @@
       "Nombre": "Paco",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1074,
@@ -12988,10 +13048,10 @@
       "Nombre": "Paco",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1075,
@@ -12999,10 +13059,10 @@
       "Nombre": "Paco",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1076,
@@ -13010,10 +13070,10 @@
       "Nombre": "Paco",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1077,
@@ -13021,10 +13081,10 @@
       "Nombre": "Paco",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1078,
@@ -13032,10 +13092,10 @@
       "Nombre": "Paco",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1079,
@@ -13043,10 +13103,10 @@
       "Nombre": "Paco",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1080,
@@ -13054,10 +13114,10 @@
       "Nombre": "Paco",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1081,
@@ -13065,10 +13125,10 @@
       "Nombre": "Paco",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1082,
@@ -13865,7 +13925,7 @@
     {
       "row_number": 1154,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
@@ -13876,7 +13936,7 @@
     {
       "row_number": 1155,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
@@ -13887,7 +13947,7 @@
     {
       "row_number": 1156,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
@@ -13898,7 +13958,7 @@
     {
       "row_number": 1157,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
@@ -13909,7 +13969,7 @@
     {
       "row_number": 1158,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
@@ -13920,7 +13980,7 @@
     {
       "row_number": 1159,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
@@ -13931,7 +13991,7 @@
     {
       "row_number": 1160,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
@@ -13942,7 +14002,7 @@
     {
       "row_number": 1161,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
@@ -13953,7 +14013,7 @@
     {
       "row_number": 1162,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
@@ -13964,7 +14024,7 @@
     {
       "row_number": 1163,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
@@ -13975,7 +14035,7 @@
     {
       "row_number": 1164,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
@@ -13986,7 +14046,7 @@
     {
       "row_number": 1165,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
@@ -13997,7 +14057,7 @@
     {
       "row_number": 1166,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
@@ -14008,7 +14068,7 @@
     {
       "row_number": 1167,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
@@ -14019,7 +14079,7 @@
     {
       "row_number": 1168,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
@@ -14030,7 +14090,7 @@
     {
       "row_number": 1169,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
@@ -14041,7 +14101,7 @@
     {
       "row_number": 1170,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
@@ -14052,7 +14112,7 @@
     {
       "row_number": 1171,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
@@ -14063,7 +14123,7 @@
     {
       "row_number": 1172,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
@@ -14074,7 +14134,7 @@
     {
       "row_number": 1173,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
@@ -14085,7 +14145,7 @@
     {
       "row_number": 1174,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "",
@@ -14096,7 +14156,7 @@
     {
       "row_number": 1175,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "",
@@ -14107,7 +14167,7 @@
     {
       "row_number": 1176,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "",
@@ -14118,7 +14178,7 @@
     {
       "row_number": 1177,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "",
@@ -14129,7 +14189,7 @@
     {
       "row_number": 1178,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "",
@@ -14140,7 +14200,7 @@
     {
       "row_number": 1179,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "",
@@ -14151,7 +14211,7 @@
     {
       "row_number": 1180,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "",
@@ -14162,7 +14222,7 @@
     {
       "row_number": 1181,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "",
@@ -14173,7 +14233,7 @@
     {
       "row_number": 1182,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "",
@@ -14184,7 +14244,7 @@
     {
       "row_number": 1183,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "",
@@ -14195,7 +14255,7 @@
     {
       "row_number": 1184,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "",
@@ -14206,7 +14266,7 @@
     {
       "row_number": 1185,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "",
@@ -14217,7 +14277,7 @@
     {
       "row_number": 1186,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "",
@@ -14228,7 +14288,7 @@
     {
       "row_number": 1187,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "",
@@ -14239,7 +14299,7 @@
     {
       "row_number": 1188,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "",
@@ -14250,7 +14310,7 @@
     {
       "row_number": 1189,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "",
@@ -14261,7 +14321,7 @@
     {
       "row_number": 1190,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "",
@@ -14272,7 +14332,7 @@
     {
       "row_number": 1191,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "",
@@ -14283,7 +14343,7 @@
     {
       "row_number": 1192,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "",
@@ -14294,7 +14354,7 @@
     {
       "row_number": 1193,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "",
@@ -14305,7 +14365,7 @@
     {
       "row_number": 1194,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "",
@@ -14316,7 +14376,7 @@
     {
       "row_number": 1195,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "",
@@ -14327,7 +14387,7 @@
     {
       "row_number": 1196,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "",
@@ -14338,7 +14398,7 @@
     {
       "row_number": 1197,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "",
@@ -14349,7 +14409,7 @@
     {
       "row_number": 1198,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "",
@@ -14360,7 +14420,7 @@
     {
       "row_number": 1199,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "",
@@ -14371,7 +14431,7 @@
     {
       "row_number": 1200,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "",
@@ -14382,7 +14442,7 @@
     {
       "row_number": 1201,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "",
@@ -14393,7 +14453,7 @@
     {
       "row_number": 1202,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "",
@@ -14404,7 +14464,7 @@
     {
       "row_number": 1203,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "",
@@ -14415,7 +14475,7 @@
     {
       "row_number": 1204,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "",
@@ -14426,7 +14486,7 @@
     {
       "row_number": 1205,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "",
@@ -14437,7 +14497,7 @@
     {
       "row_number": 1206,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "",
@@ -14448,7 +14508,7 @@
     {
       "row_number": 1207,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "",
@@ -14459,7 +14519,7 @@
     {
       "row_number": 1208,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "",
@@ -14470,7 +14530,7 @@
     {
       "row_number": 1209,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "",
@@ -14481,7 +14541,7 @@
     {
       "row_number": 1210,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "",
@@ -14492,7 +14552,7 @@
     {
       "row_number": 1211,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "",
@@ -14503,7 +14563,7 @@
     {
       "row_number": 1212,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "",
@@ -14514,7 +14574,7 @@
     {
       "row_number": 1213,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "",
@@ -14525,7 +14585,7 @@
     {
       "row_number": 1214,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "",
@@ -14536,7 +14596,7 @@
     {
       "row_number": 1215,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "",
@@ -14547,7 +14607,7 @@
     {
       "row_number": 1216,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "",
@@ -14558,7 +14618,7 @@
     {
       "row_number": 1217,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "",
@@ -14569,7 +14629,7 @@
     {
       "row_number": 1218,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "",
@@ -14580,7 +14640,7 @@
     {
       "row_number": 1219,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "",
@@ -14591,7 +14651,7 @@
     {
       "row_number": 1220,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "",
@@ -14602,7 +14662,7 @@
     {
       "row_number": 1221,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "",
@@ -14613,7 +14673,7 @@
     {
       "row_number": 1222,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "",
@@ -14624,7 +14684,7 @@
     {
       "row_number": 1223,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "",
@@ -14635,7 +14695,7 @@
     {
       "row_number": 1224,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "",
@@ -14646,7 +14706,7 @@
     {
       "row_number": 1225,
       "ParticipanteID": 17,
-      "Nombre": "Participante 17",
+      "Nombre": "Anita",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "",
@@ -14657,7 +14717,7 @@
     {
       "row_number": 1226,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
       "Pronostico": "",
@@ -14668,7 +14728,7 @@
     {
       "row_number": 1227,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "",
@@ -14679,7 +14739,7 @@
     {
       "row_number": 1228,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "",
@@ -14690,7 +14750,7 @@
     {
       "row_number": 1229,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "",
@@ -14701,7 +14761,7 @@
     {
       "row_number": 1230,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "",
@@ -14712,7 +14772,7 @@
     {
       "row_number": 1231,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "",
@@ -14723,7 +14783,7 @@
     {
       "row_number": 1232,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "",
@@ -14734,7 +14794,7 @@
     {
       "row_number": 1233,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "",
@@ -14745,7 +14805,7 @@
     {
       "row_number": 1234,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
       "Pronostico": "",
@@ -14756,7 +14816,7 @@
     {
       "row_number": 1235,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "",
@@ -14767,7 +14827,7 @@
     {
       "row_number": 1236,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "",
@@ -14778,7 +14838,7 @@
     {
       "row_number": 1237,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "",
@@ -14789,7 +14849,7 @@
     {
       "row_number": 1238,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "",
@@ -14800,7 +14860,7 @@
     {
       "row_number": 1239,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "",
@@ -14811,7 +14871,7 @@
     {
       "row_number": 1240,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "",
@@ -14822,7 +14882,7 @@
     {
       "row_number": 1241,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "",
@@ -14833,7 +14893,7 @@
     {
       "row_number": 1242,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "",
@@ -14844,7 +14904,7 @@
     {
       "row_number": 1243,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "",
@@ -14855,7 +14915,7 @@
     {
       "row_number": 1244,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "",
@@ -14866,7 +14926,7 @@
     {
       "row_number": 1245,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "",
@@ -14877,7 +14937,7 @@
     {
       "row_number": 1246,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "",
@@ -14888,7 +14948,7 @@
     {
       "row_number": 1247,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "",
@@ -14899,7 +14959,7 @@
     {
       "row_number": 1248,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
       "Pronostico": "",
@@ -14910,7 +14970,7 @@
     {
       "row_number": 1249,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "",
@@ -14921,7 +14981,7 @@
     {
       "row_number": 1250,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
       "Pronostico": "",
@@ -14932,7 +14992,7 @@
     {
       "row_number": 1251,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "",
@@ -14943,7 +15003,7 @@
     {
       "row_number": 1252,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "",
@@ -14954,7 +15014,7 @@
     {
       "row_number": 1253,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
       "Pronostico": "",
@@ -14965,7 +15025,7 @@
     {
       "row_number": 1254,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
       "Pronostico": "",
@@ -14976,7 +15036,7 @@
     {
       "row_number": 1255,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "",
@@ -14987,7 +15047,7 @@
     {
       "row_number": 1256,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
       "Pronostico": "",
@@ -14998,7 +15058,7 @@
     {
       "row_number": 1257,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "",
@@ -15009,7 +15069,7 @@
     {
       "row_number": 1258,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "",
@@ -15020,7 +15080,7 @@
     {
       "row_number": 1259,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
       "Pronostico": "",
@@ -15031,7 +15091,7 @@
     {
       "row_number": 1260,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
       "Pronostico": "",
@@ -15042,7 +15102,7 @@
     {
       "row_number": 1261,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
       "Pronostico": "",
@@ -15053,7 +15113,7 @@
     {
       "row_number": 1262,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
       "Pronostico": "",
@@ -15064,7 +15124,7 @@
     {
       "row_number": 1263,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "",
@@ -15075,7 +15135,7 @@
     {
       "row_number": 1264,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "",
@@ -15086,7 +15146,7 @@
     {
       "row_number": 1265,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "",
@@ -15097,7 +15157,7 @@
     {
       "row_number": 1266,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
       "Pronostico": "",
@@ -15108,7 +15168,7 @@
     {
       "row_number": 1267,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
       "Pronostico": "",
@@ -15119,7 +15179,7 @@
     {
       "row_number": 1268,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
       "Pronostico": "",
@@ -15130,7 +15190,7 @@
     {
       "row_number": 1269,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
       "Pronostico": "",
@@ -15141,7 +15201,7 @@
     {
       "row_number": 1270,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
       "Pronostico": "",
@@ -15152,7 +15212,7 @@
     {
       "row_number": 1271,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "",
@@ -15163,7 +15223,7 @@
     {
       "row_number": 1272,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "",
@@ -15174,7 +15234,7 @@
     {
       "row_number": 1273,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
       "Pronostico": "",
@@ -15185,7 +15245,7 @@
     {
       "row_number": 1274,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "",
@@ -15196,7 +15256,7 @@
     {
       "row_number": 1275,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "",
@@ -15207,7 +15267,7 @@
     {
       "row_number": 1276,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
       "Pronostico": "",
@@ -15218,7 +15278,7 @@
     {
       "row_number": 1277,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
       "Pronostico": "",
@@ -15229,7 +15289,7 @@
     {
       "row_number": 1278,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
       "Pronostico": "",
@@ -15240,7 +15300,7 @@
     {
       "row_number": 1279,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
       "Pronostico": "",
@@ -15251,7 +15311,7 @@
     {
       "row_number": 1280,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "",
@@ -15262,7 +15322,7 @@
     {
       "row_number": 1281,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "",
@@ -15273,7 +15333,7 @@
     {
       "row_number": 1282,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "",
@@ -15284,7 +15344,7 @@
     {
       "row_number": 1283,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "",
@@ -15295,7 +15355,7 @@
     {
       "row_number": 1284,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
       "Pronostico": "",
@@ -15306,7 +15366,7 @@
     {
       "row_number": 1285,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
       "Pronostico": "",
@@ -15317,7 +15377,7 @@
     {
       "row_number": 1286,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "",
@@ -15328,7 +15388,7 @@
     {
       "row_number": 1287,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "",
@@ -15339,7 +15399,7 @@
     {
       "row_number": 1288,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "",
@@ -15350,7 +15410,7 @@
     {
       "row_number": 1289,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "",
@@ -15361,7 +15421,7 @@
     {
       "row_number": 1290,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
       "Pronostico": "",
@@ -15372,7 +15432,7 @@
     {
       "row_number": 1291,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
       "Pronostico": "",
@@ -15383,7 +15443,7 @@
     {
       "row_number": 1292,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "",
@@ -15394,7 +15454,7 @@
     {
       "row_number": 1293,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "",
@@ -15405,7 +15465,7 @@
     {
       "row_number": 1294,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "",
@@ -15416,7 +15476,7 @@
     {
       "row_number": 1295,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "",
@@ -15427,7 +15487,7 @@
     {
       "row_number": 1296,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "",
@@ -15438,7 +15498,7 @@
     {
       "row_number": 1297,
       "ParticipanteID": 18,
-      "Nombre": "Participante 18",
+      "Nombre": "Brith",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "",
@@ -15449,1586 +15509,1586 @@
     {
       "row_number": 1298,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1299,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1300,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1301,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1302,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1303,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1304,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1305,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1306,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1307,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1308,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1309,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1310,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1311,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1312,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1313,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1314,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1315,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1316,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1317,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1318,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1319,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1320,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1321,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1322,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1323,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1324,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1325,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1326,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1327,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1328,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1329,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1330,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1331,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1332,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1333,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1334,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1335,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1336,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1337,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1338,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1339,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1340,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1341,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1342,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1343,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1344,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1345,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1346,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1347,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1348,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1349,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1350,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1351,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1352,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1353,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1354,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1355,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1356,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1357,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1358,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1359,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1360,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1361,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1362,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1363,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1364,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1365,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1366,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1367,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1368,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1369,
       "ParticipanteID": 19,
-      "Nombre": "Participante 19",
+      "Nombre": "John",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1370,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 1,
       "Partido": "México vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1371,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1372,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1373,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1374,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1375,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1376,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1377,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1378,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 9,
       "Partido": "Alemania vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1379,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1380,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1381,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1382,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1383,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1384,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1385,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1386,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1387,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1388,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1389,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1390,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1391,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1392,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 23,
       "Partido": "Ghana vs Panamá",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1393,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1394,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 25,
       "Partido": "Rep. Checa vs Sudáfrica",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1395,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1396,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1397,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 28,
       "Partido": "México vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1398,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 29,
       "Partido": "Estados Unidos vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1399,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1400,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 31,
       "Partido": "Brasil vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1401,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1402,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1403,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 34,
       "Partido": "Alemania vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1404,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 35,
       "Partido": "Ecuador vs Curazao",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1405,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 36,
       "Partido": "Túnez vs Japón",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1406,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 37,
       "Partido": "España vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1407,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1408,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1409,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1410,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 41,
       "Partido": "Argentina vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1411,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 42,
       "Partido": "Francia vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1412,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 43,
       "Partido": "Noruega vs Senegal",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1413,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 44,
       "Partido": "Jordania vs Argelia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1414,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 45,
       "Partido": "Portugal vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1415,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1416,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1417,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 48,
       "Partido": "Colombia vs RD del Congo",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1418,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1419,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1420,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 51,
       "Partido": "Marruecos vs Haití",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1421,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 52,
       "Partido": "Escocia vs Brasil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1422,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 53,
       "Partido": "Sudáfrica vs Corea del Sur",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1423,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 54,
       "Partido": "Rep. Checa vs México",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1424,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1425,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1426,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1427,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1428,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 59,
       "Partido": "Paraguay vs Australia",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1429,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 60,
       "Partido": "Turquía vs Estados Unidos",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1430,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1431,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1432,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1433,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1434,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 65,
       "Partido": "Egipto vs Irán",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1435,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 66,
       "Partido": "Nueva Zelanda vs Bélgica",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1436,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1437,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1438,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1439,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
-      "Pronostico": "",
+      "Pronostico": "E",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1440,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
-      "Pronostico": "",
+      "Pronostico": "L",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     },
     {
       "row_number": 1441,
       "ParticipanteID": 20,
-      "Nombre": "Participante 20",
+      "Nombre": "Johnny",
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
-      "Pronostico": "",
+      "Pronostico": "V",
       "ResultadoReal": "",
       "Punto": 0,
-      "Validacion": "FALTA"
+      "Validacion": "OK"
     }
   ],
   "validaciones": []
