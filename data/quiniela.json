@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-11T17:21:36.584Z",
+    "ultimaActualizacion": "2026-06-11T17:25:05.208Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 1,
-    "partidosPendientes": 71,
+    "partidosJugados": 2,
+    "partidosPendientes": 70,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -31,9 +31,9 @@
       "Grupo": "A",
       "Local": "Corea del Sur",
       "Visitante": "Rep. Checa",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -986,9 +986,9 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1001,9 +1001,9 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1016,9 +1016,9 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1031,9 +1031,9 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1076,9 +1076,9 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1091,9 +1091,9 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1106,9 +1106,9 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1121,9 +1121,9 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1151,9 +1151,9 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1166,9 +1166,9 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1181,9 +1181,9 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1196,9 +1196,9 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1211,9 +1211,9 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 1,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 2,
       "Porcentaje": 1,
       "Posicion": 1,
       "Revision": "OK"
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1243,9 +1243,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 1,
-      "Porcentaje": 1,
-      "Posicion": 1,
+      "PartidosJugados": 2,
+      "Porcentaje": 0.5,
+      "Posicion": 14,
       "Revision": "OK"
     }
   ],
@@ -1268,7 +1268,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2060,7 +2060,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2852,8 +2852,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3644,8 +3644,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4436,8 +4436,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5228,8 +5228,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6020,7 +6020,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6812,7 +6812,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7604,8 +7604,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8396,8 +8396,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9188,8 +9188,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9980,8 +9980,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10772,7 +10772,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11564,8 +11564,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12356,8 +12356,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13148,8 +13148,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13940,8 +13940,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14732,8 +14732,8 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15524,7 +15524,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16316,7 +16316,7 @@
       "PartidoID": 2,
       "Partido": "Corea del Sur vs Rep. Checa",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
