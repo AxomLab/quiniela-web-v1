@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-12T03:56:50.098Z",
+    "ultimaActualizacion": "2026-06-12T20:59:49.713Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 2,
-    "partidosPendientes": 70,
+    "partidosJugados": 3,
+    "partidosPendientes": 69,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -44,9 +44,9 @@
       "Grupo": "B",
       "Local": "Canadá",
       "Visitante": "Bosnia y Herz.",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 2,
-      "Porcentaje": 1,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 2,
-      "Porcentaje": 1,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 2,
-      "Porcentaje": 1,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 2,
-      "Porcentaje": 1,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 1,
       "Aciertos": 1,
-      "PartidosJugados": 2,
-      "Porcentaje": 0.5,
-      "Posicion": 6,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 2,
-      "Porcentaje": 1,
+      "PartidosJugados": 3,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1279,7 +1279,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2071,7 +2071,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2863,7 +2863,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3655,7 +3655,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4447,7 +4447,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5239,7 +5239,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6031,7 +6031,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6823,7 +6823,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7615,7 +7615,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8407,8 +8407,8 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9199,7 +9199,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9991,7 +9991,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10783,7 +10783,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11575,7 +11575,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12367,7 +12367,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13159,7 +13159,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13951,7 +13951,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14743,7 +14743,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15535,7 +15535,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16327,7 +16327,7 @@
       "PartidoID": 3,
       "Partido": "Canadá vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
