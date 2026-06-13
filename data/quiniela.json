@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-13T03:05:40.054Z",
+    "ultimaActualizacion": "2026-06-13T23:24:32.310Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 4,
-    "partidosPendientes": 68,
+    "partidosJugados": 5,
+    "partidosPendientes": 67,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -70,9 +70,9 @@
       "Grupo": "B",
       "Local": "Qatar",
       "Visitante": "Suiza",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.75,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.8,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.75,
-      "Posicion": 1,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1093,9 +1093,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.75,
-      "Posicion": 1,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.75,
-      "Posicion": 1,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.4,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1243,9 +1243,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 4,
-      "Porcentaje": 0.75,
-      "Posicion": 1,
+      "PartidosJugados": 5,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     }
   ],
@@ -1301,8 +1301,8 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2093,7 +2093,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2885,7 +2885,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3677,7 +3677,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4469,7 +4469,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5261,7 +5261,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6053,7 +6053,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6845,7 +6845,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7637,7 +7637,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8429,7 +8429,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9221,7 +9221,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10013,7 +10013,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10805,7 +10805,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11597,7 +11597,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12389,7 +12389,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13181,7 +13181,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13973,7 +13973,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14765,7 +14765,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15557,7 +15557,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16349,7 +16349,7 @@
       "PartidoID": 5,
       "Partido": "Qatar vs Suiza",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
