@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-12T20:59:49.713Z",
+    "ultimaActualizacion": "2026-06-13T03:05:40.054Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 3,
-    "partidosPendientes": 69,
+    "partidosJugados": 4,
+    "partidosPendientes": 68,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -57,9 +57,9 @@
       "Grupo": "D",
       "Local": "Estados Unidos",
       "Visitante": "Paraguay",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Estados Unidos",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
-      "Posicion": 1,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1196,11 +1196,11 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 1,
-      "Aciertos": 1,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 7,
+      "Puntos": 2,
+      "Aciertos": 2,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 3,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 4,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1290,8 +1290,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2082,8 +2082,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2874,8 +2874,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3666,8 +3666,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4458,8 +4458,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5250,8 +5250,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6042,7 +6042,7 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6834,8 +6834,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7626,8 +7626,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8418,8 +8418,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9210,8 +9210,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10002,8 +10002,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10794,8 +10794,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11586,8 +11586,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12378,8 +12378,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13170,8 +13170,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13962,8 +13962,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14754,8 +14754,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15546,8 +15546,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16338,8 +16338,8 @@
       "PartidoID": 4,
       "Partido": "Estados Unidos vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
