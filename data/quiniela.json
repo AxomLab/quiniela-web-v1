@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-14T18:58:42.132Z",
+    "ultimaActualizacion": "2026-06-14T21:57:19.522Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 9,
-    "partidosPendientes": 63,
+    "partidosJugados": 10,
+    "partidosPendientes": 62,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -135,9 +135,9 @@
       "Grupo": "F",
       "Local": "Países Bajos",
       "Visitante": "Japón",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.6666666666666666,
-      "Posicion": 1,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.4444444444444444,
-      "Posicion": 9,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.4,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.5555555555555556,
-      "Posicion": 3,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.5,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 9,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 10,
+      "Porcentaje": 0.7,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1356,7 +1356,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2148,8 +2148,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2940,7 +2940,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3732,7 +3732,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4524,7 +4524,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5316,8 +5316,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6108,8 +6108,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6900,7 +6900,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7692,7 +7692,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8484,8 +8484,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9276,7 +9276,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10068,7 +10068,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10860,7 +10860,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11652,7 +11652,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12444,7 +12444,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13236,7 +13236,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14028,7 +14028,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14820,7 +14820,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15612,7 +15612,7 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16404,8 +16404,8 @@
       "PartidoID": 10,
       "Partido": "Países Bajos vs Japón",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
