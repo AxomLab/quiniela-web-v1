@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-13T23:24:32.310Z",
+    "ultimaActualizacion": "2026-06-14T00:11:26.039Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 5,
-    "partidosPendientes": 67,
+    "partidosJugados": 6,
+    "partidosPendientes": 66,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -83,9 +83,9 @@
       "Grupo": "C",
       "Local": "Brasil",
       "Visitante": "Marruecos",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.8,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1093,9 +1093,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.4,
-      "Posicion": 6,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1241,11 +1241,11 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 5,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 6,
+      "Porcentaje": 0.6666666666666666,
+      "Posicion": 1,
       "Revision": "OK"
     }
   ],
@@ -1312,7 +1312,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2104,8 +2104,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2896,7 +2896,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3688,7 +3688,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4480,7 +4480,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5272,7 +5272,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6064,8 +6064,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6856,7 +6856,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7648,7 +7648,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8440,7 +8440,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9232,7 +9232,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10024,7 +10024,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10816,7 +10816,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11608,7 +11608,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12400,7 +12400,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13192,7 +13192,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13984,7 +13984,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14776,7 +14776,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15568,7 +15568,7 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16360,8 +16360,8 @@
       "PartidoID": 6,
       "Partido": "Brasil vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
