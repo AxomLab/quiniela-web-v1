@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-14T03:07:52.793Z",
+    "ultimaActualizacion": "2026-06-14T06:03:14.086Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 7,
-    "partidosPendientes": 65,
+    "partidosJugados": 8,
+    "partidosPendientes": 64,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -109,9 +109,9 @@
       "Grupo": "D",
       "Local": "Australia",
       "Visitante": "Turquía",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Australia",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.2857142857142857,
-      "Posicion": 20,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.625,
+      "Posicion": 1,
       "Revision": "OK"
     },
     {
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1093,9 +1093,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 2,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 3,
       "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.375,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 8,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 7,
-      "Porcentaje": 0.7142857142857143,
+      "PartidosJugados": 8,
+      "Porcentaje": 0.625,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1334,7 +1334,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2126,7 +2126,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2918,7 +2918,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3710,8 +3710,8 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4502,7 +4502,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5294,7 +5294,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6086,7 +6086,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6878,8 +6878,8 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7670,7 +7670,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8462,7 +8462,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9254,7 +9254,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10046,7 +10046,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10838,7 +10838,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11630,7 +11630,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12422,7 +12422,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13214,7 +13214,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14006,7 +14006,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14798,7 +14798,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15590,8 +15590,8 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16382,7 +16382,7 @@
       "PartidoID": 8,
       "Partido": "Australia vs Turquía",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
