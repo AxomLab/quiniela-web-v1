@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-14T00:11:26.039Z",
+    "ultimaActualizacion": "2026-06-14T03:07:52.793Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 6,
-    "partidosPendientes": 66,
+    "partidosJugados": 7,
+    "partidosPendientes": 65,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -96,9 +96,9 @@
       "Grupo": "C",
       "Local": "Haití",
       "Visitante": "Escocia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Escocia",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.6666666666666666,
-      "Posicion": 1,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.5,
-      "Posicion": 3,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 2,
       "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 8,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.2857142857142857,
+      "Posicion": 20,
       "Revision": "OK"
     },
     {
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.5,
-      "Posicion": 3,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.5,
-      "Posicion": 3,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.5,
-      "Posicion": 3,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 3,
-      "Aciertos": 3,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.5,
-      "Posicion": 3,
+      "Puntos": 4,
+      "Aciertos": 4,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 2,
-      "Aciertos": 2,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.3333333333333333,
+      "Puntos": 3,
+      "Aciertos": 3,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 8,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 6,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 7,
+      "Porcentaje": 0.7142857142857143,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1323,7 +1323,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2115,8 +2115,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2907,8 +2907,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3699,7 +3699,7 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4491,8 +4491,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5283,8 +5283,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6075,8 +6075,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6867,8 +6867,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7659,8 +7659,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8451,8 +8451,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9243,8 +9243,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10035,8 +10035,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10827,8 +10827,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11619,8 +11619,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12411,8 +12411,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13203,8 +13203,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13995,8 +13995,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14787,8 +14787,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15579,8 +15579,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16371,8 +16371,8 @@
       "PartidoID": 7,
       "Partido": "Haití vs Escocia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
