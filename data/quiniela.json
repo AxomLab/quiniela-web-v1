@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-15T17:57:54.747Z",
+    "ultimaActualizacion": "2026-06-15T21:02:05.817Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 13,
-    "partidosPendientes": 59,
+    "partidosJugados": 14,
+    "partidosPendientes": 58,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -187,9 +187,9 @@
       "Grupo": "G",
       "Local": "Bélgica",
       "Visitante": "Egipto",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.6153846153846154,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.5714285714285714,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.5384615384615384,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.5,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.3076923076923077,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.2857142857142857,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.38461538461538464,
-      "Posicion": 11,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.35714285714285715,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.46153846153846156,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 13,
-      "Porcentaje": 0.6923076923076923,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 14,
+      "Porcentaje": 0.7142857142857143,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1400,7 +1400,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2192,7 +2192,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2984,7 +2984,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3776,8 +3776,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4568,7 +4568,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5360,7 +5360,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6152,7 +6152,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6944,7 +6944,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7736,7 +7736,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8528,7 +8528,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9320,7 +9320,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10112,7 +10112,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10904,7 +10904,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11696,7 +11696,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12488,7 +12488,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13280,8 +13280,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14072,7 +14072,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14864,7 +14864,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15656,7 +15656,7 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16448,8 +16448,8 @@
       "PartidoID": 14,
       "Partido": "Bélgica vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
