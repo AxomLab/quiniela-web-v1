@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-14T21:57:19.522Z",
+    "ultimaActualizacion": "2026-06-15T01:05:44.808Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 10,
-    "partidosPendientes": 62,
+    "partidosJugados": 11,
+    "partidosPendientes": 61,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -148,9 +148,9 @@
       "Grupo": "E",
       "Local": "Costa de Marfil",
       "Visitante": "Ecuador",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Costa de Marfil",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.6,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.6363636363636364,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1093,9 +1093,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.6,
-      "Posicion": 2,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1196,11 +1196,11 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.4,
-      "Posicion": 10,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.45454545454545453,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 10,
-      "Porcentaje": 0.7,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 11,
+      "Porcentaje": 0.7272727272727273,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1367,7 +1367,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2159,7 +2159,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2951,7 +2951,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3743,7 +3743,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4535,7 +4535,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5327,7 +5327,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6119,7 +6119,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6911,8 +6911,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7703,8 +7703,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8495,7 +8495,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9287,7 +9287,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10079,7 +10079,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10871,7 +10871,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11663,7 +11663,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12455,7 +12455,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13247,7 +13247,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14039,8 +14039,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14831,7 +14831,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15623,7 +15623,7 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16415,8 +16415,8 @@
       "PartidoID": 11,
       "Partido": "Costa de Marfil vs Ecuador",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
