@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-15T04:18:34.521Z",
+    "ultimaActualizacion": "2026-06-15T17:57:54.747Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 12,
-    "partidosPendientes": 60,
+    "partidosJugados": 13,
+    "partidosPendientes": 59,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -174,9 +174,9 @@
       "Grupo": "H",
       "Local": "España",
       "Visitante": "Cabo Verde",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.6666666666666666,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.6153846153846154,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5833333333333334,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.3333333333333333,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.3076923076923077,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.4166666666666667,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 12,
-      "Porcentaje": 0.75,
+      "PartidosJugados": 13,
+      "Porcentaje": 0.6923076923076923,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1389,7 +1389,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2181,7 +2181,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2973,7 +2973,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3765,7 +3765,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4557,7 +4557,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5349,7 +5349,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6141,7 +6141,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6933,7 +6933,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7725,7 +7725,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8517,7 +8517,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9309,7 +9309,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10101,7 +10101,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10893,7 +10893,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11685,7 +11685,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12477,7 +12477,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13269,7 +13269,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14061,7 +14061,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14853,7 +14853,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15645,7 +15645,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16437,7 +16437,7 @@
       "PartidoID": 13,
       "Partido": "España vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
