@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-15T01:05:44.808Z",
+    "ultimaActualizacion": "2026-06-15T04:18:34.521Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 11,
-    "partidosPendientes": 61,
+    "partidosJugados": 12,
+    "partidosPendientes": 60,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -161,9 +161,9 @@
       "Grupo": "F",
       "Local": "Suecia",
       "Visitante": "Túnez",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Suecia",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.5454545454545454,
-      "Posicion": 3,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.5454545454545454,
-      "Posicion": 3,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.6363636363636364,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.5454545454545454,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5833333333333334,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 20,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1196,11 +1196,11 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.36363636363636365,
-      "Posicion": 12,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.4166666666666667,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.45454545454545453,
-      "Posicion": 6,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.5,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 11,
-      "Porcentaje": 0.7272727272727273,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 12,
+      "Porcentaje": 0.75,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1378,7 +1378,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2170,7 +2170,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2962,8 +2962,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3754,8 +3754,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4546,8 +4546,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5338,8 +5338,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6130,7 +6130,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6922,8 +6922,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7714,8 +7714,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8506,8 +8506,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9298,8 +9298,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10090,8 +10090,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10882,8 +10882,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11674,8 +11674,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12466,7 +12466,7 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13258,8 +13258,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14050,8 +14050,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14842,8 +14842,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15634,8 +15634,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16426,8 +16426,8 @@
       "PartidoID": 12,
       "Partido": "Suecia vs Túnez",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
