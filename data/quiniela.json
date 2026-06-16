@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-16T03:04:44.104Z",
+    "ultimaActualizacion": "2026-06-16T21:02:56.331Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 16,
-    "partidosPendientes": 56,
+    "partidosJugados": 17,
+    "partidosPendientes": 55,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -226,9 +226,9 @@
       "Grupo": "I",
       "Local": "Francia",
       "Visitante": "Senegal",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Francia",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.4375,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.47058823529411764,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.5625,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.5882352941176471,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.4375,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.47058823529411764,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.4375,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.47058823529411764,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 4,
-      "Aciertos": 4,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.25,
+      "Puntos": 5,
+      "Aciertos": 5,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.29411764705882354,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.4375,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.47058823529411764,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
-      "Posicion": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.3125,
-      "Posicion": 14,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.35294117647058826,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.375,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.4117647058823529,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 16,
-      "Porcentaje": 0.625,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 17,
+      "Porcentaje": 0.6470588235294118,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1433,8 +1433,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2225,8 +2225,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3017,8 +3017,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3809,8 +3809,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4601,8 +4601,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5393,8 +5393,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6185,8 +6185,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6977,8 +6977,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7769,8 +7769,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8561,8 +8561,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9353,8 +9353,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10145,8 +10145,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10937,8 +10937,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11729,8 +11729,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12521,8 +12521,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13313,8 +13313,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14105,7 +14105,7 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14897,8 +14897,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15689,8 +15689,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16481,8 +16481,8 @@
       "PartidoID": 17,
       "Partido": "Francia vs Senegal",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
