@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-16T00:05:24.499Z",
+    "ultimaActualizacion": "2026-06-16T03:04:44.104Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 15,
-    "partidosPendientes": 57,
+    "partidosJugados": 16,
+    "partidosPendientes": 56,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -213,9 +213,9 @@
       "Grupo": "G",
       "Local": "Irán",
       "Visitante": "Nueva Zelanda",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.4375,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.5333333333333333,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.5625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.4375,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4666666666666667,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.4375,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.26666666666666666,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.25,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4666666666666667,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.4375,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 13,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.3125,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.4,
-      "Posicion": 5,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.375,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 15,
-      "Porcentaje": 0.6666666666666666,
+      "PartidosJugados": 16,
+      "Porcentaje": 0.625,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1422,7 +1422,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2214,7 +2214,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3006,7 +3006,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3798,7 +3798,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4590,7 +4590,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5382,7 +5382,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6174,8 +6174,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6966,8 +6966,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7758,8 +7758,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8550,7 +8550,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9342,7 +9342,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10134,7 +10134,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10926,7 +10926,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11718,8 +11718,8 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12510,7 +12510,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13302,7 +13302,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14094,7 +14094,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14886,7 +14886,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15678,7 +15678,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16470,7 +16470,7 @@
       "PartidoID": 16,
       "Partido": "Irán vs Nueva Zelanda",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
