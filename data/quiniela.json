@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-15T21:03:14.197Z",
+    "ultimaActualizacion": "2026-06-16T00:05:24.499Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 14,
-    "partidosPendientes": 58,
+    "partidosJugados": 15,
+    "partidosPendientes": 57,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -200,9 +200,9 @@
       "Grupo": "H",
       "Local": "Arabia Saudita",
       "Visitante": "Uruguay",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.5714285714285714,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.5333333333333333,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4666666666666667,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 4,
       "Aciertos": 4,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.2857142857142857,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.26666666666666666,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4666666666666667,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 5,
       "Aciertos": 5,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.35714285714285715,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 4,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.4,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 14,
-      "Porcentaje": 0.7142857142857143,
+      "PartidosJugados": 15,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1411,7 +1411,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2203,7 +2203,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2995,7 +2995,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3787,7 +3787,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4579,7 +4579,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5371,7 +5371,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6163,7 +6163,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6955,7 +6955,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7747,7 +7747,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8539,7 +8539,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9331,7 +9331,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10123,7 +10123,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10915,7 +10915,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11707,7 +11707,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12499,7 +12499,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13291,8 +13291,8 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14083,7 +14083,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14875,7 +14875,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15667,7 +15667,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16459,7 +16459,7 @@
       "PartidoID": 15,
       "Partido": "Arabia Saudita vs Uruguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
