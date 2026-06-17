@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-17T19:02:15.546Z",
+    "ultimaActualizacion": "2026-06-17T21:57:23.781Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 21,
-    "partidosPendientes": 51,
+    "partidosJugados": 22,
+    "partidosPendientes": 50,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -291,9 +291,9 @@
       "Grupo": "L",
       "Local": "Inglaterra",
       "Visitante": "Croacia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Inglaterra",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 12,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 12,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.38095238095238093,
-      "Posicion": 17,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.4090909090909091,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.5238095238095238,
-      "Posicion": 2,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.5238095238095238,
-      "Posicion": 2,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.5238095238095238,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5454545454545454,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 20,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 19,
       "Revision": "OK"
     },
     {
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 12,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.4090909090909091,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 12,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.45454545454545453,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.38095238095238093,
-      "Posicion": 17,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.4090909090909091,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.38095238095238093,
-      "Posicion": 17,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.36363636363636365,
+      "Posicion": 19,
       "Revision": "OK"
     },
     {
@@ -1213,9 +1213,9 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.42857142857142855,
-      "Posicion": 12,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.4090909090909091,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.47619047619047616,
-      "Posicion": 5,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.5,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 21,
-      "Porcentaje": 0.6190476190476191,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 22,
+      "Porcentaje": 0.6363636363636364,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1488,8 +1488,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2280,7 +2280,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3072,8 +3072,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3864,8 +3864,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4656,8 +4656,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5448,8 +5448,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6240,7 +6240,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7032,7 +7032,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7824,8 +7824,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8616,8 +8616,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9408,8 +9408,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10200,7 +10200,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10992,8 +10992,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11784,8 +11784,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12576,8 +12576,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13368,8 +13368,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14160,7 +14160,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14952,7 +14952,7 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15744,8 +15744,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16536,8 +16536,8 @@
       "PartidoID": 22,
       "Partido": "Inglaterra vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
