@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-17T02:58:58.031Z",
+    "ultimaActualizacion": "2026-06-17T13:56:27.274Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 19,
-    "partidosPendientes": 53,
+    "partidosJugados": 20,
+    "partidosPendientes": 52,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -265,9 +265,9 @@
       "Grupo": "J",
       "Local": "Austria",
       "Visitante": "Jordania",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Austria",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.42105263157894735,
-      "Posicion": 13,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.45,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.42105263157894735,
-      "Posicion": 13,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.45,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.42105263157894735,
-      "Posicion": 13,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.4,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.5263157894736842,
-      "Posicion": 3,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.55,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.5789473684210527,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.55,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.5263157894736842,
-      "Posicion": 3,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.5263157894736842,
-      "Posicion": 3,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.55,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.3684210526315789,
-      "Posicion": 18,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.35,
+      "Posicion": 20,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.42105263157894735,
-      "Posicion": 13,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.45,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.45,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.3684210526315789,
-      "Posicion": 18,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.4,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.5263157894736842,
-      "Posicion": 3,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1196,11 +1196,11 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.3684210526315789,
-      "Posicion": 18,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.4,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.42105263157894735,
-      "Posicion": 13,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.45,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.47368421052631576,
-      "Posicion": 7,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 19,
-      "Porcentaje": 0.6842105263157895,
+      "PartidosJugados": 20,
+      "Porcentaje": 0.65,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1466,8 +1466,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2258,8 +2258,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3050,8 +3050,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3842,8 +3842,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4634,7 +4634,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5426,8 +5426,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6218,8 +6218,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7010,7 +7010,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7802,7 +7802,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8594,8 +8594,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9386,7 +9386,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10178,8 +10178,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10970,8 +10970,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11762,7 +11762,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12554,8 +12554,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13346,7 +13346,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14138,8 +14138,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14930,8 +14930,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15722,8 +15722,8 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16514,7 +16514,7 @@
       "PartidoID": 20,
       "Partido": "Austria vs Jordania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
