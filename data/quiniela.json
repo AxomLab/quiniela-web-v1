@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-17T00:10:31.127Z",
+    "ultimaActualizacion": "2026-06-17T02:58:58.031Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 18,
-    "partidosPendientes": 54,
+    "partidosJugados": 19,
+    "partidosPendientes": 53,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -252,9 +252,9 @@
       "Grupo": "J",
       "Local": "Argentina",
       "Visitante": "Argelia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Argentina",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.42105263157894735,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.42105263157894735,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.42105263157894735,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.5,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.5555555555555556,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.5789473684210527,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.5,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.5,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 19,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.3684210526315789,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.42105263157894735,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3333333333333333,
-      "Posicion": 19,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.3684210526315789,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.5,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
-      "Posicion": 13,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.3684210526315789,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.3888888888888889,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.42105263157894735,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.4444444444444444,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.47368421052631576,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 18,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 19,
+      "Porcentaje": 0.6842105263157895,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1455,8 +1455,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2247,8 +2247,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3039,8 +3039,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3831,8 +3831,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4623,8 +4623,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5415,8 +5415,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6207,8 +6207,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6999,8 +6999,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7791,8 +7791,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8583,8 +8583,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9375,8 +9375,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10167,8 +10167,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10959,8 +10959,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11751,8 +11751,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12543,8 +12543,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13335,8 +13335,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14127,7 +14127,7 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14919,8 +14919,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15711,8 +15711,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16503,8 +16503,8 @@
       "PartidoID": 19,
       "Partido": "Argentina vs Argelia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
