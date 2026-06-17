@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-17T13:56:27.274Z",
+    "ultimaActualizacion": "2026-06-17T19:02:15.546Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 20,
-    "partidosPendientes": 52,
+    "partidosJugados": 21,
+    "partidosPendientes": 51,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -278,9 +278,9 @@
       "Grupo": "K",
       "Local": "Portugal",
       "Visitante": "RD del Congo",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.45,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.45,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.4,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.38095238095238093,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.55,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.5238095238095238,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.55,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.5238095238095238,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.55,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.5238095238095238,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 7,
       "Aciertos": 7,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.35,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.3333333333333333,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.45,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.45,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.4,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.38095238095238093,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 8,
       "Aciertos": 8,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.4,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.38095238095238093,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 9,
       "Aciertos": 9,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.45,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.42857142857142855,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.47619047619047616,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 20,
-      "Porcentaje": 0.65,
+      "PartidosJugados": 21,
+      "Porcentaje": 0.6190476190476191,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1477,7 +1477,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2269,7 +2269,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3061,7 +3061,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3853,7 +3853,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4645,7 +4645,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5437,7 +5437,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6229,7 +6229,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7021,7 +7021,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7813,7 +7813,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8605,7 +8605,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9397,7 +9397,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10189,7 +10189,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10981,7 +10981,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11773,7 +11773,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12565,7 +12565,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13357,7 +13357,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14149,7 +14149,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14941,7 +14941,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15733,7 +15733,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16525,7 +16525,7 @@
       "PartidoID": 21,
       "Partido": "Portugal vs RD del Congo",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
