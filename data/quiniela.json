@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-16T21:46:39.412Z",
+    "ultimaActualizacion": "2026-06-17T00:10:31.127Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 17,
-    "partidosPendientes": 55,
+    "partidosJugados": 18,
+    "partidosPendientes": 54,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -239,9 +239,9 @@
       "Grupo": "I",
       "Local": "Irak",
       "Visitante": "Noruega",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Noruega",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.47058823529411764,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.5,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.5882352941176471,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.47058823529411764,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.5,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.47058823529411764,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.5,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 6,
       "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
-      "Posicion": 13,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 19,
       "Revision": "OK"
     },
     {
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 5,
-      "Aciertos": 5,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.29411764705882354,
-      "Posicion": 20,
+      "Puntos": 6,
+      "Aciertos": 6,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3333333333333333,
+      "Posicion": 19,
       "Revision": "OK"
     },
     {
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.47058823529411764,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.5,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 6,
-      "Aciertos": 6,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.35294117647058826,
+      "Puntos": 7,
+      "Aciertos": 7,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.3888888888888889,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 7,
-      "Aciertos": 7,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.4117647058823529,
+      "Puntos": 8,
+      "Aciertos": 8,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.4444444444444444,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 17,
-      "Porcentaje": 0.6470588235294118,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 18,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1444,8 +1444,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2236,8 +2236,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3028,8 +3028,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3820,8 +3820,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4612,8 +4612,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5404,8 +5404,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6196,8 +6196,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6988,7 +6988,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7780,8 +7780,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8572,8 +8572,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9364,7 +9364,7 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10156,8 +10156,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10948,8 +10948,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11740,8 +11740,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12532,8 +12532,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13324,8 +13324,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14116,8 +14116,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14908,8 +14908,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15700,8 +15700,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16492,8 +16492,8 @@
       "PartidoID": 18,
       "Partido": "Irak vs Noruega",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
