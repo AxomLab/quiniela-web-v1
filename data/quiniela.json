@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-18T18:01:50.484Z",
+    "ultimaActualizacion": "2026-06-18T20:54:32.014Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 25,
-    "partidosPendientes": 47,
+    "partidosJugados": 26,
+    "partidosPendientes": 46,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -343,9 +343,9 @@
       "Grupo": "B",
       "Local": "Suiza",
       "Visitante": "Bosnia y Herz.",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Suiza",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.52,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.52,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.52,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 12,
       "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
-      "Posicion": 7,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.56,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5769230769230769,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.4230769230769231,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1168,9 +1168,9 @@
       "Activo": "Sí",
       "Puntos": 11,
       "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.4230769230769231,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 12,
       "Aciertos": 12,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.48,
-      "Posicion": 7,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.36,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.38461538461538464,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.44,
-      "Posicion": 14,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.46153846153846156,
+      "Posicion": 12,
       "Revision": "OK"
     },
     {
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.52,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 16,
-      "Aciertos": 16,
-      "PartidosJugados": 25,
-      "Porcentaje": 0.64,
+      "Puntos": 17,
+      "Aciertos": 17,
+      "PartidosJugados": 26,
+      "Porcentaje": 0.6538461538461539,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1532,8 +1532,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2324,8 +2324,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3116,8 +3116,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3908,8 +3908,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4700,8 +4700,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5492,8 +5492,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6284,8 +6284,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7076,8 +7076,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7868,7 +7868,7 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8660,8 +8660,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9452,8 +9452,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10244,8 +10244,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11036,8 +11036,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11828,7 +11828,7 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12620,7 +12620,7 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13412,7 +13412,7 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14204,8 +14204,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14996,8 +14996,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15788,8 +15788,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16580,8 +16580,8 @@
       "PartidoID": 26,
       "Partido": "Suiza vs Bosnia y Herz.",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
