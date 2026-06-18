@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-18T01:06:19.660Z",
+    "ultimaActualizacion": "2026-06-18T04:05:12.960Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 23,
-    "partidosPendientes": 49,
+    "partidosJugados": 24,
+    "partidosPendientes": 48,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -317,9 +317,9 @@
       "Grupo": "K",
       "Local": "Uzbekistán",
       "Visitante": "Colombia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Colombia",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.5217391304347826,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5416666666666666,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.5217391304347826,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5416666666666666,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 12,
       "Aciertos": 12,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.5217391304347826,
-      "Posicion": 3,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.5652173913043478,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5833333333333334,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 9,
-      "Aciertos": 9,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.391304347826087,
+      "Puntos": 10,
+      "Aciertos": 10,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4166666666666667,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 8,
-      "Aciertos": 8,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.34782608695652173,
+      "Puntos": 9,
+      "Aciertos": 9,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.375,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 10,
-      "Aciertos": 10,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 11,
+      "Aciertos": 11,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.4583333333333333,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 6,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.5,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 23,
-      "Porcentaje": 0.6521739130434783,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 24,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1510,8 +1510,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2302,8 +2302,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3094,8 +3094,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3886,8 +3886,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4678,8 +4678,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5470,8 +5470,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6262,8 +6262,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7054,7 +7054,7 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7846,8 +7846,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8638,8 +8638,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9430,8 +9430,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10222,8 +10222,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11014,8 +11014,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11806,8 +11806,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12598,8 +12598,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13390,8 +13390,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14182,8 +14182,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14974,8 +14974,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15766,8 +15766,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16558,8 +16558,8 @@
       "PartidoID": 24,
       "Partido": "Uzbekistán vs Colombia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
