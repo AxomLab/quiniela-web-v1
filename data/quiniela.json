@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-18T20:54:32.014Z",
+    "ultimaActualizacion": "2026-06-19T00:02:29.755Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 26,
-    "partidosPendientes": 46,
+    "partidosJugados": 27,
+    "partidosPendientes": 45,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -356,9 +356,9 @@
       "Grupo": "B",
       "Local": "Canadá",
       "Visitante": "Qatar",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Canadá",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5185185185185185,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5185185185185185,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5185185185185185,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5185185185185185,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.48148148148148145,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5384615384615384,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5384615384615384,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5384615384615384,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.48148148148148145,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5769230769230769,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5925925925925926,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 12,
       "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
-      "Posicion": 12,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.4444444444444444,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.48148148148148145,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5185185185185185,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.4230769230769231,
-      "Posicion": 18,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.4444444444444444,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.4230769230769231,
-      "Posicion": 18,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.4444444444444444,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 12,
       "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
-      "Posicion": 12,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.4444444444444444,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 10,
       "Aciertos": 10,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.38461538461538464,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.37037037037037035,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 12,
-      "Aciertos": 12,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.46153846153846156,
+      "Puntos": 13,
+      "Aciertos": 13,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.48148148148148145,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.5384615384615384,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 26,
-      "Porcentaje": 0.6538461538461539,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 27,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1543,8 +1543,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2335,8 +2335,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3127,8 +3127,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3919,8 +3919,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4711,8 +4711,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5503,8 +5503,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6295,8 +6295,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7087,8 +7087,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7879,8 +7879,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8671,8 +8671,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9463,7 +9463,7 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10255,8 +10255,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11047,8 +11047,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11839,8 +11839,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12631,8 +12631,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13423,7 +13423,7 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14215,7 +14215,7 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15007,8 +15007,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15799,8 +15799,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16591,8 +16591,8 @@
       "PartidoID": 27,
       "Partido": "Canadá vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
