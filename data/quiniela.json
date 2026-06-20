@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-19T21:25:18.151Z",
+    "ultimaActualizacion": "2026-06-20T00:00:49.561Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 29,
-    "partidosPendientes": 43,
+    "partidosJugados": 30,
+    "partidosPendientes": 42,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -395,9 +395,9 @@
       "Grupo": "C",
       "Local": "Escocia",
       "Visitante": "Marruecos",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Marruecos",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 16,
       "Aciertos": 16,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5517241379310345,
-      "Posicion": 7,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5862068965517241,
-      "Posicion": 3,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5862068965517241,
-      "Posicion": 3,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5862068965517241,
-      "Posicion": 3,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 18,
       "Aciertos": 18,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.6206896551724138,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.6,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.4482758620689655,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.43333333333333335,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 16,
-      "Aciertos": 16,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5517241379310345,
-      "Posicion": 7,
+      "Puntos": 17,
+      "Aciertos": 17,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5666666666666667,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.4482758620689655,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.43333333333333335,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.4827586206896552,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.4666666666666667,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.4482758620689655,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.43333333333333335,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 11,
-      "Aciertos": 11,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.3793103448275862,
+      "Puntos": 12,
+      "Aciertos": 12,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.4,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5172413793103449,
-      "Posicion": 9,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5333333333333333,
+      "Posicion": 8,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.5862068965517241,
-      "Posicion": 3,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.5666666666666667,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 29,
-      "Porcentaje": 0.6551724137931034,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 30,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1576,8 +1576,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2368,8 +2368,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3160,8 +3160,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3952,7 +3952,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4744,8 +4744,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5536,8 +5536,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6328,8 +6328,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7120,8 +7120,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7912,8 +7912,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8704,7 +8704,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9496,7 +9496,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10288,8 +10288,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11080,8 +11080,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11872,7 +11872,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12664,7 +12664,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13456,7 +13456,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14248,8 +14248,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15040,8 +15040,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15832,7 +15832,7 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16624,8 +16624,8 @@
       "PartidoID": 30,
       "Partido": "Escocia vs Marruecos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
