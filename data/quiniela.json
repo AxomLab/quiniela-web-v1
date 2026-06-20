@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-20T05:11:26.573Z",
+    "ultimaActualizacion": "2026-06-20T19:11:03.246Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 32,
-    "partidosPendientes": 40,
+    "partidosJugados": 33,
+    "partidosPendientes": 39,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -434,9 +434,9 @@
       "Grupo": "F",
       "Local": "Países Bajos",
       "Visitante": "Suecia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Países Bajos",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.53125,
-      "Posicion": 10,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.53125,
-      "Posicion": 10,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.53125,
-      "Posicion": 10,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 18,
       "Aciertos": 18,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.5625,
-      "Posicion": 7,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.53125,
-      "Posicion": 10,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.59375,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.6060606060606061,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.625,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.6363636363636364,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.625,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.6363636363636364,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 18,
-      "Aciertos": 18,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.5625,
-      "Posicion": 7,
+      "Puntos": 19,
+      "Aciertos": 19,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5757575757575758,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.59375,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.6060606060606061,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 14,
-      "Aciertos": 14,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.4375,
+      "Puntos": 15,
+      "Aciertos": 15,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.45454545454545453,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.53125,
-      "Posicion": 10,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5454545454545454,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 18,
-      "Aciertos": 18,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.5625,
-      "Posicion": 7,
+      "Puntos": 19,
+      "Aciertos": 19,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5757575757575758,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.4375,
-      "Posicion": 17,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.42424242424242425,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 15,
-      "Aciertos": 15,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.46875,
+      "Puntos": 16,
+      "Aciertos": 16,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.48484848484848486,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.4375,
-      "Posicion": 17,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.42424242424242425,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1196,11 +1196,11 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 13,
-      "Aciertos": 13,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.40625,
-      "Posicion": 20,
+      "Puntos": 14,
+      "Aciertos": 14,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.42424242424242425,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 16,
-      "Aciertos": 16,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.5,
+      "Puntos": 17,
+      "Aciertos": 17,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5151515151515151,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 19,
       "Aciertos": 19,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.59375,
-      "Posicion": 4,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.5757575757575758,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 22,
-      "Aciertos": 22,
-      "PartidosJugados": 32,
-      "Porcentaje": 0.6875,
+      "Puntos": 23,
+      "Aciertos": 23,
+      "PartidosJugados": 33,
+      "Porcentaje": 0.696969696969697,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1609,8 +1609,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2401,8 +2401,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3193,8 +3193,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3985,7 +3985,7 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4777,8 +4777,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5569,8 +5569,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6361,8 +6361,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7153,8 +7153,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7945,8 +7945,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8737,8 +8737,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9529,8 +9529,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10321,8 +10321,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11113,8 +11113,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11905,7 +11905,7 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12697,8 +12697,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13489,7 +13489,7 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14281,8 +14281,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15073,8 +15073,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15865,7 +15865,7 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16657,8 +16657,8 @@
       "PartidoID": 33,
       "Partido": "Países Bajos vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
