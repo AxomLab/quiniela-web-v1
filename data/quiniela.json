@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-20T02:24:07.288Z",
+    "ultimaActualizacion": "2026-06-20T05:07:51.431Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 31,
-    "partidosPendientes": 41,
+    "partidosJugados": 32,
+    "partidosPendientes": 40,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -421,9 +421,9 @@
       "Grupo": "D",
       "Local": "Turquía",
       "Visitante": "Paraguay",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Paraguay",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.53125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -973,9 +973,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.53125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.53125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.5625,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1018,9 +1018,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.53125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 19,
       "Aciertos": 19,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.6129032258064516,
-      "Posicion": 2,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.59375,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.6129032258064516,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.6129032258064516,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.5625,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1093,9 +1093,9 @@
       "Activo": "Sí",
       "Puntos": 19,
       "Aciertos": 19,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.6129032258064516,
-      "Posicion": 2,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.59375,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.45161290322580644,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.4375,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1123,9 +1123,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5483870967741935,
-      "Posicion": 8,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.53125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 18,
       "Aciertos": 18,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5806451612903226,
-      "Posicion": 6,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.5625,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.45161290322580644,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.4375,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 15,
       "Aciertos": 15,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.4838709677419355,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.46875,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 14,
       "Aciertos": 14,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.45161290322580644,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.4375,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 13,
       "Aciertos": 13,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.41935483870967744,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.40625,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 16,
       "Aciertos": 16,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5161290322580645,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.5,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 18,
-      "Aciertos": 18,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.5806451612903226,
-      "Posicion": 6,
+      "Puntos": 19,
+      "Aciertos": 19,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.59375,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 21,
-      "Aciertos": 21,
-      "PartidosJugados": 31,
-      "Porcentaje": 0.6774193548387096,
+      "Puntos": 22,
+      "Aciertos": 22,
+      "PartidosJugados": 32,
+      "Porcentaje": 0.6875,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1598,7 +1598,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2390,7 +2390,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3182,7 +3182,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3974,8 +3974,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4766,7 +4766,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5558,7 +5558,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6350,8 +6350,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7142,8 +7142,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7934,8 +7934,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8726,7 +8726,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9518,7 +9518,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10310,7 +10310,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11102,7 +11102,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11894,7 +11894,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12686,7 +12686,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13478,7 +13478,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14270,7 +14270,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15062,7 +15062,7 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15854,8 +15854,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16646,8 +16646,8 @@
       "PartidoID": 32,
       "Partido": "Turquía vs Paraguay",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
