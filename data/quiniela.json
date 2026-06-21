@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-21T17:47:46.959Z",
+    "ultimaActualizacion": "2026-06-21T22:30:31.013Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 37,
-    "partidosPendientes": 35,
+    "partidosJugados": 38,
+    "partidosPendientes": 34,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -499,9 +499,9 @@
       "Grupo": "G",
       "Local": "Bélgica",
       "Visitante": "Irán",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5675675675675675,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5526315789473685,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5405405405405406,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5675675675675675,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5526315789473685,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5945945945945946,
-      "Posicion": 6,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5789473684210527,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5675675675675675,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5526315789473685,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.6216216216216216,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.6052631578947368,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.6486486486486487,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.631578947368421,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.6486486486486487,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.631578947368421,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5945945945945946,
-      "Posicion": 6,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5789473684210527,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.6216216216216216,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.6052631578947368,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 18,
       "Aciertos": 18,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.4864864864864865,
-      "Posicion": 17,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.47368421052631576,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5675675675675675,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5526315789473685,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 22,
-      "Aciertos": 22,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5945945945945946,
-      "Posicion": 6,
+      "Puntos": 23,
+      "Aciertos": 23,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.6052631578947368,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.4594594594594595,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.4473684210526316,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5135135135135135,
-      "Posicion": 16,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5263157894736842,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 18,
-      "Aciertos": 18,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.4864864864864865,
+      "Puntos": 19,
+      "Aciertos": 19,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.4594594594594595,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.4473684210526316,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5405405405405406,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5263157894736842,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.5945945945945946,
-      "Posicion": 6,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.5789473684210527,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 37,
-      "Porcentaje": 0.7027027027027027,
+      "PartidosJugados": 38,
+      "Porcentaje": 0.6842105263157895,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1664,7 +1664,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2456,7 +2456,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3248,7 +3248,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4040,7 +4040,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4832,7 +4832,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5624,7 +5624,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6416,7 +6416,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7208,7 +7208,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8000,7 +8000,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8792,7 +8792,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9584,7 +9584,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10376,7 +10376,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11168,8 +11168,8 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11960,7 +11960,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12752,8 +12752,8 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13544,8 +13544,8 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14336,7 +14336,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15128,7 +15128,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15920,7 +15920,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16712,7 +16712,7 @@
       "PartidoID": 38,
       "Partido": "Bélgica vs Irán",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
