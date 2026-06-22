@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-22T00:05:25.686Z",
+    "ultimaActualizacion": "2026-06-22T02:51:37.471Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 39,
-    "partidosPendientes": 33,
+    "partidosJugados": 40,
+    "partidosPendientes": 32,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -525,9 +525,9 @@
       "Grupo": "G",
       "Local": "Nueva Zelanda",
       "Visitante": "Egipto",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Egipto",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 21,
-      "Aciertos": 21,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5384615384615384,
-      "Posicion": 10,
+      "Puntos": 22,
+      "Aciertos": 22,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5128205128205128,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.525,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 21,
-      "Aciertos": 21,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5384615384615384,
-      "Posicion": 10,
+      "Puntos": 22,
+      "Aciertos": 22,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5641025641025641,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 21,
-      "Aciertos": 21,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5384615384615384,
-      "Posicion": 10,
+      "Puntos": 22,
+      "Aciertos": 22,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 23,
-      "Aciertos": 23,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5897435897435898,
-      "Posicion": 4,
+      "Puntos": 24,
+      "Aciertos": 24,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.6153846153846154,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.6,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.6153846153846154,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.6,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5641025641025641,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 23,
-      "Aciertos": 23,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5897435897435898,
-      "Posicion": 4,
+      "Puntos": 24,
+      "Aciertos": 24,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 18,
-      "Aciertos": 18,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.46153846153846156,
+      "Puntos": 19,
+      "Aciertos": 19,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.475,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 21,
-      "Aciertos": 21,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5384615384615384,
-      "Posicion": 10,
+      "Puntos": 22,
+      "Aciertos": 22,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1136,11 +1136,11 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 23,
-      "Aciertos": 23,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5897435897435898,
-      "Posicion": 4,
+      "Puntos": 24,
+      "Aciertos": 24,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.6,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 17,
-      "Aciertos": 17,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.4358974358974359,
+      "Puntos": 18,
+      "Aciertos": 18,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.45,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5128205128205128,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.525,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1183,9 +1183,9 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5128205128205128,
-      "Posicion": 14,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.5,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1198,9 +1198,9 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.4358974358974359,
-      "Posicion": 19,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.425,
+      "Posicion": 20,
       "Revision": "OK"
     },
     {
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5128205128205128,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.525,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.5641025641025641,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.55,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 26,
-      "Aciertos": 26,
-      "PartidosJugados": 39,
-      "Porcentaje": 0.6666666666666666,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 40,
+      "Porcentaje": 0.675,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1686,8 +1686,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2478,8 +2478,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3270,8 +3270,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4062,7 +4062,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4854,8 +4854,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5646,8 +5646,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6438,7 +6438,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7230,7 +7230,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8022,7 +8022,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8814,8 +8814,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9606,8 +9606,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10398,8 +10398,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11190,8 +11190,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11982,8 +11982,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12774,8 +12774,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13566,7 +13566,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14358,7 +14358,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15150,8 +15150,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15942,7 +15942,7 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16734,8 +16734,8 @@
       "PartidoID": 40,
       "Partido": "Nueva Zelanda vs Egipto",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
