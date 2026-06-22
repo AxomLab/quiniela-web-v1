@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-21T22:30:31.013Z",
+    "ultimaActualizacion": "2026-06-22T00:05:25.686Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 38,
-    "partidosPendientes": 34,
+    "partidosJugados": 39,
+    "partidosPendientes": 33,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -512,9 +512,9 @@
       "Grupo": "H",
       "Local": "Uruguay",
       "Visitante": "Cabo Verde",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5526315789473685,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5263157894736842,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5128205128205128,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5526315789473685,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5789473684210527,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5641025641025641,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5526315789473685,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.6052631578947368,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5897435897435898,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.631578947368421,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.6153846153846154,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.631578947368421,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.6153846153846154,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5789473684210527,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5641025641025641,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.6052631578947368,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5897435897435898,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 18,
       "Aciertos": 18,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.47368421052631576,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.46153846153846156,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 21,
       "Aciertos": 21,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5526315789473685,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5384615384615384,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.6052631578947368,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5897435897435898,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.4473684210526316,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.4358974358974359,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5263157894736842,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5128205128205128,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 19,
-      "Aciertos": 19,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5,
-      "Posicion": 17,
+      "Puntos": 20,
+      "Aciertos": 20,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5128205128205128,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 17,
       "Aciertos": 17,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.4473684210526316,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.4358974358974359,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5263157894736842,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5128205128205128,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.5789473684210527,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.5641025641025641,
       "Posicion": 7,
       "Revision": "OK"
     },
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 38,
-      "Porcentaje": 0.6842105263157895,
+      "PartidosJugados": 39,
+      "Porcentaje": 0.6666666666666666,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1675,7 +1675,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2467,7 +2467,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3259,7 +3259,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4051,7 +4051,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4843,7 +4843,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5635,7 +5635,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6427,7 +6427,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7219,7 +7219,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8011,7 +8011,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8803,7 +8803,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9595,7 +9595,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10387,7 +10387,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11179,7 +11179,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11971,7 +11971,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12763,7 +12763,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13555,8 +13555,8 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14347,7 +14347,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15139,7 +15139,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15931,7 +15931,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16723,7 +16723,7 @@
       "PartidoID": 39,
       "Partido": "Uruguay vs Cabo Verde",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
