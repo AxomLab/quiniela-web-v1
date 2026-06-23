@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-23T18:53:09.430Z",
+    "ultimaActualizacion": "2026-06-23T22:00:12.534Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 45,
-    "partidosPendientes": 27,
+    "partidosJugados": 46,
+    "partidosPendientes": 26,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -603,9 +603,9 @@
       "Grupo": "L",
       "Local": "Inglaterra",
       "Visitante": "Ghana",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -958,8 +958,8 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5869565217391305,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -973,8 +973,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5777777777777777,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5652173913043478,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -988,8 +988,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5777777777777777,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5652173913043478,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5777777777777777,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5652173913043478,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1018,8 +1018,8 @@
       "Activo": "Sí",
       "Puntos": 25,
       "Aciertos": 25,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5555555555555556,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5434782608695652,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1033,8 +1033,8 @@
       "Activo": "Sí",
       "Puntos": 28,
       "Aciertos": 28,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6222222222222222,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.6086956521739131,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1048,8 +1048,8 @@
       "Activo": "Sí",
       "Puntos": 29,
       "Aciertos": 29,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6444444444444445,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.6304347826086957,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5869565217391305,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5869565217391305,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1093,8 +1093,8 @@
       "Activo": "Sí",
       "Puntos": 28,
       "Aciertos": 28,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6222222222222222,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.6086956521739131,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 22,
       "Aciertos": 22,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.4888888888888889,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.4782608695652174,
       "Posicion": 19,
       "Revision": "OK"
     },
@@ -1123,8 +1123,8 @@
       "Activo": "Sí",
       "Puntos": 26,
       "Aciertos": 26,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5777777777777777,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5652173913043478,
       "Posicion": 10,
       "Revision": "OK"
     },
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5869565217391305,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5111111111111111,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1168,8 +1168,8 @@
       "Activo": "Sí",
       "Puntos": 25,
       "Aciertos": 25,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5555555555555556,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5434782608695652,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5333333333333333,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5217391304347826,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 20,
       "Aciertos": 20,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.4444444444444444,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.43478260869565216,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1213,8 +1213,8 @@
       "Activo": "Sí",
       "Puntos": 25,
       "Aciertos": 25,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.5555555555555556,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5434782608695652,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1228,8 +1228,8 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.6,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.5869565217391305,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 32,
       "Aciertos": 32,
-      "PartidosJugados": 45,
-      "Porcentaje": 0.7111111111111111,
+      "PartidosJugados": 46,
+      "Porcentaje": 0.6956521739130435,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1752,7 +1752,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2544,7 +2544,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3336,7 +3336,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4128,7 +4128,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4920,7 +4920,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5712,7 +5712,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6504,7 +6504,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7296,7 +7296,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8088,7 +8088,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8880,7 +8880,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9672,7 +9672,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10464,7 +10464,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11256,7 +11256,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12048,7 +12048,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12840,7 +12840,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13632,7 +13632,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14424,7 +14424,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15216,7 +15216,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16008,7 +16008,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16800,7 +16800,7 @@
       "PartidoID": 46,
       "Partido": "Inglaterra vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
