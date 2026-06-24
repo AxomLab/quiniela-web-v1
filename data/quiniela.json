@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-23T22:00:12.534Z",
+    "ultimaActualizacion": "2026-06-24T01:54:41.640Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 46,
-    "partidosPendientes": 26,
+    "partidosJugados": 47,
+    "partidosPendientes": 25,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -616,9 +616,9 @@
       "Grupo": "L",
       "Local": "Panamá",
       "Visitante": "Croacia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Croacia",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5869565217391305,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5957446808510638,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 26,
-      "Aciertos": 26,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5652173913043478,
-      "Posicion": 10,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.574468085106383,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 26,
-      "Aciertos": 26,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5652173913043478,
-      "Posicion": 10,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.574468085106383,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 26,
-      "Aciertos": 26,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5652173913043478,
-      "Posicion": 10,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.574468085106383,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 25,
-      "Aciertos": 25,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5434782608695652,
+      "Puntos": 26,
+      "Aciertos": 26,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5531914893617021,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.6086956521739131,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.6170212765957447,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 29,
-      "Aciertos": 29,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.6304347826086957,
+      "Puntos": 30,
+      "Aciertos": 30,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.6382978723404256,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5869565217391305,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5957446808510638,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5869565217391305,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5957446808510638,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.6086956521739131,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.6170212765957447,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1106,11 +1106,11 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 22,
-      "Aciertos": 22,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.4782608695652174,
-      "Posicion": 19,
+      "Puntos": 23,
+      "Aciertos": 23,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.48936170212765956,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 26,
-      "Aciertos": 26,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5652173913043478,
-      "Posicion": 10,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.574468085106383,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5869565217391305,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5957446808510638,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1153,8 +1153,8 @@
       "Activo": "Sí",
       "Puntos": 23,
       "Aciertos": 23,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.48936170212765956,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 25,
-      "Aciertos": 25,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5434782608695652,
+      "Puntos": 26,
+      "Aciertos": 26,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5531914893617021,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5217391304347826,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5106382978723404,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 20,
-      "Aciertos": 20,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.43478260869565216,
+      "Puntos": 21,
+      "Aciertos": 21,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.44680851063829785,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 25,
-      "Aciertos": 25,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5434782608695652,
+      "Puntos": 26,
+      "Aciertos": 26,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.5531914893617021,
       "Posicion": 14,
       "Revision": "OK"
     },
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 27,
       "Aciertos": 27,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.5869565217391305,
-      "Posicion": 5,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.574468085106383,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 46,
-      "Porcentaje": 0.6956521739130435,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 47,
+      "Porcentaje": 0.7021276595744681,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1763,8 +1763,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2555,8 +2555,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3347,8 +3347,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4139,8 +4139,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4931,8 +4931,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5723,8 +5723,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6515,8 +6515,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7307,8 +7307,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8099,8 +8099,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8891,8 +8891,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9683,8 +9683,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10475,8 +10475,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11267,8 +11267,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12059,7 +12059,7 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12851,8 +12851,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13643,7 +13643,7 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14435,8 +14435,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15227,8 +15227,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16019,7 +16019,7 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16811,8 +16811,8 @@
       "PartidoID": 47,
       "Partido": "Panamá vs Croacia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
