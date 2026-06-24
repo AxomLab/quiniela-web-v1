@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-24T03:59:22.613Z",
+    "ultimaActualizacion": "2026-06-24T20:57:45.283Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 48,
-    "partidosPendientes": 24,
+    "partidosJugados": 50,
+    "partidosPendientes": 22,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -642,9 +642,9 @@
       "Grupo": "B",
       "Local": "Suiza",
       "Visitante": "Canadá",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Suiza",
       "Revision": "OK"
     },
     {
@@ -655,9 +655,9 @@
       "Grupo": "B",
       "Local": "Bosnia y Herz.",
       "Visitante": "Qatar",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Bosnia y Herz.",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 29,
-      "Aciertos": 29,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.6041666666666666,
-      "Posicion": 5,
+      "Puntos": 31,
+      "Aciertos": 31,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.62,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.58,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -988,9 +988,9 @@
       "Activo": "Sí",
       "Puntos": 28,
       "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 28,
       "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5625,
-      "Posicion": 14,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 30,
-      "Aciertos": 30,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.625,
+      "Puntos": 31,
+      "Aciertos": 31,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.62,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 31,
       "Aciertos": 31,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.6458333333333334,
-      "Posicion": 2,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.62,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1063,9 +1063,9 @@
       "Activo": "Sí",
       "Puntos": 28,
       "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1078,9 +1078,9 @@
       "Activo": "Sí",
       "Puntos": 29,
       "Aciertos": 29,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.6041666666666666,
-      "Posicion": 5,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.58,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 30,
-      "Aciertos": 30,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.625,
-      "Posicion": 3,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.64,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1108,9 +1108,9 @@
       "Activo": "Sí",
       "Puntos": 24,
       "Aciertos": 24,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5,
-      "Posicion": 18,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.48,
+      "Posicion": 19,
       "Revision": "OK"
     },
     {
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.58,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 29,
       "Aciertos": 29,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.6041666666666666,
-      "Posicion": 5,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.58,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 24,
-      "Aciertos": 24,
-      "PartidosJugados": 48,
+      "Puntos": 25,
+      "Aciertos": 25,
+      "PartidosJugados": 50,
       "Porcentaje": 0.5,
-      "Posicion": 18,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5625,
-      "Posicion": 14,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1183,8 +1183,8 @@
       "Activo": "Sí",
       "Puntos": 25,
       "Aciertos": 25,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5208333333333334,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.5,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 22,
-      "Aciertos": 22,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.4583333333333333,
+      "Puntos": 23,
+      "Aciertos": 23,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.46,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5625,
-      "Posicion": 14,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.56,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.5833333333333334,
-      "Posicion": 8,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.58,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 34,
       "Aciertos": 34,
-      "PartidosJugados": 48,
-      "Porcentaje": 0.7083333333333334,
+      "PartidosJugados": 50,
+      "Porcentaje": 0.68,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1785,8 +1785,8 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1796,8 +1796,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2577,7 +2577,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2588,8 +2588,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3369,7 +3369,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3380,7 +3380,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4161,7 +4161,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4172,7 +4172,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4953,7 +4953,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4964,8 +4964,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5745,7 +5745,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5756,8 +5756,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6537,7 +6537,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6548,7 +6548,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7329,7 +7329,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7340,7 +7340,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8121,7 +8121,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8132,7 +8132,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8913,8 +8913,8 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8924,8 +8924,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9705,7 +9705,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9716,7 +9716,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10497,7 +10497,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10508,8 +10508,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11289,7 +11289,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11300,7 +11300,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12081,8 +12081,8 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12092,7 +12092,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12873,8 +12873,8 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12884,7 +12884,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13665,7 +13665,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13676,7 +13676,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14457,7 +14457,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14468,8 +14468,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15249,7 +15249,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15260,8 +15260,8 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16041,8 +16041,8 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16052,7 +16052,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16833,7 +16833,7 @@
       "PartidoID": 49,
       "Partido": "Suiza vs Canadá",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16844,7 +16844,7 @@
       "PartidoID": 50,
       "Partido": "Bosnia y Herz. vs Qatar",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
