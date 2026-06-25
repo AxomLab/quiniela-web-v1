@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-25T02:58:53.541Z",
+    "ultimaActualizacion": "2026-06-25T22:00:55.924Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 54,
-    "partidosPendientes": 18,
+    "partidosJugados": 56,
+    "partidosPendientes": 16,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -720,9 +720,9 @@
       "Grupo": "E",
       "Local": "Curazao",
       "Visitante": "Costa de Marfil",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Costa de Marfil",
       "Revision": "OK"
     },
     {
@@ -733,9 +733,9 @@
       "Grupo": "E",
       "Local": "Ecuador",
       "Visitante": "Alemania",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Ecuador",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6296296296296297,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5925925925925926,
-      "Posicion": 7,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5892857142857143,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6296296296296297,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1048,9 +1048,9 @@
       "Activo": "Sí",
       "Puntos": 34,
       "Aciertos": 34,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6296296296296297,
-      "Posicion": 2,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.6071428571428571,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 30,
       "Aciertos": 30,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5555555555555556,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5357142857142857,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 33,
       "Aciertos": 33,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6111111111111112,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5892857142857143,
       "Posicion": 6,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6296296296296297,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,9 +1106,9 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 54,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 56,
       "Porcentaje": 0.5,
       "Posicion": 18,
       "Revision": "OK"
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 32,
       "Aciertos": 32,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5925925925925926,
-      "Posicion": 7,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 29,
-      "Aciertos": 29,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5370370370370371,
-      "Posicion": 17,
+      "Puntos": 30,
+      "Aciertos": 30,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5357142857142857,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1181,9 +1181,9 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 54,
+      "Puntos": 28,
+      "Aciertos": 28,
+      "PartidosJugados": 56,
       "Porcentaje": 0.5,
       "Posicion": 18,
       "Revision": "OK"
@@ -1198,8 +1198,8 @@
       "Activo": "Sí",
       "Puntos": 25,
       "Aciertos": 25,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.46296296296296297,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.44642857142857145,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5740740740740741,
-      "Posicion": 10,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.5925925925925926,
-      "Posicion": 7,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.5892857142857143,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 54,
-      "Porcentaje": 0.6851851851851852,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 56,
+      "Porcentaje": 0.6785714285714286,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1851,8 +1851,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1862,7 +1862,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2643,8 +2643,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2654,7 +2654,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3435,8 +3435,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3446,7 +3446,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4227,8 +4227,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4238,7 +4238,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5019,8 +5019,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5030,7 +5030,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5811,8 +5811,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5822,7 +5822,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6603,7 +6603,7 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6614,7 +6614,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7395,7 +7395,7 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7406,7 +7406,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8187,7 +8187,7 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8198,7 +8198,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8979,8 +8979,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8990,7 +8990,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9771,8 +9771,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9782,7 +9782,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10563,8 +10563,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10574,7 +10574,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11355,7 +11355,7 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11366,7 +11366,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12147,8 +12147,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12158,7 +12158,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12939,8 +12939,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12950,7 +12950,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13731,8 +13731,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13742,7 +13742,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14523,7 +14523,7 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14534,7 +14534,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15315,8 +15315,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15326,7 +15326,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16107,8 +16107,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16118,7 +16118,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16899,8 +16899,8 @@
       "PartidoID": 55,
       "Partido": "Curazao vs Costa de Marfil",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16910,7 +16910,7 @@
       "PartidoID": 56,
       "Partido": "Ecuador vs Alemania",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
