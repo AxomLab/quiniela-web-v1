@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-25T22:03:04.479Z",
+    "ultimaActualizacion": "2026-06-26T01:42:42.257Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 56,
-    "partidosPendientes": 16,
+    "partidosJugados": 58,
+    "partidosPendientes": 14,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -746,9 +746,9 @@
       "Grupo": "F",
       "Local": "Japón",
       "Visitante": "Suecia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -759,9 +759,9 @@
       "Grupo": "F",
       "Local": "Túnez",
       "Visitante": "Países Bajos",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Países Bajos",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.625,
-      "Posicion": 2,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.6206896551724138,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5892857142857143,
-      "Posicion": 6,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.603448275862069,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5862068965517241,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1003,9 +1003,9 @@
       "Activo": "Sí",
       "Puntos": 32,
       "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5517241379310345,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5689655172413793,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.625,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.6379310344827587,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.6071428571428571,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.603448275862069,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 30,
-      "Aciertos": 30,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5357142857142857,
+      "Puntos": 31,
+      "Aciertos": 31,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5344827586206896,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5892857142857143,
-      "Posicion": 6,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5862068965517241,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.625,
-      "Posicion": 2,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.6206896551724138,
+      "Posicion": 3,
       "Revision": "OK"
     },
     {
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5,
+      "Puntos": 30,
+      "Aciertos": 30,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5172413793103449,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5689655172413793,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1138,9 +1138,9 @@
       "Activo": "Sí",
       "Puntos": 32,
       "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5517241379310345,
+      "Posicion": 14,
       "Revision": "OK"
     },
     {
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 30,
-      "Aciertos": 30,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5357142857142857,
+      "Puntos": 31,
+      "Aciertos": 31,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5344827586206896,
       "Posicion": 16,
       "Revision": "OK"
     },
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5862068965517241,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 28,
-      "Aciertos": 28,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5,
+      "Puntos": 30,
+      "Aciertos": 30,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5172413793103449,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 25,
-      "Aciertos": 25,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.44642857142857145,
+      "Puntos": 27,
+      "Aciertos": 27,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.46551724137931033,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5714285714285714,
-      "Posicion": 9,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5689655172413793,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 33,
       "Aciertos": 33,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.5892857142857143,
-      "Posicion": 6,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.5689655172413793,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 56,
-      "Porcentaje": 0.6785714285714286,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 58,
+      "Porcentaje": 0.6724137931034483,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1873,7 +1873,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1884,8 +1884,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2665,8 +2665,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2676,8 +2676,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3457,8 +3457,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3468,8 +3468,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4249,7 +4249,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4260,7 +4260,7 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5041,7 +5041,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5052,8 +5052,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5833,8 +5833,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5844,8 +5844,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6625,7 +6625,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6636,8 +6636,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7417,7 +7417,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7428,8 +7428,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8209,7 +8209,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8220,8 +8220,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9001,7 +9001,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9012,8 +9012,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9793,8 +9793,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9804,8 +9804,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10585,7 +10585,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10596,8 +10596,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11377,7 +11377,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11388,7 +11388,7 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12169,7 +12169,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12180,8 +12180,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12961,8 +12961,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12972,8 +12972,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13753,8 +13753,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13764,8 +13764,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14545,8 +14545,8 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14556,8 +14556,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15337,7 +15337,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15348,8 +15348,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16129,7 +16129,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16140,7 +16140,7 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16921,7 +16921,7 @@
       "PartidoID": 57,
       "Partido": "Japón vs Suecia",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16932,8 +16932,8 @@
       "PartidoID": 58,
       "Partido": "Túnez vs Países Bajos",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
