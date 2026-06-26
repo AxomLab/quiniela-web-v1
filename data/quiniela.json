@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-26T04:09:46.984Z",
+    "ultimaActualizacion": "2026-06-26T21:05:09.378Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 60,
-    "partidosPendientes": 12,
+    "partidosJugados": 62,
+    "partidosPendientes": 10,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -798,9 +798,9 @@
       "Grupo": "I",
       "Local": "Noruega",
       "Visitante": "Francia",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Francia",
       "Revision": "OK"
     },
     {
@@ -811,9 +811,9 @@
       "Grupo": "I",
       "Local": "Senegal",
       "Visitante": "Irak",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Senegal",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.6,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.6129032258064516,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -971,10 +971,10 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5833333333333334,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5967741935483871,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -986,10 +986,10 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5666666666666667,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5806451612903226,
       "Posicion": 9,
       "Revision": "OK"
     },
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.55,
-      "Posicion": 12,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5483870967741935,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5666666666666667,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5806451612903226,
       "Posicion": 9,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.6166666666666667,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.6290322580645161,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5833333333333334,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5967741935483871,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1061,11 +1061,11 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5166666666666667,
-      "Posicion": 17,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.532258064516129,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5833333333333334,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5967741935483871,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.6,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.6129032258064516,
       "Posicion": 3,
       "Revision": "OK"
     },
@@ -1106,9 +1106,9 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 30,
-      "Aciertos": 30,
-      "PartidosJugados": 60,
+      "Puntos": 31,
+      "Aciertos": 31,
+      "PartidosJugados": 62,
       "Porcentaje": 0.5,
       "Posicion": 19,
       "Revision": "OK"
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.55,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5645161290322581,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5333333333333333,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.532258064516129,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5333333333333333,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.532258064516129,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1166,10 +1166,10 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5833333333333334,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5967741935483871,
       "Posicion": 5,
       "Revision": "OK"
     },
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5166666666666667,
-      "Posicion": 17,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5161290322580645,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 27,
-      "Aciertos": 27,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.45,
+      "Puntos": 29,
+      "Aciertos": 29,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.46774193548387094,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,10 +1211,10 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.5666666666666667,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5806451612903226,
       "Posicion": 9,
       "Revision": "OK"
     },
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.55,
-      "Posicion": 12,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.5483870967741935,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 60,
-      "Porcentaje": 0.65,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 62,
+      "Porcentaje": 0.6612903225806451,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1917,8 +1917,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1928,8 +1928,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2709,8 +2709,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2720,8 +2720,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3501,8 +3501,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3512,8 +3512,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4293,8 +4293,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4304,7 +4304,7 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5085,8 +5085,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5096,8 +5096,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5877,8 +5877,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5888,8 +5888,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6669,8 +6669,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6680,8 +6680,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7461,8 +7461,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7472,8 +7472,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8253,8 +8253,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8264,8 +8264,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9045,8 +9045,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9056,8 +9056,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9837,8 +9837,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9848,7 +9848,7 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10629,8 +10629,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10640,8 +10640,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11421,8 +11421,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11432,7 +11432,7 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12213,7 +12213,7 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12224,8 +12224,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13005,8 +13005,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13016,8 +13016,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13797,8 +13797,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13808,7 +13808,7 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14589,8 +14589,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14600,8 +14600,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15381,8 +15381,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15392,8 +15392,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16173,8 +16173,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16184,7 +16184,7 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16965,8 +16965,8 @@
       "PartidoID": 61,
       "Partido": "Noruega vs Francia",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16976,8 +16976,8 @@
       "PartidoID": 62,
       "Partido": "Senegal vs Irak",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
