@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-27T05:07:19.720Z",
+    "ultimaActualizacion": "2026-06-27T22:54:34.616Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 66,
-    "partidosPendientes": 6,
+    "partidosJugados": 68,
+    "partidosPendientes": 4,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -876,9 +876,9 @@
       "Grupo": "L",
       "Local": "Croacia",
       "Visitante": "Ghana",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Croacia",
       "Revision": "OK"
     },
     {
@@ -889,9 +889,9 @@
       "Grupo": "L",
       "Local": "Panamá",
       "Visitante": "Inglaterra",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Inglaterra",
       "Revision": "OK"
     },
     {
@@ -956,10 +956,10 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6060606060606061,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6176470588235294,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5909090909090909,
-      "Posicion": 8,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6029411764705882,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5909090909090909,
-      "Posicion": 8,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6029411764705882,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5454545454545454,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5588235294117647,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6060606060606061,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6176470588235294,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6212121212121212,
+      "Puntos": 43,
+      "Aciertos": 43,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6323529411764706,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6060606060606061,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6176470588235294,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5454545454545454,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5588235294117647,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5757575757575758,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5882352941176471,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6212121212121212,
+      "Puntos": 43,
+      "Aciertos": 43,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6323529411764706,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5151515151515151,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5294117647058824,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5606060606060606,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5735294117647058,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5151515151515151,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5294117647058824,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5303030303030303,
-      "Posicion": 16,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5441176470588235,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6060606060606061,
-      "Posicion": 4,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6029411764705882,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5303030303030303,
-      "Posicion": 16,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5441176470588235,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.4696969696969697,
+      "Puntos": 33,
+      "Aciertos": 33,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.4852941176470588,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5909090909090909,
-      "Posicion": 8,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6029411764705882,
+      "Posicion": 7,
       "Revision": "OK"
     },
     {
@@ -1226,11 +1226,11 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.5454545454545454,
-      "Posicion": 13,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.5441176470588235,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 43,
-      "Aciertos": 43,
-      "PartidosJugados": 66,
-      "Porcentaje": 0.6515151515151515,
+      "Puntos": 45,
+      "Aciertos": 45,
+      "PartidosJugados": 68,
+      "Porcentaje": 0.6617647058823529,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1983,8 +1983,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -1994,8 +1994,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2775,8 +2775,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2786,8 +2786,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3567,8 +3567,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3578,8 +3578,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4359,8 +4359,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4370,8 +4370,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5151,8 +5151,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5162,8 +5162,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5943,8 +5943,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5954,8 +5954,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6735,8 +6735,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6746,8 +6746,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7527,8 +7527,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7538,8 +7538,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8319,8 +8319,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8330,8 +8330,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9111,8 +9111,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9122,8 +9122,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9903,8 +9903,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9914,8 +9914,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10695,8 +10695,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10706,8 +10706,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11487,8 +11487,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11498,8 +11498,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12279,8 +12279,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12290,8 +12290,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13071,7 +13071,7 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13082,8 +13082,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13863,8 +13863,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13874,8 +13874,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14655,8 +14655,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14666,8 +14666,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15447,8 +15447,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15458,8 +15458,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16239,8 +16239,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16250,7 +16250,7 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -17031,8 +17031,8 @@
       "PartidoID": 67,
       "Partido": "Croacia vs Ghana",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -17042,8 +17042,8 @@
       "PartidoID": 68,
       "Partido": "Panamá vs Inglaterra",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
