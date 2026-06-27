@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-26T21:05:09.378Z",
+    "ultimaActualizacion": "2026-06-27T02:04:46.442Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 62,
-    "partidosPendientes": 10,
+    "partidosJugados": 64,
+    "partidosPendientes": 8,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -824,9 +824,9 @@
       "Grupo": "H",
       "Local": "Cabo Verde",
       "Visitante": "Arabia Saudita",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -837,9 +837,9 @@
       "Grupo": "H",
       "Local": "Uruguay",
       "Visitante": "España",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "España",
       "Revision": "OK"
     },
     {
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.6129032258064516,
-      "Posicion": 3,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.609375,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5967741935483871,
-      "Posicion": 5,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.59375,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5806451612903226,
-      "Posicion": 9,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.578125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1001,10 +1001,10 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5483870967741935,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.546875,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5806451612903226,
-      "Posicion": 9,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.59375,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1031,10 +1031,10 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.6290322580645161,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5967741935483871,
-      "Posicion": 5,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.609375,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.532258064516129,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.53125,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1076,11 +1076,11 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5967741935483871,
-      "Posicion": 5,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.59375,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1091,11 +1091,11 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.6129032258064516,
-      "Posicion": 3,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.625,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1106,9 +1106,9 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 31,
-      "Aciertos": 31,
-      "PartidosJugados": 62,
+      "Puntos": 32,
+      "Aciertos": 32,
+      "PartidosJugados": 64,
       "Porcentaje": 0.5,
       "Posicion": 19,
       "Revision": "OK"
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 35,
-      "Aciertos": 35,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5645161290322581,
+      "Puntos": 36,
+      "Aciertos": 36,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.5625,
       "Posicion": 12,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.532258064516129,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.53125,
       "Posicion": 15,
       "Revision": "OK"
     },
@@ -1153,9 +1153,9 @@
       "Activo": "Sí",
       "Puntos": 33,
       "Aciertos": 33,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.532258064516129,
-      "Posicion": 15,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.515625,
+      "Posicion": 18,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5967741935483871,
-      "Posicion": 5,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.59375,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 32,
-      "Aciertos": 32,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5161290322580645,
-      "Posicion": 18,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.53125,
+      "Posicion": 15,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 29,
-      "Aciertos": 29,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.46774193548387094,
+      "Puntos": 30,
+      "Aciertos": 30,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.46875,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5806451612903226,
-      "Posicion": 9,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.578125,
+      "Posicion": 10,
       "Revision": "OK"
     },
     {
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.5483870967741935,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.546875,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 62,
-      "Porcentaje": 0.6612903225806451,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 64,
+      "Porcentaje": 0.65625,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -1939,7 +1939,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -1950,8 +1950,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2731,8 +2731,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2742,7 +2742,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3523,7 +3523,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3534,8 +3534,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4315,7 +4315,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4326,8 +4326,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5107,8 +5107,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5118,8 +5118,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5899,8 +5899,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5910,7 +5910,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6691,8 +6691,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6702,8 +6702,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7483,7 +7483,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7494,8 +7494,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8275,7 +8275,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8286,8 +8286,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9067,8 +9067,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9078,8 +9078,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9859,8 +9859,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9870,7 +9870,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10651,8 +10651,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10662,7 +10662,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11443,7 +11443,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11454,8 +11454,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12235,7 +12235,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12246,7 +12246,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13027,8 +13027,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13038,7 +13038,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13819,8 +13819,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13830,8 +13830,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14611,8 +14611,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14622,7 +14622,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15403,8 +15403,8 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15414,7 +15414,7 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "V",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16195,7 +16195,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16206,8 +16206,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16987,7 +16987,7 @@
       "PartidoID": 63,
       "Partido": "Cabo Verde vs Arabia Saudita",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16998,8 +16998,8 @@
       "PartidoID": 64,
       "Partido": "Uruguay vs España",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
