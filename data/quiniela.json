@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-28T01:30:11.014Z",
+    "ultimaActualizacion": "2026-06-28T04:02:40.043Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 70,
-    "partidosPendientes": 2,
+    "partidosJugados": 72,
+    "partidosPendientes": 0,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -928,9 +928,9 @@
       "Grupo": "J",
       "Local": "Argelia",
       "Visitante": "Austria",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -941,9 +941,9 @@
       "Grupo": "J",
       "Local": "Jordania",
       "Visitante": "Argentina",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "V",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Argentina",
       "Revision": "OK"
     }
   ],
@@ -956,11 +956,11 @@
       "Avatar": "Juan_v3.png",
       "Color": "#E53935",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6,
-      "Posicion": 6,
+      "Puntos": 43,
+      "Aciertos": 43,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5972222222222222,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6,
-      "Posicion": 6,
+      "Puntos": 43,
+      "Aciertos": 43,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5972222222222222,
+      "Posicion": 9,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6,
-      "Posicion": 6,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.6111111111111112,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1001,11 +1001,11 @@
       "Avatar": "Cyn.png",
       "Color": "#FB8C00",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5428571428571428,
-      "Posicion": 13,
+      "Puntos": 39,
+      "Aciertos": 39,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5416666666666666,
+      "Posicion": 16,
       "Revision": "OK"
     },
     {
@@ -1016,11 +1016,11 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 43,
-      "Aciertos": 43,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6142857142857143,
-      "Posicion": 4,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.6111111111111112,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1031,11 +1031,11 @@
       "Avatar": "Mtra_Juanita.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 43,
-      "Aciertos": 43,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6142857142857143,
-      "Posicion": 4,
+      "Puntos": 45,
+      "Aciertos": 45,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.625,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1046,10 +1046,10 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 44,
-      "Aciertos": 44,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6285714285714286,
+      "Puntos": 45,
+      "Aciertos": 45,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1061,10 +1061,10 @@
       "Avatar": "Ara.png",
       "Color": "#6D4C41",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5428571428571428,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1076,10 +1076,10 @@
       "Avatar": "Prof_Jorge.png",
       "Color": "#3949AB",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5714285714285714,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5694444444444444,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 44,
-      "Aciertos": 44,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6285714285714286,
+      "Puntos": 45,
+      "Aciertos": 45,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.625,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1106,10 +1106,10 @@
       "Avatar": "Rojas.png",
       "Color": "#7CB342",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5142857142857142,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5138888888888888,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1121,10 +1121,10 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 40,
-      "Aciertos": 40,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5714285714285714,
+      "Puntos": 41,
+      "Aciertos": 41,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5694444444444444,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1136,10 +1136,10 @@
       "Avatar": "Kare.png",
       "Color": "#5E35B1",
       "Activo": "Sí",
-      "Puntos": 36,
-      "Aciertos": 36,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5142857142857142,
+      "Puntos": 37,
+      "Aciertos": 37,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5138888888888888,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1151,10 +1151,10 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5428571428571428,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6,
-      "Posicion": 6,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.6111111111111112,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1181,10 +1181,10 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 38,
-      "Aciertos": 38,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5428571428571428,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5555555555555556,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 34,
-      "Aciertos": 34,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.4857142857142857,
+      "Puntos": 35,
+      "Aciertos": 35,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.4861111111111111,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6,
-      "Posicion": 6,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.6111111111111112,
+      "Posicion": 5,
       "Revision": "OK"
     },
     {
@@ -1226,10 +1226,10 @@
       "Avatar": "John.png",
       "Color": "#F4511E",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.5285714285714286,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.5277777777777778,
       "Posicion": 17,
       "Revision": "OK"
     },
@@ -1241,10 +1241,10 @@
       "Avatar": "Johnny.png",
       "Color": "#757575",
       "Activo": "Sí",
-      "Puntos": 45,
-      "Aciertos": 45,
-      "PartidosJugados": 70,
-      "Porcentaje": 0.6428571428571429,
+      "Puntos": 46,
+      "Aciertos": 46,
+      "PartidosJugados": 72,
+      "Porcentaje": 0.6388888888888888,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -2027,7 +2027,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2038,8 +2038,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2819,7 +2819,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2830,8 +2830,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3611,8 +3611,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -3622,8 +3622,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4403,7 +4403,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4414,8 +4414,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5195,7 +5195,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5206,8 +5206,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5987,8 +5987,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5998,8 +5998,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6779,7 +6779,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6790,8 +6790,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7571,8 +7571,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7582,8 +7582,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -8363,7 +8363,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8374,8 +8374,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9155,7 +9155,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9166,8 +9166,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9947,7 +9947,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9958,8 +9958,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10739,7 +10739,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10750,8 +10750,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -11531,7 +11531,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11542,8 +11542,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12323,8 +12323,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12334,8 +12334,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13115,8 +13115,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13126,8 +13126,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13907,8 +13907,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13918,8 +13918,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14699,7 +14699,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14710,8 +14710,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15491,8 +15491,8 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15502,8 +15502,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -16283,7 +16283,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16294,8 +16294,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -17075,7 +17075,7 @@
       "PartidoID": 71,
       "Partido": "Argelia vs Austria",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -17086,8 +17086,8 @@
       "PartidoID": 72,
       "Partido": "Jordania vs Argentina",
       "Pronostico": "V",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "V",
+      "Punto": 1,
       "Validacion": "OK"
     }
   ],
