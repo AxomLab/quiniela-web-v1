@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "ultimaActualizacion": "2026-06-27T22:54:34.616Z",
+    "ultimaActualizacion": "2026-06-28T01:30:11.014Z",
     "totalParticipantes": 20,
     "participantesActivos": 20,
-    "partidosJugados": 68,
-    "partidosPendientes": 4,
+    "partidosJugados": 70,
+    "partidosPendientes": 2,
     "totalPartidos": 72,
     "fuente": "Google Sheets",
     "modo": "produccion"
@@ -902,9 +902,9 @@
       "Grupo": "K",
       "Local": "Colombia",
       "Visitante": "Portugal",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "E",
+      "Estado": "Jugado",
+      "ResultadoTexto": "Empate",
       "Revision": "OK"
     },
     {
@@ -915,9 +915,9 @@
       "Grupo": "K",
       "Local": "RD del Congo",
       "Visitante": "Uzbekistán",
-      "ResultadoReal": "",
-      "Estado": "Pendiente",
-      "ResultadoTexto": "",
+      "ResultadoReal": "L",
+      "Estado": "Jugado",
+      "ResultadoTexto": "RD del Congo",
       "Revision": "OK"
     },
     {
@@ -958,9 +958,9 @@
       "Activo": "Sí",
       "Puntos": 42,
       "Aciertos": 42,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6176470588235294,
-      "Posicion": 4,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -971,11 +971,11 @@
       "Avatar": "Saul-v2.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6029411764705882,
-      "Posicion": 7,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -986,11 +986,11 @@
       "Avatar": "Alex.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6029411764705882,
-      "Posicion": 7,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1003,8 +1003,8 @@
       "Activo": "Sí",
       "Puntos": 38,
       "Aciertos": 38,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5588235294117647,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5428571428571428,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1016,10 +1016,10 @@
       "Avatar": "Arturo-v2.png",
       "Color": "#8E24AA",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6176470588235294,
+      "Puntos": 43,
+      "Aciertos": 43,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6142857142857143,
       "Posicion": 4,
       "Revision": "OK"
     },
@@ -1033,9 +1033,9 @@
       "Activo": "Sí",
       "Puntos": 43,
       "Aciertos": 43,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6323529411764706,
-      "Posicion": 2,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6142857142857143,
+      "Posicion": 4,
       "Revision": "OK"
     },
     {
@@ -1046,11 +1046,11 @@
       "Avatar": "Bertitha.png",
       "Color": "#FDD835",
       "Activo": "Sí",
-      "Puntos": 42,
-      "Aciertos": 42,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6176470588235294,
-      "Posicion": 4,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6285714285714286,
+      "Posicion": 2,
       "Revision": "OK"
     },
     {
@@ -1063,8 +1063,8 @@
       "Activo": "Sí",
       "Puntos": 38,
       "Aciertos": 38,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5588235294117647,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5428571428571428,
       "Posicion": 13,
       "Revision": "OK"
     },
@@ -1078,8 +1078,8 @@
       "Activo": "Sí",
       "Puntos": 40,
       "Aciertos": 40,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5882352941176471,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5714285714285714,
       "Posicion": 11,
       "Revision": "OK"
     },
@@ -1091,10 +1091,10 @@
       "Avatar": "Victor.png",
       "Color": "#D81B60",
       "Activo": "Sí",
-      "Puntos": 43,
-      "Aciertos": 43,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6323529411764706,
+      "Puntos": 44,
+      "Aciertos": 44,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6285714285714286,
       "Posicion": 2,
       "Revision": "OK"
     },
@@ -1108,8 +1108,8 @@
       "Activo": "Sí",
       "Puntos": 36,
       "Aciertos": 36,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5294117647058824,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5142857142857142,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1121,11 +1121,11 @@
       "Avatar": "Rodo.png",
       "Color": "#00897B",
       "Activo": "Sí",
-      "Puntos": 39,
-      "Aciertos": 39,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5735294117647058,
-      "Posicion": 12,
+      "Puntos": 40,
+      "Aciertos": 40,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5714285714285714,
+      "Posicion": 11,
       "Revision": "OK"
     },
     {
@@ -1138,8 +1138,8 @@
       "Activo": "Sí",
       "Puntos": 36,
       "Aciertos": 36,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5294117647058824,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5142857142857142,
       "Posicion": 18,
       "Revision": "OK"
     },
@@ -1151,11 +1151,11 @@
       "Avatar": "Francisco.png",
       "Color": "#1E88E5",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5441176470588235,
-      "Posicion": 15,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5428571428571428,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1166,11 +1166,11 @@
       "Avatar": "Paco.png",
       "Color": "#00ACC1",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6029411764705882,
-      "Posicion": 7,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1181,11 +1181,11 @@
       "Avatar": "Shishi.png",
       "Color": "#43A047",
       "Activo": "Sí",
-      "Puntos": 37,
-      "Aciertos": 37,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5441176470588235,
-      "Posicion": 15,
+      "Puntos": 38,
+      "Aciertos": 38,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5428571428571428,
+      "Posicion": 13,
       "Revision": "OK"
     },
     {
@@ -1196,10 +1196,10 @@
       "Avatar": "Anita.png",
       "Color": "#C0CA33",
       "Activo": "Sí",
-      "Puntos": 33,
-      "Aciertos": 33,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.4852941176470588,
+      "Puntos": 34,
+      "Aciertos": 34,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.4857142857142857,
       "Posicion": 20,
       "Revision": "OK"
     },
@@ -1211,11 +1211,11 @@
       "Avatar": "Brith.png",
       "Color": "#FFB300",
       "Activo": "Sí",
-      "Puntos": 41,
-      "Aciertos": 41,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6029411764705882,
-      "Posicion": 7,
+      "Puntos": 42,
+      "Aciertos": 42,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6,
+      "Posicion": 6,
       "Revision": "OK"
     },
     {
@@ -1228,9 +1228,9 @@
       "Activo": "Sí",
       "Puntos": 37,
       "Aciertos": 37,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.5441176470588235,
-      "Posicion": 15,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.5285714285714286,
+      "Posicion": 17,
       "Revision": "OK"
     },
     {
@@ -1243,8 +1243,8 @@
       "Activo": "Sí",
       "Puntos": 45,
       "Aciertos": 45,
-      "PartidosJugados": 68,
-      "Porcentaje": 0.6617647058823529,
+      "PartidosJugados": 70,
+      "Porcentaje": 0.6428571428571429,
       "Posicion": 1,
       "Revision": "OK"
     }
@@ -2005,7 +2005,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2016,7 +2016,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -2797,8 +2797,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -2808,7 +2808,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3589,7 +3589,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -3600,8 +3600,8 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -4381,7 +4381,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -4392,7 +4392,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5173,8 +5173,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -5184,7 +5184,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5965,7 +5965,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -5976,7 +5976,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -6757,8 +6757,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -6768,8 +6768,8 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -7549,7 +7549,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -7560,7 +7560,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8341,7 +8341,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -8352,7 +8352,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9133,7 +9133,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9144,8 +9144,8 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "L",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "L",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -9925,7 +9925,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -9936,7 +9936,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -10717,8 +10717,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -10728,7 +10728,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11509,7 +11509,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -11520,7 +11520,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -12301,8 +12301,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -12312,7 +12312,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13093,8 +13093,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13104,7 +13104,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -13885,8 +13885,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -13896,7 +13896,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -14677,8 +14677,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -14688,7 +14688,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -15469,8 +15469,8 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "E",
-      "ResultadoReal": "",
-      "Punto": 0,
+      "ResultadoReal": "E",
+      "Punto": 1,
       "Validacion": "OK"
     },
     {
@@ -15480,7 +15480,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16261,7 +16261,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "L",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -16272,7 +16272,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -17053,7 +17053,7 @@
       "PartidoID": 69,
       "Partido": "Colombia vs Portugal",
       "Pronostico": "V",
-      "ResultadoReal": "",
+      "ResultadoReal": "E",
       "Punto": 0,
       "Validacion": "OK"
     },
@@ -17064,7 +17064,7 @@
       "PartidoID": 70,
       "Partido": "RD del Congo vs Uzbekistán",
       "Pronostico": "E",
-      "ResultadoReal": "",
+      "ResultadoReal": "L",
       "Punto": 0,
       "Validacion": "OK"
     },
